@@ -1,0 +1,7628 @@
+{
+  "1": {
+    "uid": 1,
+    "nom": "Acton Vale",
+    "unique_identifier": 48028,
+    "region": "Montérégie"
+  },
+  "2": {
+    "uid": 2,
+    "nom": "Alma",
+    "unique_identifier": 93042,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "3": {
+    "uid": 3,
+    "nom": "Amos",
+    "unique_identifier": 88055,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "4": {
+    "uid": 4,
+    "nom": "L'Anse-Saint-Jean",
+    "unique_identifier": 94210,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "5": {
+    "uid": 5,
+    "nom": "Sainte-Anne-des-Monts",
+    "unique_identifier": 4037,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "6": {
+    "uid": 6,
+    "nom": "Val-des-Sources",
+    "unique_identifier": 40043,
+    "region": "Estrie"
+  },
+  "7": {
+    "uid": 7,
+    "nom": "Gatineau",
+    "unique_identifier": 81017,
+    "region": "Outaouais"
+  },
+  "8": {
+    "uid": 8,
+    "nom": "Baie-Comeau",
+    "unique_identifier": 96020,
+    "region": "Côte-Nord"
+  },
+  "9": {
+    "uid": 9,
+    "nom": "Baie-Saint-Paul",
+    "unique_identifier": 16013,
+    "region": "Capitale Nationale"
+  },
+  "10": {
+    "uid": 10,
+    "nom": "Beauharnois",
+    "unique_identifier": 70022,
+    "region": "Montérégie"
+  },
+  "11": {
+    "uid": 11,
+    "nom": "Bedford",
+    "unique_identifier": 46035,
+    "region": "Montérégie"
+  },
+  "12": {
+    "uid": 12,
+    "nom": "Beloeil",
+    "unique_identifier": 57040,
+    "region": "Montérégie"
+  },
+  "13": {
+    "uid": 13,
+    "nom": "Bonaventure",
+    "unique_identifier": 5045,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "14": {
+    "uid": 14,
+    "nom": "Brossard",
+    "unique_identifier": 58007,
+    "region": "Montérégie"
+  },
+  "16": {
+    "uid": 16,
+    "nom": "Campbell's Bay",
+    "unique_identifier": 84030,
+    "region": "Outaouais"
+  },
+  "17": {
+    "uid": 17,
+    "nom": "Trois-Rivières",
+    "unique_identifier": 37067,
+    "region": "Mauricie"
+  },
+  "18": {
+    "uid": 18,
+    "nom": "Saint-Tite",
+    "unique_identifier": 35027,
+    "region": "Mauricie"
+  },
+  "19": {
+    "uid": 19,
+    "nom": "Cap-aux-Meules",
+    "unique_identifier": 0,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "20": {
+    "uid": 20,
+    "nom": "Carleton",
+    "unique_identifier": 0,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "21": {
+    "uid": 21,
+    "nom": "Chibougamau",
+    "unique_identifier": 99025,
+    "region": "Nord-du-Québec"
+  },
+  "22": {
+    "uid": 22,
+    "nom": "Coaticook",
+    "unique_identifier": 44037,
+    "region": "Estrie"
+  },
+  "23": {
+    "uid": 23,
+    "nom": "Cookshire-Eaton",
+    "unique_identifier": 41038,
+    "region": "Estrie"
+  },
+  "24": {
+    "uid": 24,
+    "nom": "Saint-Apollinaire",
+    "unique_identifier": 33090,
+    "region": "Chaudière-Appalaches"
+  },
+  "25": {
+    "uid": 25,
+    "nom": "Deschaillons-sur-Saint-Laurent",
+    "unique_identifier": 38070,
+    "region": "Centre-du-Québec"
+  },
+  "26": {
+    "uid": 26,
+    "nom": "Saint-Pascal",
+    "unique_identifier": 14018,
+    "region": "Bas-Saint-Laurent"
+  },
+  "27": {
+    "uid": 27,
+    "nom": "Disraeli",
+    "unique_identifier": 31015,
+    "region": "Chaudière-Appalaches"
+  },
+  "28": {
+    "uid": 28,
+    "nom": "Saint-Raymond",
+    "unique_identifier": 34128,
+    "region": "Capitale Nationale"
+  },
+  "29": {
+    "uid": 29,
+    "nom": "Dolbeau-Mistassini",
+    "unique_identifier": 92022,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "30": {
+    "uid": 30,
+    "nom": "Donnacona",
+    "unique_identifier": 34025,
+    "region": "Capitale Nationale"
+  },
+  "31": {
+    "uid": 31,
+    "nom": "Drummondville",
+    "unique_identifier": 49058,
+    "region": "Centre-du-Québec"
+  },
+  "32": {
+    "uid": 32,
+    "nom": "Forestville",
+    "unique_identifier": 95045,
+    "region": "Côte-Nord"
+  },
+  "33": {
+    "uid": 33,
+    "nom": "Gaspé",
+    "unique_identifier": 3005,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "34": {
+    "uid": 34,
+    "nom": "Bécancour",
+    "unique_identifier": 38010,
+    "region": "Centre-du-Québec"
+  },
+  "35": {
+    "uid": 35,
+    "nom": "Gracefield",
+    "unique_identifier": 83032,
+    "region": "Outaouais"
+  },
+  "36": {
+    "uid": 36,
+    "nom": "Granby",
+    "unique_identifier": 47017,
+    "region": "Montérégie"
+  },
+  "37": {
+    "uid": 37,
+    "nom": "Grande-Vallée",
+    "unique_identifier": 3020,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "38": {
+    "uid": 38,
+    "nom": "Joliette",
+    "unique_identifier": 61025,
+    "region": "Lanaudière"
+  },
+  "39": {
+    "uid": 39,
+    "nom": "Saguenay",
+    "unique_identifier": 94068,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "40": {
+    "uid": 40,
+    "nom": "Saint-Évariste-de-Forsyth",
+    "unique_identifier": 29025,
+    "region": "Chaudière-Appalaches"
+  },
+  "41": {
+    "uid": 41,
+    "nom": "La Sarre",
+    "unique_identifier": 87090,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "42": {
+    "uid": 42,
+    "nom": "La Tuque",
+    "unique_identifier": 90012,
+    "region": "Mauricie"
+  },
+  "43": {
+    "uid": 43,
+    "nom": "Lac-Mégantic",
+    "unique_identifier": 30030,
+    "region": "Estrie"
+  },
+  "44": {
+    "uid": 44,
+    "nom": "Lachute",
+    "unique_identifier": 76020,
+    "region": "Laurentides"
+  },
+  "45": {
+    "uid": 45,
+    "nom": "Lacolle",
+    "unique_identifier": 56023,
+    "region": "Montérégie"
+  },
+  "46": {
+    "uid": 46,
+    "nom": "La Prairie",
+    "unique_identifier": 67015,
+    "region": "Montérégie"
+  },
+  "47": {
+    "uid": 47,
+    "nom": "Laval",
+    "unique_identifier": 65005,
+    "region": "Laval"
+  },
+  "48": {
+    "uid": 48,
+    "nom": "La Malbaie",
+    "unique_identifier": 15013,
+    "region": "Capitale Nationale"
+  },
+  "49": {
+    "uid": 49,
+    "nom": "Les Escoumins",
+    "unique_identifier": 95025,
+    "region": "Côte-Nord"
+  },
+  "50": {
+    "uid": 50,
+    "nom": "Lévis",
+    "unique_identifier": 25213,
+    "region": "Chaudière-Appalaches"
+  },
+  "51": {
+    "uid": 51,
+    "nom": "Longueuil",
+    "unique_identifier": 58227,
+    "region": "Montérégie"
+  },
+  "52": {
+    "uid": 52,
+    "nom": "Louiseville",
+    "unique_identifier": 51015,
+    "region": "Mauricie"
+  },
+  "53": {
+    "uid": 53,
+    "nom": "Maniwaki",
+    "unique_identifier": 83065,
+    "region": "Outaouais"
+  },
+  "54": {
+    "uid": 54,
+    "nom": "Mascouche",
+    "unique_identifier": 64015,
+    "region": "Lanaudière"
+  },
+  "55": {
+    "uid": 55,
+    "nom": "Matagami",
+    "unique_identifier": 99015,
+    "region": "Nord-du-Québec"
+  },
+  "56": {
+    "uid": 56,
+    "nom": "Matane",
+    "unique_identifier": 8053,
+    "region": "Bas-Saint-Laurent"
+  },
+  "57": {
+    "uid": 57,
+    "nom": "Matapédia",
+    "unique_identifier": 6045,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "58": {
+    "uid": 58,
+    "nom": "Mont-Laurier",
+    "unique_identifier": 79088,
+    "region": "Laurentides"
+  },
+  "59": {
+    "uid": 59,
+    "nom": "Montmagny",
+    "unique_identifier": 18050,
+    "region": "Chaudière-Appalaches"
+  },
+  "60": {
+    "uid": 60,
+    "nom": "Montréal",
+    "unique_identifier": 66023,
+    "region": "Montréal"
+  },
+  "61": {
+    "uid": 61,
+    "nom": "Pointe-Claire",
+    "unique_identifier": 66097,
+    "region": "Montréal"
+  },
+  "63": {
+    "uid": 63,
+    "nom": "Dorval",
+    "unique_identifier": 66087,
+    "region": "Montréal"
+  },
+  "64": {
+    "uid": 64,
+    "nom": "Nicolet",
+    "unique_identifier": 50072,
+    "region": "Centre-du-Québec"
+  },
+  "65": {
+    "uid": 65,
+    "nom": "Papineauville",
+    "unique_identifier": 80037,
+    "region": "Outaouais"
+  },
+  "66": {
+    "uid": 66,
+    "nom": "Plessisville",
+    "unique_identifier": 32040,
+    "region": "Centre-du-Québec"
+  },
+  "67": {
+    "uid": 67,
+    "nom": "Radisson",
+    "unique_identifier": 0,
+    "region": "Nord-du-Québec"
+  },
+  "68": {
+    "uid": 68,
+    "nom": "Port-Cartier",
+    "unique_identifier": 97022,
+    "region": "Côte-Nord"
+  },
+  "69": {
+    "uid": 69,
+    "nom": "Québec",
+    "unique_identifier": 23027,
+    "region": "Capitale Nationale"
+  },
+  "70": {
+    "uid": 70,
+    "nom": "Richmond",
+    "unique_identifier": 42098,
+    "region": "Estrie"
+  },
+  "71": {
+    "uid": 71,
+    "nom": "Rimouski",
+    "unique_identifier": 10043,
+    "region": "Bas-Saint-Laurent"
+  },
+  "72": {
+    "uid": 72,
+    "nom": "Rivière-du-Loup",
+    "unique_identifier": 12072,
+    "region": "Bas-Saint-Laurent"
+  },
+  "73": {
+    "uid": 73,
+    "nom": "Roberval",
+    "unique_identifier": 91025,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "74": {
+    "uid": 74,
+    "nom": "Rouyn-Noranda",
+    "unique_identifier": 86042,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "75": {
+    "uid": 75,
+    "nom": "Saint-Jérôme",
+    "unique_identifier": 75017,
+    "region": "Laurentides"
+  },
+  "76": {
+    "uid": 76,
+    "nom": "Saint-Esprit",
+    "unique_identifier": 63030,
+    "region": "Lanaudière"
+  },
+  "77": {
+    "uid": 77,
+    "nom": "Saint-Eustache",
+    "unique_identifier": 72005,
+    "region": "Laurentides"
+  },
+  "78": {
+    "uid": 78,
+    "nom": "Saint-Hubert",
+    "unique_identifier": 0,
+    "region": "Montérégie"
+  },
+  "79": {
+    "uid": 79,
+    "nom": "Saint-Hyacinthe",
+    "unique_identifier": 54048,
+    "region": "Montérégie"
+  },
+  "80": {
+    "uid": 80,
+    "nom": "Saint-Jean-sur-Richelieu",
+    "unique_identifier": 56083,
+    "region": "Montérégie"
+  },
+  "81": {
+    "uid": 81,
+    "nom": "Saint-Joseph-de-Beauce",
+    "unique_identifier": 27043,
+    "region": "Chaudière-Appalaches"
+  },
+  "82": {
+    "uid": 82,
+    "nom": "Mont-Tremblant",
+    "unique_identifier": 78102,
+    "region": "Laurentides"
+  },
+  "83": {
+    "uid": 83,
+    "nom": "Saint-Marc-des-Carrières",
+    "unique_identifier": 34065,
+    "region": "Capitale Nationale"
+  },
+  "84": {
+    "uid": 84,
+    "nom": "Saint-Pamphile-de-l'Islet",
+    "unique_identifier": 0,
+    "region": "Chaudière-Appalaches"
+  },
+  "85": {
+    "uid": 85,
+    "nom": "Chandler",
+    "unique_identifier": 2028,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "86": {
+    "uid": 86,
+    "nom": "Saint-Raphaël",
+    "unique_identifier": 19082,
+    "region": "Chaudière-Appalaches"
+  },
+  "87": {
+    "uid": 87,
+    "nom": "Saint-Rémi",
+    "unique_identifier": 68055,
+    "region": "Montérégie"
+  },
+  "88": {
+    "uid": 88,
+    "nom": "Sainte-Agathe-des-Monts",
+    "unique_identifier": 78032,
+    "region": "Laurentides"
+  },
+  "89": {
+    "uid": 89,
+    "nom": "Sainte-Claire",
+    "unique_identifier": 19055,
+    "region": "Chaudière-Appalaches"
+  },
+  "90": {
+    "uid": 90,
+    "nom": "Havre-Saint-Pierre",
+    "unique_identifier": 98040,
+    "region": "Côte-Nord"
+  },
+  "91": {
+    "uid": 91,
+    "nom": "Saint-Michel-des-Saints",
+    "unique_identifier": 62085,
+    "region": "Lanaudière"
+  },
+  "92": {
+    "uid": 92,
+    "nom": "Sainte-Marie-de-Beauce",
+    "unique_identifier": 0,
+    "region": "Chaudière-Appalaches"
+  },
+  "93": {
+    "uid": 93,
+    "nom": "Sainte-Thérèse",
+    "unique_identifier": 73010,
+    "region": "Laurentides"
+  },
+  "94": {
+    "uid": 94,
+    "nom": "Salaberry-de-Valleyfield",
+    "unique_identifier": 70052,
+    "region": "Montérégie"
+  },
+  "95": {
+    "uid": 95,
+    "nom": "Senneterre",
+    "unique_identifier": 89045,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "96": {
+    "uid": 96,
+    "nom": "Sept-Îles",
+    "unique_identifier": 97007,
+    "region": "Côte-Nord"
+  },
+  "97": {
+    "uid": 97,
+    "nom": "Shawinigan",
+    "unique_identifier": 36033,
+    "region": "Mauricie"
+  },
+  "98": {
+    "uid": 98,
+    "nom": "Sherbrooke",
+    "unique_identifier": 43027,
+    "region": "Estrie"
+  },
+  "99": {
+    "uid": 99,
+    "nom": "Sorel-Tracy",
+    "unique_identifier": 53052,
+    "region": "Montérégie"
+  },
+  "100": {
+    "uid": 100,
+    "nom": "Témiscaming",
+    "unique_identifier": 85005,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "101": {
+    "uid": 101,
+    "nom": "Thetford Mines",
+    "unique_identifier": 31084,
+    "region": "Chaudière-Appalaches"
+  },
+  "102": {
+    "uid": 102,
+    "nom": "Trois-Pistoles",
+    "unique_identifier": 11040,
+    "region": "Bas-Saint-Laurent"
+  },
+  "103": {
+    "uid": 103,
+    "nom": "Val-d'Or",
+    "unique_identifier": 89008,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "104": {
+    "uid": 104,
+    "nom": "Vaudreuil-Dorion",
+    "unique_identifier": 71083,
+    "region": "Montérégie"
+  },
+  "105": {
+    "uid": 105,
+    "nom": "Victoriaville",
+    "unique_identifier": 39062,
+    "region": "Centre-du-Québec"
+  },
+  "106": {
+    "uid": 106,
+    "nom": "Ville-Marie",
+    "unique_identifier": 85025,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "107": {
+    "uid": 107,
+    "nom": "Waterloo",
+    "unique_identifier": 47025,
+    "region": "Montérégie"
+  },
+  "108": {
+    "uid": 108,
+    "nom": "Lac-Etchemin",
+    "unique_identifier": 28053,
+    "region": "Chaudière-Appalaches"
+  },
+  "109": {
+    "uid": 109,
+    "nom": "Weedon",
+    "unique_identifier": 41098,
+    "region": "Estrie"
+  },
+  "110": {
+    "uid": 110,
+    "nom": "Saint-Georges",
+    "unique_identifier": 29073,
+    "region": "Chaudière-Appalaches"
+  },
+  "111": {
+    "uid": 111,
+    "nom": "Magog",
+    "unique_identifier": 45072,
+    "region": "Estrie"
+  },
+  "112": {
+    "uid": 112,
+    "nom": "Repentigny",
+    "unique_identifier": 60013,
+    "region": "Lanaudière"
+  },
+  "113": {
+    "uid": 113,
+    "nom": "Cowansville",
+    "unique_identifier": 46080,
+    "region": "Montérégie"
+  },
+  "114": {
+    "uid": 114,
+    "nom": "Châteauguay",
+    "unique_identifier": 67050,
+    "region": "Montérégie"
+  },
+  "115": {
+    "uid": 115,
+    "nom": "Lebel-sur-Quévillon",
+    "unique_identifier": 99005,
+    "region": "Nord-du-Québec"
+  },
+  "116": {
+    "uid": 116,
+    "nom": "Fermont",
+    "unique_identifier": 97035,
+    "region": "Côte-Nord"
+  },
+  "117": {
+    "uid": 117,
+    "nom": "Amqui",
+    "unique_identifier": 7047,
+    "region": "Bas-Saint-Laurent"
+  },
+  "118": {
+    "uid": 118,
+    "nom": "La Pocatière",
+    "unique_identifier": 14085,
+    "region": "Bas-Saint-Laurent"
+  },
+  "119": {
+    "uid": 119,
+    "nom": "Saint-Gabriel-de-Brandon",
+    "unique_identifier": 52085,
+    "region": "Lanaudière"
+  },
+  "120": {
+    "uid": 120,
+    "nom": "Rawdon",
+    "unique_identifier": 62037,
+    "region": "Lanaudière"
+  },
+  "121": {
+    "uid": 121,
+    "nom": "Berthierville",
+    "unique_identifier": 52035,
+    "region": "Lanaudière"
+  },
+  "122": {
+    "uid": 122,
+    "nom": "Huntingdon",
+    "unique_identifier": 69055,
+    "region": "Montérégie"
+  },
+  "123": {
+    "uid": 123,
+    "nom": "Saint-Césaire",
+    "unique_identifier": 55023,
+    "region": "Montérégie"
+  },
+  "125": {
+    "uid": 125,
+    "nom": "Les Îles-de-la-Madeleine",
+    "unique_identifier": 1023,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "126": {
+    "uid": 126,
+    "nom": "Grosse-Île",
+    "unique_identifier": 1042,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "127": {
+    "uid": 127,
+    "nom": "Percé",
+    "unique_identifier": 2005,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "128": {
+    "uid": 128,
+    "nom": "Sainte-Thérèse-de-Gaspé",
+    "unique_identifier": 2010,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "129": {
+    "uid": 129,
+    "nom": "Grande-Rivière",
+    "unique_identifier": 2015,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "130": {
+    "uid": 130,
+    "nom": "Port-Daniel--Gascons",
+    "unique_identifier": 2047,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "131": {
+    "uid": 131,
+    "nom": "Mont-Alexandre",
+    "unique_identifier": 2902,
+    "region": null
+  },
+  "132": {
+    "uid": 132,
+    "nom": "Cloridorme",
+    "unique_identifier": 3010,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "133": {
+    "uid": 133,
+    "nom": "Petite-Vallée",
+    "unique_identifier": 3015,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "134": {
+    "uid": 134,
+    "nom": "Murdochville",
+    "unique_identifier": 3025,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "135": {
+    "uid": 135,
+    "nom": "Rivière-Saint-Jean",
+    "unique_identifier": 3902,
+    "region": "Côte-Nord"
+  },
+  "136": {
+    "uid": 136,
+    "nom": "Collines-du-Basque",
+    "unique_identifier": 3904,
+    "region": null
+  },
+  "137": {
+    "uid": 137,
+    "nom": "Sainte-Madeleine-de-la-Rivière-Madeleine",
+    "unique_identifier": 4005,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "138": {
+    "uid": 138,
+    "nom": "Saint-Maxime-du-Mont-Louis",
+    "unique_identifier": 4010,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "139": {
+    "uid": 139,
+    "nom": "Mont-Saint-Pierre",
+    "unique_identifier": 4015,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "140": {
+    "uid": 140,
+    "nom": "Rivière-à-Claude",
+    "unique_identifier": 4020,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "141": {
+    "uid": 141,
+    "nom": "Marsoui",
+    "unique_identifier": 4025,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "142": {
+    "uid": 142,
+    "nom": "La Martre",
+    "unique_identifier": 4030,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "143": {
+    "uid": 143,
+    "nom": "Cap-Chat",
+    "unique_identifier": 4047,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "144": {
+    "uid": 144,
+    "nom": "Mont-Albert",
+    "unique_identifier": 4902,
+    "region": null
+  },
+  "145": {
+    "uid": 145,
+    "nom": "Coulée-des-Adolphe",
+    "unique_identifier": 4904,
+    "region": null
+  },
+  "146": {
+    "uid": 146,
+    "nom": "Shigawake",
+    "unique_identifier": 5010,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "147": {
+    "uid": 147,
+    "nom": "Saint-Godefroi",
+    "unique_identifier": 5015,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "148": {
+    "uid": 148,
+    "nom": "Hope Town",
+    "unique_identifier": 5020,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "149": {
+    "uid": 149,
+    "nom": "Hope",
+    "unique_identifier": 5025,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "150": {
+    "uid": 150,
+    "nom": "Paspébiac",
+    "unique_identifier": 5032,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "151": {
+    "uid": 151,
+    "nom": "New Carlisle",
+    "unique_identifier": 5040,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "152": {
+    "uid": 152,
+    "nom": "Saint-Elzéar",
+    "unique_identifier": 5050,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "153": {
+    "uid": 153,
+    "nom": "Saint-Siméon",
+    "unique_identifier": 5055,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "154": {
+    "uid": 154,
+    "nom": "Caplan",
+    "unique_identifier": 5060,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "155": {
+    "uid": 155,
+    "nom": "Saint-Alphonse",
+    "unique_identifier": 5065,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "156": {
+    "uid": 156,
+    "nom": "New Richmond",
+    "unique_identifier": 5070,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "157": {
+    "uid": 157,
+    "nom": "Cascapédia--Saint-Jules",
+    "unique_identifier": 5077,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "158": {
+    "uid": 158,
+    "nom": "Rivière-Bonaventure",
+    "unique_identifier": 5902,
+    "region": null
+  },
+  "159": {
+    "uid": 159,
+    "nom": "Maria",
+    "unique_identifier": 6005,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "160": {
+    "uid": 160,
+    "nom": "Carleton-sur-Mer",
+    "unique_identifier": 6013,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "161": {
+    "uid": 161,
+    "nom": "Nouvelle",
+    "unique_identifier": 6020,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "162": {
+    "uid": 162,
+    "nom": "Escuminac",
+    "unique_identifier": 6025,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "163": {
+    "uid": 163,
+    "nom": "Pointe-à-la-Croix",
+    "unique_identifier": 6030,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "164": {
+    "uid": 164,
+    "nom": "Ristigouche-Partie-Sud-Est",
+    "unique_identifier": 6035,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "165": {
+    "uid": 165,
+    "nom": "Saint-André-de-Restigouche",
+    "unique_identifier": 6040,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "166": {
+    "uid": 166,
+    "nom": "Saint-Alexis-de-Matapédia",
+    "unique_identifier": 6050,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "167": {
+    "uid": 167,
+    "nom": "Saint-François-d'Assise",
+    "unique_identifier": 6055,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "168": {
+    "uid": 168,
+    "nom": "L'Ascension-de-Patapédia",
+    "unique_identifier": 6060,
+    "region": "Gaspésie - Îles-de-la-Madeleine"
+  },
+  "169": {
+    "uid": 169,
+    "nom": "Gesgapegiag",
+    "unique_identifier": 6802,
+    "region": null
+  },
+  "170": {
+    "uid": 170,
+    "nom": "Listuguj",
+    "unique_identifier": 6804,
+    "region": null
+  },
+  "171": {
+    "uid": 171,
+    "nom": "Rivière-Nouvelle",
+    "unique_identifier": 6902,
+    "region": null
+  },
+  "172": {
+    "uid": 172,
+    "nom": "Ruisseau-Ferguson",
+    "unique_identifier": 6904,
+    "region": null
+  },
+  "173": {
+    "uid": 173,
+    "nom": "Sainte-Marguerite-Marie",
+    "unique_identifier": 7005,
+    "region": "Bas-Saint-Laurent"
+  },
+  "174": {
+    "uid": 174,
+    "nom": "Sainte-Florence",
+    "unique_identifier": 7010,
+    "region": "Bas-Saint-Laurent"
+  },
+  "175": {
+    "uid": 175,
+    "nom": "Causapscal",
+    "unique_identifier": 7018,
+    "region": "Bas-Saint-Laurent"
+  },
+  "176": {
+    "uid": 176,
+    "nom": "Albertville",
+    "unique_identifier": 7025,
+    "region": "Bas-Saint-Laurent"
+  },
+  "177": {
+    "uid": 177,
+    "nom": "Saint-Léon-le-Grand",
+    "unique_identifier": 7030,
+    "region": "Bas-Saint-Laurent"
+  },
+  "178": {
+    "uid": 178,
+    "nom": "Saint-Zénon-du-Lac-Humqui",
+    "unique_identifier": 7035,
+    "region": "Bas-Saint-Laurent"
+  },
+  "179": {
+    "uid": 179,
+    "nom": "Sainte-Irène",
+    "unique_identifier": 7040,
+    "region": "Bas-Saint-Laurent"
+  },
+  "180": {
+    "uid": 180,
+    "nom": "Lac-au-Saumon",
+    "unique_identifier": 7057,
+    "region": "Bas-Saint-Laurent"
+  },
+  "181": {
+    "uid": 181,
+    "nom": "Saint-Alexandre-des-Lacs",
+    "unique_identifier": 7065,
+    "region": "Bas-Saint-Laurent"
+  },
+  "182": {
+    "uid": 182,
+    "nom": "Saint-Tharcisius",
+    "unique_identifier": 7070,
+    "region": "Bas-Saint-Laurent"
+  },
+  "183": {
+    "uid": 183,
+    "nom": "Saint-Vianney",
+    "unique_identifier": 7075,
+    "region": "Bas-Saint-Laurent"
+  },
+  "184": {
+    "uid": 184,
+    "nom": "Val-Brillant",
+    "unique_identifier": 7080,
+    "region": "Bas-Saint-Laurent"
+  },
+  "185": {
+    "uid": 185,
+    "nom": "Sayabec",
+    "unique_identifier": 7085,
+    "region": "Bas-Saint-Laurent"
+  },
+  "186": {
+    "uid": 186,
+    "nom": "Saint-Cléophas",
+    "unique_identifier": 7090,
+    "region": "Bas-Saint-Laurent"
+  },
+  "187": {
+    "uid": 187,
+    "nom": "Saint-Moïse",
+    "unique_identifier": 7095,
+    "region": "Bas-Saint-Laurent"
+  },
+  "188": {
+    "uid": 188,
+    "nom": "Saint-Noël",
+    "unique_identifier": 7100,
+    "region": "Bas-Saint-Laurent"
+  },
+  "189": {
+    "uid": 189,
+    "nom": "Saint-Damase",
+    "unique_identifier": 7105,
+    "region": "Bas-Saint-Laurent"
+  },
+  "190": {
+    "uid": 190,
+    "nom": "Routhierville",
+    "unique_identifier": 7902,
+    "region": null
+  },
+  "191": {
+    "uid": 191,
+    "nom": "Rivière-Vaseuse",
+    "unique_identifier": 7904,
+    "region": null
+  },
+  "192": {
+    "uid": 192,
+    "nom": "Rivière-Patapédia-Est",
+    "unique_identifier": 7906,
+    "region": null
+  },
+  "193": {
+    "uid": 193,
+    "nom": "Lac-Casault",
+    "unique_identifier": 7908,
+    "region": null
+  },
+  "194": {
+    "uid": 194,
+    "nom": "Ruisseau-des-Mineurs",
+    "unique_identifier": 7910,
+    "region": null
+  },
+  "195": {
+    "uid": 195,
+    "nom": "Lac-Alfred",
+    "unique_identifier": 7912,
+    "region": null
+  },
+  "196": {
+    "uid": 196,
+    "nom": "Lac-Matapédia",
+    "unique_identifier": 7914,
+    "region": null
+  },
+  "197": {
+    "uid": 197,
+    "nom": "Les Méchins",
+    "unique_identifier": 8005,
+    "region": "Bas-Saint-Laurent"
+  },
+  "198": {
+    "uid": 198,
+    "nom": "Saint-Jean-de-Cherbourg",
+    "unique_identifier": 8010,
+    "region": "Bas-Saint-Laurent"
+  },
+  "199": {
+    "uid": 199,
+    "nom": "Grosses-Roches",
+    "unique_identifier": 8015,
+    "region": "Bas-Saint-Laurent"
+  },
+  "200": {
+    "uid": 200,
+    "nom": "Sainte-Félicité",
+    "unique_identifier": 8023,
+    "region": "Bas-Saint-Laurent"
+  },
+  "201": {
+    "uid": 201,
+    "nom": "Saint-Adelme",
+    "unique_identifier": 8030,
+    "region": "Bas-Saint-Laurent"
+  },
+  "202": {
+    "uid": 202,
+    "nom": "Saint-René-de-Matane",
+    "unique_identifier": 8035,
+    "region": "Bas-Saint-Laurent"
+  },
+  "203": {
+    "uid": 203,
+    "nom": "Sainte-Paule",
+    "unique_identifier": 8040,
+    "region": "Bas-Saint-Laurent"
+  },
+  "204": {
+    "uid": 204,
+    "nom": "Saint-Léandre",
+    "unique_identifier": 8065,
+    "region": "Bas-Saint-Laurent"
+  },
+  "205": {
+    "uid": 205,
+    "nom": "Saint-Ulric",
+    "unique_identifier": 8073,
+    "region": "Bas-Saint-Laurent"
+  },
+  "206": {
+    "uid": 206,
+    "nom": "Baie-des-Sables",
+    "unique_identifier": 8080,
+    "region": "Bas-Saint-Laurent"
+  },
+  "207": {
+    "uid": 207,
+    "nom": "Rivière-Bonjour",
+    "unique_identifier": 8902,
+    "region": null
+  },
+  "208": {
+    "uid": 208,
+    "nom": "La Rédemption",
+    "unique_identifier": 9005,
+    "region": "Bas-Saint-Laurent"
+  },
+  "209": {
+    "uid": 209,
+    "nom": "Saint-Charles-Garnier",
+    "unique_identifier": 9010,
+    "region": "Bas-Saint-Laurent"
+  },
+  "210": {
+    "uid": 210,
+    "nom": "Les Hauteurs",
+    "unique_identifier": 9015,
+    "region": "Bas-Saint-Laurent"
+  },
+  "211": {
+    "uid": 211,
+    "nom": "Sainte-Jeanne-d'Arc",
+    "unique_identifier": 9020,
+    "region": "Bas-Saint-Laurent"
+  },
+  "212": {
+    "uid": 212,
+    "nom": "Saint-Gabriel-de-Rimouski",
+    "unique_identifier": 9025,
+    "region": "Bas-Saint-Laurent"
+  },
+  "213": {
+    "uid": 213,
+    "nom": "Saint-Donat",
+    "unique_identifier": 9030,
+    "region": "Bas-Saint-Laurent"
+  },
+  "214": {
+    "uid": 214,
+    "nom": "Sainte-Angèle-de-Mérici",
+    "unique_identifier": 9035,
+    "region": "Bas-Saint-Laurent"
+  },
+  "215": {
+    "uid": 215,
+    "nom": "Padoue",
+    "unique_identifier": 9040,
+    "region": "Bas-Saint-Laurent"
+  },
+  "216": {
+    "uid": 216,
+    "nom": "Métis-sur-Mer",
+    "unique_identifier": 9048,
+    "region": "Bas-Saint-Laurent"
+  },
+  "217": {
+    "uid": 217,
+    "nom": "Saint-Octave-de-Métis",
+    "unique_identifier": 9055,
+    "region": "Bas-Saint-Laurent"
+  },
+  "218": {
+    "uid": 218,
+    "nom": "Grand-Métis",
+    "unique_identifier": 9060,
+    "region": "Bas-Saint-Laurent"
+  },
+  "219": {
+    "uid": 219,
+    "nom": "Price",
+    "unique_identifier": 9065,
+    "region": "Bas-Saint-Laurent"
+  },
+  "220": {
+    "uid": 220,
+    "nom": "Saint-Joseph-de-Lepage",
+    "unique_identifier": 9070,
+    "region": "Bas-Saint-Laurent"
+  },
+  "221": {
+    "uid": 221,
+    "nom": "Mont-Joli",
+    "unique_identifier": 9077,
+    "region": "Bas-Saint-Laurent"
+  },
+  "222": {
+    "uid": 222,
+    "nom": "Sainte-Flavie",
+    "unique_identifier": 9085,
+    "region": "Bas-Saint-Laurent"
+  },
+  "223": {
+    "uid": 223,
+    "nom": "Sainte-Luce",
+    "unique_identifier": 9092,
+    "region": "Bas-Saint-Laurent"
+  },
+  "224": {
+    "uid": 224,
+    "nom": "Lac-des-Eaux-Mortes",
+    "unique_identifier": 9902,
+    "region": null
+  },
+  "225": {
+    "uid": 225,
+    "nom": "Lac-à-la-Croix",
+    "unique_identifier": 9904,
+    "region": null
+  },
+  "226": {
+    "uid": 226,
+    "nom": "Esprit-Saint",
+    "unique_identifier": 10005,
+    "region": "Bas-Saint-Laurent"
+  },
+  "227": {
+    "uid": 227,
+    "nom": "La Trinité-des-Monts",
+    "unique_identifier": 10010,
+    "region": "Bas-Saint-Laurent"
+  },
+  "228": {
+    "uid": 228,
+    "nom": "Saint-Narcisse-de-Rimouski",
+    "unique_identifier": 10015,
+    "region": "Bas-Saint-Laurent"
+  },
+  "229": {
+    "uid": 229,
+    "nom": "Saint-Marcellin",
+    "unique_identifier": 10025,
+    "region": "Bas-Saint-Laurent"
+  },
+  "230": {
+    "uid": 230,
+    "nom": "Saint-Anaclet-de-Lessard",
+    "unique_identifier": 10030,
+    "region": "Bas-Saint-Laurent"
+  },
+  "231": {
+    "uid": 231,
+    "nom": "Saint-Valérien",
+    "unique_identifier": 10060,
+    "region": "Bas-Saint-Laurent"
+  },
+  "232": {
+    "uid": 232,
+    "nom": "Saint-Fabien",
+    "unique_identifier": 10070,
+    "region": "Bas-Saint-Laurent"
+  },
+  "233": {
+    "uid": 233,
+    "nom": "Saint-Eugène-de-Ladrière",
+    "unique_identifier": 10075,
+    "region": "Bas-Saint-Laurent"
+  },
+  "234": {
+    "uid": 234,
+    "nom": "Lac-Huron",
+    "unique_identifier": 10902,
+    "region": null
+  },
+  "235": {
+    "uid": 235,
+    "nom": "Saint-Clément",
+    "unique_identifier": 11005,
+    "region": "Bas-Saint-Laurent"
+  },
+  "236": {
+    "uid": 236,
+    "nom": "Saint-Jean-de-Dieu",
+    "unique_identifier": 11010,
+    "region": "Bas-Saint-Laurent"
+  },
+  "237": {
+    "uid": 237,
+    "nom": "Sainte-Rita",
+    "unique_identifier": 11015,
+    "region": "Bas-Saint-Laurent"
+  },
+  "238": {
+    "uid": 238,
+    "nom": "Saint-Guy",
+    "unique_identifier": 11020,
+    "region": "Bas-Saint-Laurent"
+  },
+  "239": {
+    "uid": 239,
+    "nom": "Saint-Médard",
+    "unique_identifier": 11025,
+    "region": "Bas-Saint-Laurent"
+  },
+  "240": {
+    "uid": 240,
+    "nom": "Sainte-Françoise",
+    "unique_identifier": 11030,
+    "region": "Bas-Saint-Laurent"
+  },
+  "241": {
+    "uid": 241,
+    "nom": "Saint-Éloi",
+    "unique_identifier": 11035,
+    "region": "Bas-Saint-Laurent"
+  },
+  "242": {
+    "uid": 242,
+    "nom": "Notre-Dame-des-Neiges",
+    "unique_identifier": 11045,
+    "region": "Bas-Saint-Laurent"
+  },
+  "243": {
+    "uid": 243,
+    "nom": "Saint-Mathieu-de-Rioux",
+    "unique_identifier": 11050,
+    "region": "Bas-Saint-Laurent"
+  },
+  "244": {
+    "uid": 244,
+    "nom": "Saint-Simon-de-Rimouski",
+    "unique_identifier": 11055,
+    "region": "Bas-Saint-Laurent"
+  },
+  "245": {
+    "uid": 245,
+    "nom": "Lac-Boisbouscache",
+    "unique_identifier": 11902,
+    "region": null
+  },
+  "246": {
+    "uid": 246,
+    "nom": "Saint-Cyprien",
+    "unique_identifier": 12005,
+    "region": "Bas-Saint-Laurent"
+  },
+  "247": {
+    "uid": 247,
+    "nom": "Saint-Hubert-de-Rivière-du-Loup",
+    "unique_identifier": 12010,
+    "region": "Bas-Saint-Laurent"
+  },
+  "248": {
+    "uid": 248,
+    "nom": "Saint-Antonin",
+    "unique_identifier": 12015,
+    "region": "Bas-Saint-Laurent"
+  },
+  "249": {
+    "uid": 249,
+    "nom": "Saint-Modeste",
+    "unique_identifier": 12020,
+    "region": "Bas-Saint-Laurent"
+  },
+  "250": {
+    "uid": 250,
+    "nom": "Saint-François-Xavier-de-Viger",
+    "unique_identifier": 12025,
+    "region": "Bas-Saint-Laurent"
+  },
+  "251": {
+    "uid": 251,
+    "nom": "Saint-Épiphane",
+    "unique_identifier": 12030,
+    "region": "Bas-Saint-Laurent"
+  },
+  "252": {
+    "uid": 252,
+    "nom": "Saint-Paul-de-la-Croix",
+    "unique_identifier": 12035,
+    "region": "Bas-Saint-Laurent"
+  },
+  "253": {
+    "uid": 253,
+    "nom": "L'Isle-Verte",
+    "unique_identifier": 12043,
+    "region": "Bas-Saint-Laurent"
+  },
+  "254": {
+    "uid": 254,
+    "nom": "Notre-Dame-des-Sept-Douleurs",
+    "unique_identifier": 12045,
+    "region": "Bas-Saint-Laurent"
+  },
+  "255": {
+    "uid": 255,
+    "nom": "Cacouna",
+    "unique_identifier": 12057,
+    "region": "Bas-Saint-Laurent"
+  },
+  "256": {
+    "uid": 256,
+    "nom": "Saint-Arsène",
+    "unique_identifier": 12065,
+    "region": "Bas-Saint-Laurent"
+  },
+  "257": {
+    "uid": 257,
+    "nom": "Notre-Dame-du-Portage",
+    "unique_identifier": 12080,
+    "region": "Bas-Saint-Laurent"
+  },
+  "258": {
+    "uid": 258,
+    "nom": "Kataskomiq",
+    "unique_identifier": 12802,
+    "region": null
+  },
+  "259": {
+    "uid": 259,
+    "nom": "Dégelis",
+    "unique_identifier": 13005,
+    "region": "Bas-Saint-Laurent"
+  },
+  "260": {
+    "uid": 260,
+    "nom": "Saint-Jean-de-la-Lande",
+    "unique_identifier": 13010,
+    "region": "Bas-Saint-Laurent"
+  },
+  "261": {
+    "uid": 261,
+    "nom": "Packington",
+    "unique_identifier": 13015,
+    "region": "Bas-Saint-Laurent"
+  },
+  "262": {
+    "uid": 262,
+    "nom": "Saint-Marc-du-Lac-Long",
+    "unique_identifier": 13020,
+    "region": "Bas-Saint-Laurent"
+  },
+  "263": {
+    "uid": 263,
+    "nom": "Rivière-Bleue",
+    "unique_identifier": 13025,
+    "region": "Bas-Saint-Laurent"
+  },
+  "264": {
+    "uid": 264,
+    "nom": "Saint-Eusèbe",
+    "unique_identifier": 13030,
+    "region": "Bas-Saint-Laurent"
+  },
+  "265": {
+    "uid": 265,
+    "nom": "Saint-Juste-du-Lac",
+    "unique_identifier": 13040,
+    "region": "Bas-Saint-Laurent"
+  },
+  "266": {
+    "uid": 266,
+    "nom": "Auclair",
+    "unique_identifier": 13045,
+    "region": "Bas-Saint-Laurent"
+  },
+  "267": {
+    "uid": 267,
+    "nom": "Lejeune",
+    "unique_identifier": 13050,
+    "region": "Bas-Saint-Laurent"
+  },
+  "268": {
+    "uid": 268,
+    "nom": "Biencourt",
+    "unique_identifier": 13055,
+    "region": "Bas-Saint-Laurent"
+  },
+  "269": {
+    "uid": 269,
+    "nom": "Lac-des-Aigles",
+    "unique_identifier": 13060,
+    "region": "Bas-Saint-Laurent"
+  },
+  "270": {
+    "uid": 270,
+    "nom": "Saint-Michel-du-Squatec",
+    "unique_identifier": 13065,
+    "region": "Bas-Saint-Laurent"
+  },
+  "271": {
+    "uid": 271,
+    "nom": "Saint-Pierre-de-Lamy",
+    "unique_identifier": 13075,
+    "region": "Bas-Saint-Laurent"
+  },
+  "272": {
+    "uid": 272,
+    "nom": "Saint-Louis-du-Ha! Ha!",
+    "unique_identifier": 13080,
+    "region": "Bas-Saint-Laurent"
+  },
+  "273": {
+    "uid": 273,
+    "nom": "Saint-Elzéar-de-Témiscouata",
+    "unique_identifier": 13085,
+    "region": "Bas-Saint-Laurent"
+  },
+  "274": {
+    "uid": 274,
+    "nom": "Saint-Honoré-de-Témiscouata",
+    "unique_identifier": 13090,
+    "region": "Bas-Saint-Laurent"
+  },
+  "275": {
+    "uid": 275,
+    "nom": "Pohénégamook",
+    "unique_identifier": 13095,
+    "region": "Bas-Saint-Laurent"
+  },
+  "276": {
+    "uid": 276,
+    "nom": "Saint-Athanase",
+    "unique_identifier": 13100,
+    "region": "Bas-Saint-Laurent"
+  },
+  "277": {
+    "uid": 277,
+    "nom": "Mont-Carmel",
+    "unique_identifier": 14005,
+    "region": "Bas-Saint-Laurent"
+  },
+  "278": {
+    "uid": 278,
+    "nom": "Saint-Bruno-de-Kamouraska",
+    "unique_identifier": 14010,
+    "region": "Bas-Saint-Laurent"
+  },
+  "279": {
+    "uid": 279,
+    "nom": "Sainte-Hélène-de-Kamouraska",
+    "unique_identifier": 14025,
+    "region": "Bas-Saint-Laurent"
+  },
+  "280": {
+    "uid": 280,
+    "nom": "Saint-Joseph-de-Kamouraska",
+    "unique_identifier": 14030,
+    "region": "Bas-Saint-Laurent"
+  },
+  "281": {
+    "uid": 281,
+    "nom": "Saint-Alexandre-de-Kamouraska",
+    "unique_identifier": 14035,
+    "region": "Bas-Saint-Laurent"
+  },
+  "282": {
+    "uid": 282,
+    "nom": "Saint-André-de-Kamouraska",
+    "unique_identifier": 14040,
+    "region": "Bas-Saint-Laurent"
+  },
+  "283": {
+    "uid": 283,
+    "nom": "Saint-Germain-de-Kamouraska",
+    "unique_identifier": 14045,
+    "region": "Bas-Saint-Laurent"
+  },
+  "284": {
+    "uid": 284,
+    "nom": "Kamouraska",
+    "unique_identifier": 14050,
+    "region": "Bas-Saint-Laurent"
+  },
+  "285": {
+    "uid": 285,
+    "nom": "Saint-Denis-De La Bouteillerie",
+    "unique_identifier": 14055,
+    "region": "Bas-Saint-Laurent"
+  },
+  "286": {
+    "uid": 286,
+    "nom": "Saint-Philippe-de-Néri",
+    "unique_identifier": 14060,
+    "region": "Bas-Saint-Laurent"
+  },
+  "287": {
+    "uid": 287,
+    "nom": "Rivière-Ouelle",
+    "unique_identifier": 14065,
+    "region": "Bas-Saint-Laurent"
+  },
+  "288": {
+    "uid": 288,
+    "nom": "Saint-Pacôme",
+    "unique_identifier": 14070,
+    "region": "Bas-Saint-Laurent"
+  },
+  "289": {
+    "uid": 289,
+    "nom": "Saint-Gabriel-Lalemant",
+    "unique_identifier": 14075,
+    "region": "Bas-Saint-Laurent"
+  },
+  "290": {
+    "uid": 290,
+    "nom": "Saint-Onésime-d'Ixworth",
+    "unique_identifier": 14080,
+    "region": "Bas-Saint-Laurent"
+  },
+  "291": {
+    "uid": 291,
+    "nom": "Sainte-Anne-de-la-Pocatière",
+    "unique_identifier": 14090,
+    "region": "Bas-Saint-Laurent"
+  },
+  "292": {
+    "uid": 292,
+    "nom": "Picard",
+    "unique_identifier": 14902,
+    "region": null
+  },
+  "293": {
+    "uid": 293,
+    "nom": "Petit-Lac-Sainte-Anne",
+    "unique_identifier": 14904,
+    "region": null
+  },
+  "294": {
+    "uid": 294,
+    "nom": "Saint-Irénée",
+    "unique_identifier": 15005,
+    "region": "Capitale Nationale"
+  },
+  "295": {
+    "uid": 295,
+    "nom": "Notre-Dame-des-Monts",
+    "unique_identifier": 15025,
+    "region": "Capitale Nationale"
+  },
+  "296": {
+    "uid": 296,
+    "nom": "Saint-Aimé-des-Lacs",
+    "unique_identifier": 15030,
+    "region": "Capitale Nationale"
+  },
+  "297": {
+    "uid": 297,
+    "nom": "Clermont",
+    "unique_identifier": 15035,
+    "region": "Capitale Nationale"
+  },
+  "298": {
+    "uid": 298,
+    "nom": "Baie-Sainte-Catherine",
+    "unique_identifier": 15065,
+    "region": "Capitale Nationale"
+  },
+  "299": {
+    "uid": 299,
+    "nom": "Mont-Élie",
+    "unique_identifier": 15902,
+    "region": null
+  },
+  "300": {
+    "uid": 300,
+    "nom": "Sagard",
+    "unique_identifier": 15904,
+    "region": null
+  },
+  "301": {
+    "uid": 301,
+    "nom": "Petite-Rivière-Saint-François",
+    "unique_identifier": 16005,
+    "region": "Capitale Nationale"
+  },
+  "302": {
+    "uid": 302,
+    "nom": "L'Isle-aux-Coudres",
+    "unique_identifier": 16023,
+    "region": "Capitale Nationale"
+  },
+  "303": {
+    "uid": 303,
+    "nom": "Les Éboulements",
+    "unique_identifier": 16048,
+    "region": "Capitale Nationale"
+  },
+  "304": {
+    "uid": 304,
+    "nom": "Saint-Hilarion",
+    "unique_identifier": 16050,
+    "region": "Capitale Nationale"
+  },
+  "305": {
+    "uid": 305,
+    "nom": "Saint-Urbain",
+    "unique_identifier": 16055,
+    "region": "Capitale Nationale"
+  },
+  "306": {
+    "uid": 306,
+    "nom": "Lac-Pikauba",
+    "unique_identifier": 16902,
+    "region": null
+  },
+  "307": {
+    "uid": 307,
+    "nom": "Saint-Omer",
+    "unique_identifier": 17005,
+    "region": "Chaudière-Appalaches"
+  },
+  "308": {
+    "uid": 308,
+    "nom": "Saint-Pamphile",
+    "unique_identifier": 17010,
+    "region": "Chaudière-Appalaches"
+  },
+  "309": {
+    "uid": 309,
+    "nom": "Saint-Adalbert",
+    "unique_identifier": 17015,
+    "region": "Chaudière-Appalaches"
+  },
+  "310": {
+    "uid": 310,
+    "nom": "Saint-Marcel",
+    "unique_identifier": 17020,
+    "region": "Chaudière-Appalaches"
+  },
+  "311": {
+    "uid": 311,
+    "nom": "Sainte-Perpétue",
+    "unique_identifier": 17030,
+    "region": "Chaudière-Appalaches"
+  },
+  "312": {
+    "uid": 312,
+    "nom": "Tourville",
+    "unique_identifier": 17035,
+    "region": "Chaudière-Appalaches"
+  },
+  "313": {
+    "uid": 313,
+    "nom": "Saint-Damase-de-L'Islet",
+    "unique_identifier": 17040,
+    "region": "Chaudière-Appalaches"
+  },
+  "314": {
+    "uid": 314,
+    "nom": "Saint-Cyrille-de-Lessard",
+    "unique_identifier": 17045,
+    "region": "Chaudière-Appalaches"
+  },
+  "315": {
+    "uid": 315,
+    "nom": "Saint-Aubert",
+    "unique_identifier": 17055,
+    "region": "Chaudière-Appalaches"
+  },
+  "316": {
+    "uid": 316,
+    "nom": "Sainte-Louise",
+    "unique_identifier": 17060,
+    "region": "Chaudière-Appalaches"
+  },
+  "317": {
+    "uid": 317,
+    "nom": "Saint-Roch-des-Aulnaies",
+    "unique_identifier": 17065,
+    "region": "Chaudière-Appalaches"
+  },
+  "318": {
+    "uid": 318,
+    "nom": "Saint-Jean-Port-Joli",
+    "unique_identifier": 17070,
+    "region": "Chaudière-Appalaches"
+  },
+  "319": {
+    "uid": 319,
+    "nom": "L'Islet",
+    "unique_identifier": 17078,
+    "region": "Chaudière-Appalaches"
+  },
+  "320": {
+    "uid": 320,
+    "nom": "Saint-Just-de-Bretenières",
+    "unique_identifier": 18005,
+    "region": "Chaudière-Appalaches"
+  },
+  "321": {
+    "uid": 321,
+    "nom": "Lac-Frontière",
+    "unique_identifier": 18010,
+    "region": "Chaudière-Appalaches"
+  },
+  "322": {
+    "uid": 322,
+    "nom": "Saint-Fabien-de-Panet",
+    "unique_identifier": 18015,
+    "region": "Chaudière-Appalaches"
+  },
+  "323": {
+    "uid": 323,
+    "nom": "Sainte-Lucie-de-Beauregard",
+    "unique_identifier": 18020,
+    "region": "Chaudière-Appalaches"
+  },
+  "324": {
+    "uid": 324,
+    "nom": "Sainte-Apolline-de-Patton",
+    "unique_identifier": 18025,
+    "region": "Chaudière-Appalaches"
+  },
+  "325": {
+    "uid": 325,
+    "nom": "Saint-Paul-de-Montminy",
+    "unique_identifier": 18030,
+    "region": "Chaudière-Appalaches"
+  },
+  "326": {
+    "uid": 326,
+    "nom": "Sainte-Euphémie-sur-Rivière-du-Sud",
+    "unique_identifier": 18035,
+    "region": "Chaudière-Appalaches"
+  },
+  "327": {
+    "uid": 327,
+    "nom": "Notre-Dame-du-Rosaire",
+    "unique_identifier": 18040,
+    "region": "Chaudière-Appalaches"
+  },
+  "328": {
+    "uid": 328,
+    "nom": "Cap-Saint-Ignace",
+    "unique_identifier": 18045,
+    "region": "Chaudière-Appalaches"
+  },
+  "329": {
+    "uid": 329,
+    "nom": "Saint-Pierre-de-la-Rivière-du-Sud",
+    "unique_identifier": 18055,
+    "region": "Chaudière-Appalaches"
+  },
+  "330": {
+    "uid": 330,
+    "nom": "Saint-François-de-la-Rivière-du-Sud",
+    "unique_identifier": 18060,
+    "region": "Chaudière-Appalaches"
+  },
+  "331": {
+    "uid": 331,
+    "nom": "Berthier-sur-Mer",
+    "unique_identifier": 18065,
+    "region": "Chaudière-Appalaches"
+  },
+  "332": {
+    "uid": 332,
+    "nom": "Saint-Antoine-de-l'Isle-aux-Grues",
+    "unique_identifier": 18070,
+    "region": "Chaudière-Appalaches"
+  },
+  "333": {
+    "uid": 333,
+    "nom": "Saint-Philémon",
+    "unique_identifier": 19005,
+    "region": "Chaudière-Appalaches"
+  },
+  "334": {
+    "uid": 334,
+    "nom": "Notre-Dame-Auxiliatrice-de-Buckland",
+    "unique_identifier": 19010,
+    "region": "Chaudière-Appalaches"
+  },
+  "335": {
+    "uid": 335,
+    "nom": "Saint-Nazaire-de-Dorchester",
+    "unique_identifier": 19015,
+    "region": "Chaudière-Appalaches"
+  },
+  "336": {
+    "uid": 336,
+    "nom": "Saint-Léon-de-Standon",
+    "unique_identifier": 19020,
+    "region": "Chaudière-Appalaches"
+  },
+  "337": {
+    "uid": 337,
+    "nom": "Saint-Malachie",
+    "unique_identifier": 19025,
+    "region": "Chaudière-Appalaches"
+  },
+  "338": {
+    "uid": 338,
+    "nom": "Saint-Damien-de-Buckland",
+    "unique_identifier": 19030,
+    "region": "Chaudière-Appalaches"
+  },
+  "339": {
+    "uid": 339,
+    "nom": "Armagh",
+    "unique_identifier": 19037,
+    "region": "Chaudière-Appalaches"
+  },
+  "340": {
+    "uid": 340,
+    "nom": "Saint-Nérée-de-Bellechasse",
+    "unique_identifier": 19045,
+    "region": "Chaudière-Appalaches"
+  },
+  "341": {
+    "uid": 341,
+    "nom": "Saint-Lazare-de-Bellechasse",
+    "unique_identifier": 19050,
+    "region": "Chaudière-Appalaches"
+  },
+  "342": {
+    "uid": 342,
+    "nom": "Saint-Anselme",
+    "unique_identifier": 19062,
+    "region": "Chaudière-Appalaches"
+  },
+  "343": {
+    "uid": 343,
+    "nom": "Saint-Henri",
+    "unique_identifier": 19068,
+    "region": "Chaudière-Appalaches"
+  },
+  "344": {
+    "uid": 344,
+    "nom": "Honfleur",
+    "unique_identifier": 19070,
+    "region": "Chaudière-Appalaches"
+  },
+  "345": {
+    "uid": 345,
+    "nom": "Saint-Gervais",
+    "unique_identifier": 19075,
+    "region": "Chaudière-Appalaches"
+  },
+  "346": {
+    "uid": 346,
+    "nom": "La Durantaye",
+    "unique_identifier": 19090,
+    "region": "Chaudière-Appalaches"
+  },
+  "347": {
+    "uid": 347,
+    "nom": "Saint-Charles-de-Bellechasse",
+    "unique_identifier": 19097,
+    "region": "Chaudière-Appalaches"
+  },
+  "348": {
+    "uid": 348,
+    "nom": "Beaumont",
+    "unique_identifier": 19105,
+    "region": "Chaudière-Appalaches"
+  },
+  "349": {
+    "uid": 349,
+    "nom": "Saint-Michel-de-Bellechasse",
+    "unique_identifier": 19110,
+    "region": "Chaudière-Appalaches"
+  },
+  "350": {
+    "uid": 350,
+    "nom": "Saint-Vallier",
+    "unique_identifier": 19117,
+    "region": "Chaudière-Appalaches"
+  },
+  "351": {
+    "uid": 351,
+    "nom": "Saint-François-de-l'Île-d'Orléans",
+    "unique_identifier": 20005,
+    "region": "Capitale Nationale"
+  },
+  "352": {
+    "uid": 352,
+    "nom": "Sainte-Famille-de-l'Île-d'Orléans",
+    "unique_identifier": 20010,
+    "region": "Capitale Nationale"
+  },
+  "353": {
+    "uid": 353,
+    "nom": "Saint-Jean-de-l'Île-d'Orléans",
+    "unique_identifier": 20015,
+    "region": "Capitale Nationale"
+  },
+  "354": {
+    "uid": 354,
+    "nom": "Saint-Laurent-de-l'Île-d'Orléans",
+    "unique_identifier": 20020,
+    "region": "Capitale Nationale"
+  },
+  "355": {
+    "uid": 355,
+    "nom": "Saint-Pierre-de-l'Île-d'Orléans",
+    "unique_identifier": 20025,
+    "region": "Capitale Nationale"
+  },
+  "356": {
+    "uid": 356,
+    "nom": "Sainte-Pétronille",
+    "unique_identifier": 20030,
+    "region": "Capitale Nationale"
+  },
+  "357": {
+    "uid": 357,
+    "nom": "Saint-Tite-des-Caps",
+    "unique_identifier": 21005,
+    "region": "Capitale Nationale"
+  },
+  "358": {
+    "uid": 358,
+    "nom": "Saint-Ferréol-les-Neiges",
+    "unique_identifier": 21010,
+    "region": "Capitale Nationale"
+  },
+  "359": {
+    "uid": 359,
+    "nom": "Saint-Louis-de-Gonzague-du-Cap-Tourmente",
+    "unique_identifier": 21015,
+    "region": "Capitale Nationale"
+  },
+  "360": {
+    "uid": 360,
+    "nom": "Saint-Joachim",
+    "unique_identifier": 21020,
+    "region": "Capitale Nationale"
+  },
+  "361": {
+    "uid": 361,
+    "nom": "Beaupré",
+    "unique_identifier": 21025,
+    "region": "Capitale Nationale"
+  },
+  "362": {
+    "uid": 362,
+    "nom": "Sainte-Anne-de-Beaupré",
+    "unique_identifier": 21030,
+    "region": "Capitale Nationale"
+  },
+  "363": {
+    "uid": 363,
+    "nom": "Château-Richer",
+    "unique_identifier": 21035,
+    "region": "Capitale Nationale"
+  },
+  "364": {
+    "uid": 364,
+    "nom": "L'Ange-Gardien",
+    "unique_identifier": 21040,
+    "region": "Capitale Nationale"
+  },
+  "365": {
+    "uid": 365,
+    "nom": "Boischatel",
+    "unique_identifier": 21045,
+    "region": "Capitale Nationale"
+  },
+  "366": {
+    "uid": 366,
+    "nom": "Sault-au-Cochon",
+    "unique_identifier": 21902,
+    "region": null
+  },
+  "367": {
+    "uid": 367,
+    "nom": "Lac-Jacques-Cartier",
+    "unique_identifier": 21904,
+    "region": null
+  },
+  "368": {
+    "uid": 368,
+    "nom": "Sainte-Catherine-de-la-Jacques-Cartier",
+    "unique_identifier": 22005,
+    "region": "Capitale Nationale"
+  },
+  "369": {
+    "uid": 369,
+    "nom": "Fossambault-sur-le-Lac",
+    "unique_identifier": 22010,
+    "region": "Capitale Nationale"
+  },
+  "370": {
+    "uid": 370,
+    "nom": "Lac-Saint-Joseph",
+    "unique_identifier": 22015,
+    "region": "Capitale Nationale"
+  },
+  "371": {
+    "uid": 371,
+    "nom": "Shannon",
+    "unique_identifier": 22020,
+    "region": "Capitale Nationale"
+  },
+  "372": {
+    "uid": 372,
+    "nom": "Saint-Gabriel-de-Valcartier",
+    "unique_identifier": 22025,
+    "region": "Capitale Nationale"
+  },
+  "373": {
+    "uid": 373,
+    "nom": "Lac-Delage",
+    "unique_identifier": 22030,
+    "region": "Capitale Nationale"
+  },
+  "374": {
+    "uid": 374,
+    "nom": "Stoneham-et-Tewkesbury",
+    "unique_identifier": 22035,
+    "region": "Capitale Nationale"
+  },
+  "375": {
+    "uid": 375,
+    "nom": "Lac-Beauport",
+    "unique_identifier": 22040,
+    "region": "Capitale Nationale"
+  },
+  "376": {
+    "uid": 376,
+    "nom": "Sainte-Brigitte-de-Laval",
+    "unique_identifier": 22045,
+    "region": "Capitale Nationale"
+  },
+  "377": {
+    "uid": 377,
+    "nom": "Lac-Croche",
+    "unique_identifier": 22902,
+    "region": null
+  },
+  "378": {
+    "uid": 378,
+    "nom": "Notre-Dame-des-Anges",
+    "unique_identifier": 23015,
+    "region": "Capitale Nationale"
+  },
+  "379": {
+    "uid": 379,
+    "nom": "L'Ancienne-Lorette",
+    "unique_identifier": 23057,
+    "region": "Capitale Nationale"
+  },
+  "380": {
+    "uid": 380,
+    "nom": "Saint-Augustin-de-Desmaures",
+    "unique_identifier": 23072,
+    "region": "Capitale Nationale"
+  },
+  "381": {
+    "uid": 381,
+    "nom": "Wendake",
+    "unique_identifier": 23802,
+    "region": null
+  },
+  "382": {
+    "uid": 382,
+    "nom": "Frampton",
+    "unique_identifier": 26005,
+    "region": "Chaudière-Appalaches"
+  },
+  "383": {
+    "uid": 383,
+    "nom": "Saints-Anges",
+    "unique_identifier": 26010,
+    "region": "Chaudière-Appalaches"
+  },
+  "384": {
+    "uid": 384,
+    "nom": "Vallée-Jonction",
+    "unique_identifier": 26015,
+    "region": "Chaudière-Appalaches"
+  },
+  "385": {
+    "uid": 385,
+    "nom": "Sainte-Marie",
+    "unique_identifier": 26030,
+    "region": "Chaudière-Appalaches"
+  },
+  "386": {
+    "uid": 386,
+    "nom": "Sainte-Marguerite",
+    "unique_identifier": 26035,
+    "region": "Chaudière-Appalaches"
+  },
+  "387": {
+    "uid": 387,
+    "nom": "Sainte-Hénédine",
+    "unique_identifier": 26040,
+    "region": "Chaudière-Appalaches"
+  },
+  "388": {
+    "uid": 388,
+    "nom": "Scott",
+    "unique_identifier": 26048,
+    "region": "Chaudière-Appalaches"
+  },
+  "389": {
+    "uid": 389,
+    "nom": "Saint-Bernard",
+    "unique_identifier": 26055,
+    "region": "Chaudière-Appalaches"
+  },
+  "390": {
+    "uid": 390,
+    "nom": "Saint-Isidore",
+    "unique_identifier": 26063,
+    "region": "Chaudière-Appalaches"
+  },
+  "391": {
+    "uid": 391,
+    "nom": "Saint-Lambert-de-Lauzon",
+    "unique_identifier": 26070,
+    "region": "Chaudière-Appalaches"
+  },
+  "392": {
+    "uid": 392,
+    "nom": "Saint-Victor",
+    "unique_identifier": 27008,
+    "region": "Chaudière-Appalaches"
+  },
+  "393": {
+    "uid": 393,
+    "nom": "Saint-Alfred",
+    "unique_identifier": 27015,
+    "region": "Chaudière-Appalaches"
+  },
+  "394": {
+    "uid": 394,
+    "nom": "Beauceville",
+    "unique_identifier": 27028,
+    "region": "Chaudière-Appalaches"
+  },
+  "395": {
+    "uid": 395,
+    "nom": "Saint-Odilon-de-Cranbourne",
+    "unique_identifier": 27035,
+    "region": "Chaudière-Appalaches"
+  },
+  "396": {
+    "uid": 396,
+    "nom": "Saint-Joseph-des-Érables",
+    "unique_identifier": 27050,
+    "region": "Chaudière-Appalaches"
+  },
+  "397": {
+    "uid": 397,
+    "nom": "Saint-Jules",
+    "unique_identifier": 27055,
+    "region": "Chaudière-Appalaches"
+  },
+  "398": {
+    "uid": 398,
+    "nom": "Tring-Jonction",
+    "unique_identifier": 27060,
+    "region": "Chaudière-Appalaches"
+  },
+  "399": {
+    "uid": 399,
+    "nom": "Saint-Frédéric",
+    "unique_identifier": 27065,
+    "region": "Chaudière-Appalaches"
+  },
+  "400": {
+    "uid": 400,
+    "nom": "Saint-Séverin",
+    "unique_identifier": 27070,
+    "region": "Chaudière-Appalaches"
+  },
+  "401": {
+    "uid": 401,
+    "nom": "Saint-Zacharie",
+    "unique_identifier": 28005,
+    "region": "Chaudière-Appalaches"
+  },
+  "402": {
+    "uid": 402,
+    "nom": "Sainte-Aurélie",
+    "unique_identifier": 28015,
+    "region": "Chaudière-Appalaches"
+  },
+  "403": {
+    "uid": 403,
+    "nom": "Saint-Prosper",
+    "unique_identifier": 28020,
+    "region": "Chaudière-Appalaches"
+  },
+  "404": {
+    "uid": 404,
+    "nom": "Saint-Benjamin",
+    "unique_identifier": 28025,
+    "region": "Chaudière-Appalaches"
+  },
+  "405": {
+    "uid": 405,
+    "nom": "Sainte-Rose-de-Watford",
+    "unique_identifier": 28030,
+    "region": "Chaudière-Appalaches"
+  },
+  "406": {
+    "uid": 406,
+    "nom": "Saint-Louis-de-Gonzague",
+    "unique_identifier": 28035,
+    "region": "Chaudière-Appalaches"
+  },
+  "407": {
+    "uid": 407,
+    "nom": "Sainte-Justine",
+    "unique_identifier": 28045,
+    "region": "Chaudière-Appalaches"
+  },
+  "409": {
+    "uid": 409,
+    "nom": "Saint-Luc-de-Bellechasse",
+    "unique_identifier": 28060,
+    "region": "Chaudière-Appalaches"
+  },
+  "410": {
+    "uid": 410,
+    "nom": "Sainte-Sabine",
+    "unique_identifier": 28065,
+    "region": "Chaudière-Appalaches"
+  },
+  "411": {
+    "uid": 411,
+    "nom": "Saint-Camille-de-Lellis",
+    "unique_identifier": 28070,
+    "region": "Chaudière-Appalaches"
+  },
+  "412": {
+    "uid": 412,
+    "nom": "Saint-Magloire",
+    "unique_identifier": 28075,
+    "region": "Chaudière-Appalaches"
+  },
+  "413": {
+    "uid": 413,
+    "nom": "Saint-Théophile",
+    "unique_identifier": 29005,
+    "region": "Chaudière-Appalaches"
+  },
+  "414": {
+    "uid": 414,
+    "nom": "Saint-Gédéon-de-Beauce",
+    "unique_identifier": 29013,
+    "region": "Chaudière-Appalaches"
+  },
+  "415": {
+    "uid": 415,
+    "nom": "Saint-Hilaire-de-Dorset",
+    "unique_identifier": 29020,
+    "region": "Chaudière-Appalaches"
+  },
+  "416": {
+    "uid": 416,
+    "nom": "La Guadeloupe",
+    "unique_identifier": 29030,
+    "region": "Chaudière-Appalaches"
+  },
+  "417": {
+    "uid": 417,
+    "nom": "Saint-Honoré-de-Shenley",
+    "unique_identifier": 29038,
+    "region": "Chaudière-Appalaches"
+  },
+  "418": {
+    "uid": 418,
+    "nom": "Saint-Martin",
+    "unique_identifier": 29045,
+    "region": "Chaudière-Appalaches"
+  },
+  "419": {
+    "uid": 419,
+    "nom": "Saint-René",
+    "unique_identifier": 29050,
+    "region": "Chaudière-Appalaches"
+  },
+  "420": {
+    "uid": 420,
+    "nom": "Saint-Côme--Linière",
+    "unique_identifier": 29057,
+    "region": "Chaudière-Appalaches"
+  },
+  "421": {
+    "uid": 421,
+    "nom": "Saint-Philibert",
+    "unique_identifier": 29065,
+    "region": "Chaudière-Appalaches"
+  },
+  "422": {
+    "uid": 422,
+    "nom": "Lac-Poulin",
+    "unique_identifier": 29095,
+    "region": "Chaudière-Appalaches"
+  },
+  "423": {
+    "uid": 423,
+    "nom": "Saint-Benoît-Labre",
+    "unique_identifier": 29100,
+    "region": "Chaudière-Appalaches"
+  },
+  "424": {
+    "uid": 424,
+    "nom": "Saint-Éphrem-de-Beauce",
+    "unique_identifier": 29112,
+    "region": "Chaudière-Appalaches"
+  },
+  "425": {
+    "uid": 425,
+    "nom": "Notre-Dame-des-Pins",
+    "unique_identifier": 29120,
+    "region": "Chaudière-Appalaches"
+  },
+  "426": {
+    "uid": 426,
+    "nom": "Saint-Simon-les-Mines",
+    "unique_identifier": 29125,
+    "region": "Chaudière-Appalaches"
+  },
+  "427": {
+    "uid": 427,
+    "nom": "Saint-Augustin-de-Woburn",
+    "unique_identifier": 30005,
+    "region": "Estrie"
+  },
+  "428": {
+    "uid": 428,
+    "nom": "Notre-Dame-des-Bois",
+    "unique_identifier": 30010,
+    "region": "Estrie"
+  },
+  "429": {
+    "uid": 429,
+    "nom": "Val-Racine",
+    "unique_identifier": 30015,
+    "region": "Estrie"
+  },
+  "430": {
+    "uid": 430,
+    "nom": "Piopolis",
+    "unique_identifier": 30020,
+    "region": "Estrie"
+  },
+  "431": {
+    "uid": 431,
+    "nom": "Frontenac",
+    "unique_identifier": 30025,
+    "region": "Estrie"
+  },
+  "432": {
+    "uid": 432,
+    "nom": "Marston",
+    "unique_identifier": 30035,
+    "region": "Estrie"
+  },
+  "433": {
+    "uid": 433,
+    "nom": "Milan",
+    "unique_identifier": 30040,
+    "region": "Estrie"
+  },
+  "434": {
+    "uid": 434,
+    "nom": "Nantes",
+    "unique_identifier": 30045,
+    "region": "Estrie"
+  },
+  "435": {
+    "uid": 435,
+    "nom": "Sainte-Cécile-de-Whitton",
+    "unique_identifier": 30050,
+    "region": "Estrie"
+  },
+  "436": {
+    "uid": 436,
+    "nom": "Audet",
+    "unique_identifier": 30055,
+    "region": "Estrie"
+  },
+  "437": {
+    "uid": 437,
+    "nom": "Saint-Robert-Bellarmin",
+    "unique_identifier": 30070,
+    "region": "Estrie"
+  },
+  "438": {
+    "uid": 438,
+    "nom": "Saint-Ludger",
+    "unique_identifier": 30072,
+    "region": "Estrie"
+  },
+  "439": {
+    "uid": 439,
+    "nom": "Lac-Drolet",
+    "unique_identifier": 30080,
+    "region": "Estrie"
+  },
+  "440": {
+    "uid": 440,
+    "nom": "Saint-Sébastien",
+    "unique_identifier": 30085,
+    "region": "Estrie"
+  },
+  "441": {
+    "uid": 441,
+    "nom": "Courcelles",
+    "unique_identifier": 30090,
+    "region": "Estrie"
+  },
+  "442": {
+    "uid": 442,
+    "nom": "Lambton",
+    "unique_identifier": 30095,
+    "region": "Estrie"
+  },
+  "443": {
+    "uid": 443,
+    "nom": "Saint-Romain",
+    "unique_identifier": 30100,
+    "region": "Estrie"
+  },
+  "444": {
+    "uid": 444,
+    "nom": "Stornoway",
+    "unique_identifier": 30105,
+    "region": "Estrie"
+  },
+  "445": {
+    "uid": 445,
+    "nom": "Stratford",
+    "unique_identifier": 30110,
+    "region": "Estrie"
+  },
+  "446": {
+    "uid": 446,
+    "nom": "Beaulac-Garthby",
+    "unique_identifier": 31008,
+    "region": "Chaudière-Appalaches"
+  },
+  "447": {
+    "uid": 447,
+    "nom": "Saint-Jacques-le-Majeur-de-Wolfestown",
+    "unique_identifier": 31025,
+    "region": "Chaudière-Appalaches"
+  },
+  "448": {
+    "uid": 448,
+    "nom": "Saint-Fortunat",
+    "unique_identifier": 31030,
+    "region": "Chaudière-Appalaches"
+  },
+  "449": {
+    "uid": 449,
+    "nom": "Saint-Julien",
+    "unique_identifier": 31035,
+    "region": "Chaudière-Appalaches"
+  },
+  "450": {
+    "uid": 450,
+    "nom": "Irlande",
+    "unique_identifier": 31040,
+    "region": "Chaudière-Appalaches"
+  },
+  "451": {
+    "uid": 451,
+    "nom": "Saint-Joseph-de-Coleraine",
+    "unique_identifier": 31045,
+    "region": "Chaudière-Appalaches"
+  },
+  "452": {
+    "uid": 452,
+    "nom": "Sainte-Praxède",
+    "unique_identifier": 31050,
+    "region": "Chaudière-Appalaches"
+  },
+  "453": {
+    "uid": 453,
+    "nom": "Adstock",
+    "unique_identifier": 31056,
+    "region": "Chaudière-Appalaches"
+  },
+  "454": {
+    "uid": 454,
+    "nom": "Sainte-Clotilde-de-Beauce",
+    "unique_identifier": 31060,
+    "region": "Chaudière-Appalaches"
+  },
+  "455": {
+    "uid": 455,
+    "nom": "Saint-Adrien-d'Irlande",
+    "unique_identifier": 31095,
+    "region": "Chaudière-Appalaches"
+  },
+  "456": {
+    "uid": 456,
+    "nom": "Saint-Jean-de-Brébeuf",
+    "unique_identifier": 31100,
+    "region": "Chaudière-Appalaches"
+  },
+  "457": {
+    "uid": 457,
+    "nom": "Kinnear's Mills",
+    "unique_identifier": 31105,
+    "region": "Chaudière-Appalaches"
+  },
+  "458": {
+    "uid": 458,
+    "nom": "East Broughton",
+    "unique_identifier": 31122,
+    "region": "Chaudière-Appalaches"
+  },
+  "459": {
+    "uid": 459,
+    "nom": "Sacré-Coeur-de-Jésus",
+    "unique_identifier": 31130,
+    "region": "Chaudière-Appalaches"
+  },
+  "460": {
+    "uid": 460,
+    "nom": "Saint-Pierre-de-Broughton",
+    "unique_identifier": 31135,
+    "region": "Chaudière-Appalaches"
+  },
+  "461": {
+    "uid": 461,
+    "nom": "Saint-Jacques-de-Leeds",
+    "unique_identifier": 31140,
+    "region": "Chaudière-Appalaches"
+  },
+  "462": {
+    "uid": 462,
+    "nom": "Saint-Ferdinand",
+    "unique_identifier": 32013,
+    "region": "Centre-du-Québec"
+  },
+  "463": {
+    "uid": 463,
+    "nom": "Sainte-Sophie-d'Halifax",
+    "unique_identifier": 32023,
+    "region": "Centre-du-Québec"
+  },
+  "464": {
+    "uid": 464,
+    "nom": "Princeville",
+    "unique_identifier": 32033,
+    "region": "Centre-du-Québec"
+  },
+  "465": {
+    "uid": 465,
+    "nom": "Saint-Pierre-Baptiste",
+    "unique_identifier": 32050,
+    "region": "Centre-du-Québec"
+  },
+  "466": {
+    "uid": 466,
+    "nom": "Inverness",
+    "unique_identifier": 32058,
+    "region": "Centre-du-Québec"
+  },
+  "467": {
+    "uid": 467,
+    "nom": "Lyster",
+    "unique_identifier": 32065,
+    "region": "Centre-du-Québec"
+  },
+  "468": {
+    "uid": 468,
+    "nom": "Laurierville",
+    "unique_identifier": 32072,
+    "region": "Centre-du-Québec"
+  },
+  "469": {
+    "uid": 469,
+    "nom": "Notre-Dame-de-Lourdes",
+    "unique_identifier": 32080,
+    "region": "Centre-du-Québec"
+  },
+  "470": {
+    "uid": 470,
+    "nom": "Villeroy",
+    "unique_identifier": 32085,
+    "region": "Centre-du-Québec"
+  },
+  "471": {
+    "uid": 471,
+    "nom": "Saint-Sylvestre",
+    "unique_identifier": 33007,
+    "region": "Chaudière-Appalaches"
+  },
+  "472": {
+    "uid": 472,
+    "nom": "Sainte-Agathe-de-Lotbinière",
+    "unique_identifier": 33017,
+    "region": "Chaudière-Appalaches"
+  },
+  "473": {
+    "uid": 473,
+    "nom": "Saint-Patrice-de-Beaurivage",
+    "unique_identifier": 33025,
+    "region": "Chaudière-Appalaches"
+  },
+  "474": {
+    "uid": 474,
+    "nom": "Saint-Narcisse-de-Beaurivage",
+    "unique_identifier": 33030,
+    "region": "Chaudière-Appalaches"
+  },
+  "475": {
+    "uid": 475,
+    "nom": "Saint-Gilles",
+    "unique_identifier": 33035,
+    "region": "Chaudière-Appalaches"
+  },
+  "476": {
+    "uid": 476,
+    "nom": "Dosquet",
+    "unique_identifier": 33040,
+    "region": "Chaudière-Appalaches"
+  },
+  "477": {
+    "uid": 477,
+    "nom": "Saint-Agapit",
+    "unique_identifier": 33045,
+    "region": "Chaudière-Appalaches"
+  },
+  "478": {
+    "uid": 478,
+    "nom": "Saint-Flavien",
+    "unique_identifier": 33052,
+    "region": "Chaudière-Appalaches"
+  },
+  "479": {
+    "uid": 479,
+    "nom": "Laurier-Station",
+    "unique_identifier": 33060,
+    "region": "Chaudière-Appalaches"
+  },
+  "480": {
+    "uid": 480,
+    "nom": "Saint-Janvier-de-Joly",
+    "unique_identifier": 33065,
+    "region": "Chaudière-Appalaches"
+  },
+  "481": {
+    "uid": 481,
+    "nom": "Val-Alain",
+    "unique_identifier": 33070,
+    "region": "Chaudière-Appalaches"
+  },
+  "482": {
+    "uid": 482,
+    "nom": "Saint-Édouard-de-Lotbinière",
+    "unique_identifier": 33080,
+    "region": "Chaudière-Appalaches"
+  },
+  "483": {
+    "uid": 483,
+    "nom": "Notre-Dame-du-Sacré-Coeur-d'Issoudun",
+    "unique_identifier": 33085,
+    "region": "Chaudière-Appalaches"
+  },
+  "484": {
+    "uid": 484,
+    "nom": "Saint-Antoine-de-Tilly",
+    "unique_identifier": 33095,
+    "region": "Chaudière-Appalaches"
+  },
+  "485": {
+    "uid": 485,
+    "nom": "Sainte-Croix",
+    "unique_identifier": 33102,
+    "region": "Chaudière-Appalaches"
+  },
+  "486": {
+    "uid": 486,
+    "nom": "Lotbinière",
+    "unique_identifier": 33115,
+    "region": "Chaudière-Appalaches"
+  },
+  "487": {
+    "uid": 487,
+    "nom": "Leclercville",
+    "unique_identifier": 33123,
+    "region": "Chaudière-Appalaches"
+  },
+  "488": {
+    "uid": 488,
+    "nom": "Neuville",
+    "unique_identifier": 34007,
+    "region": "Capitale Nationale"
+  },
+  "489": {
+    "uid": 489,
+    "nom": "Pont-Rouge",
+    "unique_identifier": 34017,
+    "region": "Capitale Nationale"
+  },
+  "490": {
+    "uid": 490,
+    "nom": "Cap-Santé",
+    "unique_identifier": 34030,
+    "region": "Capitale Nationale"
+  },
+  "491": {
+    "uid": 491,
+    "nom": "Saint-Basile",
+    "unique_identifier": 34038,
+    "region": "Capitale Nationale"
+  },
+  "492": {
+    "uid": 492,
+    "nom": "Portneuf",
+    "unique_identifier": 34048,
+    "region": "Capitale Nationale"
+  },
+  "493": {
+    "uid": 493,
+    "nom": "Deschambault-Grondines",
+    "unique_identifier": 34058,
+    "region": "Capitale Nationale"
+  },
+  "494": {
+    "uid": 494,
+    "nom": "Saint-Gilbert",
+    "unique_identifier": 34060,
+    "region": "Capitale Nationale"
+  },
+  "495": {
+    "uid": 495,
+    "nom": "Saint-Casimir",
+    "unique_identifier": 34078,
+    "region": "Capitale Nationale"
+  },
+  "496": {
+    "uid": 496,
+    "nom": "Saint-Thuribe",
+    "unique_identifier": 34085,
+    "region": "Capitale Nationale"
+  },
+  "497": {
+    "uid": 497,
+    "nom": "Saint-Ubalde",
+    "unique_identifier": 34090,
+    "region": "Capitale Nationale"
+  },
+  "498": {
+    "uid": 498,
+    "nom": "Saint-Alban",
+    "unique_identifier": 34097,
+    "region": "Capitale Nationale"
+  },
+  "499": {
+    "uid": 499,
+    "nom": "Sainte-Christine-d'Auvergne",
+    "unique_identifier": 34105,
+    "region": "Capitale Nationale"
+  },
+  "500": {
+    "uid": 500,
+    "nom": "Saint-Léonard-de-Portneuf",
+    "unique_identifier": 34115,
+    "region": "Capitale Nationale"
+  },
+  "501": {
+    "uid": 501,
+    "nom": "Lac-Sergent",
+    "unique_identifier": 34120,
+    "region": "Capitale Nationale"
+  },
+  "502": {
+    "uid": 502,
+    "nom": "Rivière-à-Pierre",
+    "unique_identifier": 34135,
+    "region": "Capitale Nationale"
+  },
+  "503": {
+    "uid": 503,
+    "nom": "Lac-Blanc",
+    "unique_identifier": 34902,
+    "region": null
+  },
+  "504": {
+    "uid": 504,
+    "nom": "Linton",
+    "unique_identifier": 34904,
+    "region": null
+  },
+  "505": {
+    "uid": 505,
+    "nom": "Lac-Lapeyrère",
+    "unique_identifier": 34906,
+    "region": null
+  },
+  "506": {
+    "uid": 506,
+    "nom": "Notre-Dame-de-Montauban",
+    "unique_identifier": 35005,
+    "region": "Mauricie"
+  },
+  "507": {
+    "uid": 507,
+    "nom": "Lac-aux-Sables",
+    "unique_identifier": 35010,
+    "region": "Mauricie"
+  },
+  "508": {
+    "uid": 508,
+    "nom": "Saint-Adelphe",
+    "unique_identifier": 35015,
+    "region": "Mauricie"
+  },
+  "509": {
+    "uid": 509,
+    "nom": "Hérouxville",
+    "unique_identifier": 35035,
+    "region": "Mauricie"
+  },
+  "510": {
+    "uid": 510,
+    "nom": "Grandes-Piles",
+    "unique_identifier": 35040,
+    "region": "Mauricie"
+  },
+  "511": {
+    "uid": 511,
+    "nom": "Saint-Roch-de-Mékinac",
+    "unique_identifier": 35045,
+    "region": "Mauricie"
+  },
+  "512": {
+    "uid": 512,
+    "nom": "Sainte-Thècle",
+    "unique_identifier": 35050,
+    "region": "Mauricie"
+  },
+  "513": {
+    "uid": 513,
+    "nom": "Trois-Rives",
+    "unique_identifier": 35055,
+    "region": "Mauricie"
+  },
+  "514": {
+    "uid": 514,
+    "nom": "Lac-Masketsi",
+    "unique_identifier": 35902,
+    "region": null
+  },
+  "515": {
+    "uid": 515,
+    "nom": "Lac-Normand",
+    "unique_identifier": 35904,
+    "region": null
+  },
+  "516": {
+    "uid": 516,
+    "nom": "Rivière-de-la-Savane",
+    "unique_identifier": 35906,
+    "region": null
+  },
+  "517": {
+    "uid": 517,
+    "nom": "Lac-Boulé",
+    "unique_identifier": 35908,
+    "region": null
+  },
+  "518": {
+    "uid": 518,
+    "nom": "Sainte-Anne-de-la-Pérade",
+    "unique_identifier": 37205,
+    "region": "Mauricie"
+  },
+  "519": {
+    "uid": 519,
+    "nom": "Batiscan",
+    "unique_identifier": 37210,
+    "region": "Mauricie"
+  },
+  "520": {
+    "uid": 520,
+    "nom": "Sainte-Geneviève-de-Batiscan",
+    "unique_identifier": 37215,
+    "region": "Mauricie"
+  },
+  "521": {
+    "uid": 521,
+    "nom": "Champlain",
+    "unique_identifier": 37220,
+    "region": "Mauricie"
+  },
+  "522": {
+    "uid": 522,
+    "nom": "Saint-Luc-de-Vincennes",
+    "unique_identifier": 37225,
+    "region": "Mauricie"
+  },
+  "523": {
+    "uid": 523,
+    "nom": "Saint-Maurice",
+    "unique_identifier": 37230,
+    "region": "Mauricie"
+  },
+  "524": {
+    "uid": 524,
+    "nom": "Notre-Dame-du-Mont-Carmel",
+    "unique_identifier": 37235,
+    "region": "Mauricie"
+  },
+  "525": {
+    "uid": 525,
+    "nom": "Saint-Narcisse",
+    "unique_identifier": 37240,
+    "region": "Mauricie"
+  },
+  "526": {
+    "uid": 526,
+    "nom": "Saint-Stanislas",
+    "unique_identifier": 37245,
+    "region": "Mauricie"
+  },
+  "527": {
+    "uid": 527,
+    "nom": "Saint-Prosper-de-Champlain",
+    "unique_identifier": 37250,
+    "region": "Mauricie"
+  },
+  "528": {
+    "uid": 528,
+    "nom": "Saint-Sylvère",
+    "unique_identifier": 38005,
+    "region": "Centre-du-Québec"
+  },
+  "529": {
+    "uid": 529,
+    "nom": "Sainte-Marie-de-Blandford",
+    "unique_identifier": 38015,
+    "region": "Centre-du-Québec"
+  },
+  "530": {
+    "uid": 530,
+    "nom": "Lemieux",
+    "unique_identifier": 38020,
+    "region": "Centre-du-Québec"
+  },
+  "531": {
+    "uid": 531,
+    "nom": "Manseau",
+    "unique_identifier": 38028,
+    "region": "Centre-du-Québec"
+  },
+  "532": {
+    "uid": 532,
+    "nom": "Sainte-Sophie-de-Lévrard",
+    "unique_identifier": 38040,
+    "region": "Centre-du-Québec"
+  },
+  "533": {
+    "uid": 533,
+    "nom": "Fortierville",
+    "unique_identifier": 38047,
+    "region": "Centre-du-Québec"
+  },
+  "534": {
+    "uid": 534,
+    "nom": "Parisville",
+    "unique_identifier": 38055,
+    "region": "Centre-du-Québec"
+  },
+  "535": {
+    "uid": 535,
+    "nom": "Sainte-Cécile-de-Lévrard",
+    "unique_identifier": 38060,
+    "region": "Centre-du-Québec"
+  },
+  "536": {
+    "uid": 536,
+    "nom": "Saint-Pierre-les-Becquets",
+    "unique_identifier": 38065,
+    "region": "Centre-du-Québec"
+  },
+  "537": {
+    "uid": 537,
+    "nom": "Wôlinak",
+    "unique_identifier": 38802,
+    "region": null
+  },
+  "538": {
+    "uid": 538,
+    "nom": "Saints-Martyrs-Canadiens",
+    "unique_identifier": 39005,
+    "region": "Centre-du-Québec"
+  },
+  "539": {
+    "uid": 539,
+    "nom": "Ham-Nord",
+    "unique_identifier": 39010,
+    "region": "Centre-du-Québec"
+  },
+  "540": {
+    "uid": 540,
+    "nom": "Notre-Dame-de-Ham",
+    "unique_identifier": 39015,
+    "region": "Centre-du-Québec"
+  },
+  "541": {
+    "uid": 541,
+    "nom": "Saint-Rémi-de-Tingwick",
+    "unique_identifier": 39020,
+    "region": "Centre-du-Québec"
+  },
+  "542": {
+    "uid": 542,
+    "nom": "Tingwick",
+    "unique_identifier": 39025,
+    "region": "Centre-du-Québec"
+  },
+  "543": {
+    "uid": 543,
+    "nom": "Chesterville",
+    "unique_identifier": 39030,
+    "region": "Centre-du-Québec"
+  },
+  "544": {
+    "uid": 544,
+    "nom": "Sainte-Hélène-de-Chester",
+    "unique_identifier": 39035,
+    "region": "Centre-du-Québec"
+  },
+  "545": {
+    "uid": 545,
+    "nom": "Saint-Norbert-d'Arthabaska",
+    "unique_identifier": 39043,
+    "region": "Centre-du-Québec"
+  },
+  "546": {
+    "uid": 546,
+    "nom": "Saint-Christophe-d'Arthabaska",
+    "unique_identifier": 39060,
+    "region": "Centre-du-Québec"
+  },
+  "547": {
+    "uid": 547,
+    "nom": "Warwick",
+    "unique_identifier": 39077,
+    "region": "Centre-du-Québec"
+  },
+  "548": {
+    "uid": 548,
+    "nom": "Saint-Albert",
+    "unique_identifier": 39085,
+    "region": "Centre-du-Québec"
+  },
+  "549": {
+    "uid": 549,
+    "nom": "Sainte-Élizabeth-de-Warwick",
+    "unique_identifier": 39090,
+    "region": "Centre-du-Québec"
+  },
+  "550": {
+    "uid": 550,
+    "nom": "Kingsey Falls",
+    "unique_identifier": 39097,
+    "region": "Centre-du-Québec"
+  },
+  "551": {
+    "uid": 551,
+    "nom": "Sainte-Séraphine",
+    "unique_identifier": 39105,
+    "region": "Centre-du-Québec"
+  },
+  "552": {
+    "uid": 552,
+    "nom": "Sainte-Clotilde-de-Horton",
+    "unique_identifier": 39117,
+    "region": "Centre-du-Québec"
+  },
+  "553": {
+    "uid": 553,
+    "nom": "Saint-Samuel",
+    "unique_identifier": 39130,
+    "region": "Centre-du-Québec"
+  },
+  "554": {
+    "uid": 554,
+    "nom": "Saint-Valère",
+    "unique_identifier": 39135,
+    "region": "Centre-du-Québec"
+  },
+  "555": {
+    "uid": 555,
+    "nom": "Saint-Rosaire",
+    "unique_identifier": 39145,
+    "region": "Centre-du-Québec"
+  },
+  "556": {
+    "uid": 556,
+    "nom": "Sainte-Anne-du-Sault",
+    "unique_identifier": 39150,
+    "region": null
+  },
+  "557": {
+    "uid": 557,
+    "nom": "Daveluyville",
+    "unique_identifier": 39152,
+    "region": "Centre-du-Québec"
+  },
+  "558": {
+    "uid": 558,
+    "nom": "Maddington Falls",
+    "unique_identifier": 39165,
+    "region": "Centre-du-Québec"
+  },
+  "559": {
+    "uid": 559,
+    "nom": "Saint-Louis-de-Blandford",
+    "unique_identifier": 39170,
+    "region": "Centre-du-Québec"
+  },
+  "560": {
+    "uid": 560,
+    "nom": "Ham-Sud",
+    "unique_identifier": 40005,
+    "region": "Estrie"
+  },
+  "561": {
+    "uid": 561,
+    "nom": "Saint-Adrien",
+    "unique_identifier": 40010,
+    "region": "Estrie"
+  },
+  "562": {
+    "uid": 562,
+    "nom": "Wotton",
+    "unique_identifier": 40017,
+    "region": "Estrie"
+  },
+  "563": {
+    "uid": 563,
+    "nom": "Saint-Camille",
+    "unique_identifier": 40025,
+    "region": "Estrie"
+  },
+  "564": {
+    "uid": 564,
+    "nom": "Saint-Georges-de-Windsor",
+    "unique_identifier": 40032,
+    "region": "Estrie"
+  },
+  "565": {
+    "uid": 565,
+    "nom": "Danville",
+    "unique_identifier": 40047,
+    "region": "Estrie"
+  },
+  "566": {
+    "uid": 566,
+    "nom": "Saint-Isidore-de-Clifton",
+    "unique_identifier": 41012,
+    "region": "Estrie"
+  },
+  "567": {
+    "uid": 567,
+    "nom": "Chartierville",
+    "unique_identifier": 41020,
+    "region": "Estrie"
+  },
+  "568": {
+    "uid": 568,
+    "nom": "La Patrie",
+    "unique_identifier": 41027,
+    "region": "Estrie"
+  },
+  "569": {
+    "uid": 569,
+    "nom": "Newport",
+    "unique_identifier": 41037,
+    "region": "Estrie"
+  },
+  "570": {
+    "uid": 570,
+    "nom": "Ascot Corner",
+    "unique_identifier": 41055,
+    "region": "Estrie"
+  },
+  "571": {
+    "uid": 571,
+    "nom": "East Angus",
+    "unique_identifier": 41060,
+    "region": "Estrie"
+  },
+  "572": {
+    "uid": 572,
+    "nom": "Westbury",
+    "unique_identifier": 41065,
+    "region": "Estrie"
+  },
+  "573": {
+    "uid": 573,
+    "nom": "Bury",
+    "unique_identifier": 41070,
+    "region": "Estrie"
+  },
+  "574": {
+    "uid": 574,
+    "nom": "Hampden",
+    "unique_identifier": 41075,
+    "region": "Estrie"
+  },
+  "575": {
+    "uid": 575,
+    "nom": "Scotstown",
+    "unique_identifier": 41080,
+    "region": "Estrie"
+  },
+  "576": {
+    "uid": 576,
+    "nom": "Lingwick",
+    "unique_identifier": 41085,
+    "region": "Estrie"
+  },
+  "577": {
+    "uid": 577,
+    "nom": "Dudswell",
+    "unique_identifier": 41117,
+    "region": "Estrie"
+  },
+  "578": {
+    "uid": 578,
+    "nom": "Stoke",
+    "unique_identifier": 42005,
+    "region": "Estrie"
+  },
+  "579": {
+    "uid": 579,
+    "nom": "Saint-François-Xavier-de-Brompton",
+    "unique_identifier": 42020,
+    "region": "Estrie"
+  },
+  "580": {
+    "uid": 580,
+    "nom": "Saint-Denis-de-Brompton",
+    "unique_identifier": 42025,
+    "region": "Estrie"
+  },
+  "581": {
+    "uid": 581,
+    "nom": "Racine",
+    "unique_identifier": 42032,
+    "region": "Estrie"
+  },
+  "582": {
+    "uid": 582,
+    "nom": "Bonsecours",
+    "unique_identifier": 42040,
+    "region": "Estrie"
+  },
+  "583": {
+    "uid": 583,
+    "nom": "Lawrenceville",
+    "unique_identifier": 42045,
+    "region": "Estrie"
+  },
+  "584": {
+    "uid": 584,
+    "nom": "Sainte-Anne-de-la-Rochelle",
+    "unique_identifier": 42050,
+    "region": "Estrie"
+  },
+  "585": {
+    "uid": 585,
+    "nom": "Valcourt",
+    "unique_identifier": 42055,
+    "region": "Estrie"
+  },
+  "586": {
+    "uid": 586,
+    "nom": "Maricourt",
+    "unique_identifier": 42065,
+    "region": "Estrie"
+  },
+  "587": {
+    "uid": 587,
+    "nom": "Kingsbury",
+    "unique_identifier": 42070,
+    "region": "Estrie"
+  },
+  "588": {
+    "uid": 588,
+    "nom": "Melbourne",
+    "unique_identifier": 42075,
+    "region": "Estrie"
+  },
+  "589": {
+    "uid": 589,
+    "nom": "Ulverton",
+    "unique_identifier": 42078,
+    "region": "Estrie"
+  },
+  "590": {
+    "uid": 590,
+    "nom": "Windsor",
+    "unique_identifier": 42088,
+    "region": "Estrie"
+  },
+  "591": {
+    "uid": 591,
+    "nom": "Val-Joli",
+    "unique_identifier": 42095,
+    "region": "Estrie"
+  },
+  "592": {
+    "uid": 592,
+    "nom": "Saint-Claude",
+    "unique_identifier": 42100,
+    "region": "Estrie"
+  },
+  "593": {
+    "uid": 593,
+    "nom": "Cleveland",
+    "unique_identifier": 42110,
+    "region": "Estrie"
+  },
+  "594": {
+    "uid": 594,
+    "nom": "Saint-Malo",
+    "unique_identifier": 44003,
+    "region": "Estrie"
+  },
+  "595": {
+    "uid": 595,
+    "nom": "Saint-Venant-de-Paquette",
+    "unique_identifier": 44005,
+    "region": "Estrie"
+  },
+  "596": {
+    "uid": 596,
+    "nom": "East Hereford",
+    "unique_identifier": 44010,
+    "region": "Estrie"
+  },
+  "597": {
+    "uid": 597,
+    "nom": "Saint-Herménégilde",
+    "unique_identifier": 44015,
+    "region": "Estrie"
+  },
+  "598": {
+    "uid": 598,
+    "nom": "Dixville",
+    "unique_identifier": 44023,
+    "region": "Estrie"
+  },
+  "599": {
+    "uid": 599,
+    "nom": "Barnston-Ouest",
+    "unique_identifier": 44045,
+    "region": "Estrie"
+  },
+  "600": {
+    "uid": 600,
+    "nom": "Stanstead-Est",
+    "unique_identifier": 44050,
+    "region": "Estrie"
+  },
+  "601": {
+    "uid": 601,
+    "nom": "Sainte-Edwidge-de-Clifton",
+    "unique_identifier": 44055,
+    "region": "Estrie"
+  },
+  "602": {
+    "uid": 602,
+    "nom": "Martinville",
+    "unique_identifier": 44060,
+    "region": "Estrie"
+  },
+  "603": {
+    "uid": 603,
+    "nom": "Compton",
+    "unique_identifier": 44071,
+    "region": "Estrie"
+  },
+  "604": {
+    "uid": 604,
+    "nom": "Waterville",
+    "unique_identifier": 44080,
+    "region": "Estrie"
+  },
+  "605": {
+    "uid": 605,
+    "nom": "Stanstead",
+    "unique_identifier": 45008,
+    "region": "Estrie"
+  },
+  "606": {
+    "uid": 606,
+    "nom": "Ogden",
+    "unique_identifier": 45020,
+    "region": "Estrie"
+  },
+  "607": {
+    "uid": 607,
+    "nom": "Potton",
+    "unique_identifier": 45030,
+    "region": "Estrie"
+  },
+  "608": {
+    "uid": 608,
+    "nom": "Ayer's Cliff",
+    "unique_identifier": 45035,
+    "region": "Estrie"
+  },
+  "609": {
+    "uid": 609,
+    "nom": "Hatley",
+    "unique_identifier": 45043,
+    "region": "Estrie"
+  },
+  "610": {
+    "uid": 610,
+    "nom": "North Hatley",
+    "unique_identifier": 45050,
+    "region": "Estrie"
+  },
+  "611": {
+    "uid": 611,
+    "nom": "Sainte-Catherine-de-Hatley",
+    "unique_identifier": 45060,
+    "region": "Estrie"
+  },
+  "612": {
+    "uid": 612,
+    "nom": "Saint-Benoît-du-Lac",
+    "unique_identifier": 45080,
+    "region": "Estrie"
+  },
+  "613": {
+    "uid": 613,
+    "nom": "Austin",
+    "unique_identifier": 45085,
+    "region": "Estrie"
+  },
+  "614": {
+    "uid": 614,
+    "nom": "Eastman",
+    "unique_identifier": 45093,
+    "region": "Estrie"
+  },
+  "615": {
+    "uid": 615,
+    "nom": "Bolton-Est",
+    "unique_identifier": 45095,
+    "region": "Estrie"
+  },
+  "616": {
+    "uid": 616,
+    "nom": "Saint-Étienne-de-Bolton",
+    "unique_identifier": 45100,
+    "region": "Estrie"
+  },
+  "617": {
+    "uid": 617,
+    "nom": "Stukely-Sud",
+    "unique_identifier": 45105,
+    "region": "Estrie"
+  },
+  "618": {
+    "uid": 618,
+    "nom": "Orford",
+    "unique_identifier": 45115,
+    "region": "Estrie"
+  },
+  "619": {
+    "uid": 619,
+    "nom": "Abercorn",
+    "unique_identifier": 46005,
+    "region": "Montérégie"
+  },
+  "620": {
+    "uid": 620,
+    "nom": "Frelighsburg",
+    "unique_identifier": 46010,
+    "region": "Montérégie"
+  },
+  "621": {
+    "uid": 621,
+    "nom": "Saint-Armand",
+    "unique_identifier": 46017,
+    "region": "Montérégie"
+  },
+  "622": {
+    "uid": 622,
+    "nom": "Pike River",
+    "unique_identifier": 46025,
+    "region": "Montérégie"
+  },
+  "623": {
+    "uid": 623,
+    "nom": "Stanbridge Station",
+    "unique_identifier": 46030,
+    "region": "Montérégie"
+  },
+  "624": {
+    "uid": 624,
+    "nom": "Stanbridge East",
+    "unique_identifier": 46045,
+    "region": "Montérégie"
+  },
+  "625": {
+    "uid": 625,
+    "nom": "Dunham",
+    "unique_identifier": 46050,
+    "region": "Montérégie"
+  },
+  "626": {
+    "uid": 626,
+    "nom": "Sutton",
+    "unique_identifier": 46058,
+    "region": "Montérégie"
+  },
+  "627": {
+    "uid": 627,
+    "nom": "Bolton-Ouest",
+    "unique_identifier": 46065,
+    "region": "Montérégie"
+  },
+  "628": {
+    "uid": 628,
+    "nom": "Brome",
+    "unique_identifier": 46070,
+    "region": "Montérégie"
+  },
+  "629": {
+    "uid": 629,
+    "nom": "Lac-Brome",
+    "unique_identifier": 46075,
+    "region": "Montérégie"
+  },
+  "630": {
+    "uid": 630,
+    "nom": "Bromont",
+    "unique_identifier": 46078,
+    "region": "Montérégie"
+  },
+  "631": {
+    "uid": 631,
+    "nom": "East Farnham",
+    "unique_identifier": 46085,
+    "region": "Montérégie"
+  },
+  "632": {
+    "uid": 632,
+    "nom": "Brigham",
+    "unique_identifier": 46090,
+    "region": "Montérégie"
+  },
+  "633": {
+    "uid": 633,
+    "nom": "Saint-Ignace-de-Stanbridge",
+    "unique_identifier": 46095,
+    "region": "Montérégie"
+  },
+  "634": {
+    "uid": 634,
+    "nom": "Notre-Dame-de-Stanbridge",
+    "unique_identifier": 46100,
+    "region": "Montérégie"
+  },
+  "635": {
+    "uid": 635,
+    "nom": "Farnham",
+    "unique_identifier": 46112,
+    "region": "Montérégie"
+  },
+  "636": {
+    "uid": 636,
+    "nom": "Saint-Alphonse-de-Granby",
+    "unique_identifier": 47010,
+    "region": "Montérégie"
+  },
+  "637": {
+    "uid": 637,
+    "nom": "Warden",
+    "unique_identifier": 47030,
+    "region": "Montérégie"
+  },
+  "638": {
+    "uid": 638,
+    "nom": "Shefford",
+    "unique_identifier": 47035,
+    "region": "Montérégie"
+  },
+  "639": {
+    "uid": 639,
+    "nom": "Saint-Joachim-de-Shefford",
+    "unique_identifier": 47040,
+    "region": "Montérégie"
+  },
+  "640": {
+    "uid": 640,
+    "nom": "Roxton Pond",
+    "unique_identifier": 47047,
+    "region": "Montérégie"
+  },
+  "641": {
+    "uid": 641,
+    "nom": "Sainte-Cécile-de-Milton",
+    "unique_identifier": 47055,
+    "region": "Montérégie"
+  },
+  "642": {
+    "uid": 642,
+    "nom": "Béthanie",
+    "unique_identifier": 48005,
+    "region": "Montérégie"
+  },
+  "643": {
+    "uid": 643,
+    "nom": "Roxton Falls",
+    "unique_identifier": 48010,
+    "region": "Montérégie"
+  },
+  "644": {
+    "uid": 644,
+    "nom": "Roxton",
+    "unique_identifier": 48015,
+    "region": "Montérégie"
+  },
+  "645": {
+    "uid": 645,
+    "nom": "Sainte-Christine",
+    "unique_identifier": 48020,
+    "region": "Montérégie"
+  },
+  "646": {
+    "uid": 646,
+    "nom": "Upton",
+    "unique_identifier": 48038,
+    "region": "Montérégie"
+  },
+  "647": {
+    "uid": 647,
+    "nom": "Saint-Théodore-d'Acton",
+    "unique_identifier": 48045,
+    "region": "Montérégie"
+  },
+  "648": {
+    "uid": 648,
+    "nom": "Saint-Nazaire-d'Acton",
+    "unique_identifier": 48050,
+    "region": "Montérégie"
+  },
+  "649": {
+    "uid": 649,
+    "nom": "Saint-Félix-de-Kingsey",
+    "unique_identifier": 49005,
+    "region": "Centre-du-Québec"
+  },
+  "650": {
+    "uid": 650,
+    "nom": "Durham-Sud",
+    "unique_identifier": 49015,
+    "region": "Centre-du-Québec"
+  },
+  "651": {
+    "uid": 651,
+    "nom": "Lefebvre",
+    "unique_identifier": 49020,
+    "region": "Centre-du-Québec"
+  },
+  "652": {
+    "uid": 652,
+    "nom": "L'Avenir",
+    "unique_identifier": 49025,
+    "region": "Centre-du-Québec"
+  },
+  "653": {
+    "uid": 653,
+    "nom": "Saint-Lucien",
+    "unique_identifier": 49030,
+    "region": "Centre-du-Québec"
+  },
+  "654": {
+    "uid": 654,
+    "nom": "Wickham",
+    "unique_identifier": 49040,
+    "region": "Centre-du-Québec"
+  },
+  "655": {
+    "uid": 655,
+    "nom": "Saint-Germain-de-Grantham",
+    "unique_identifier": 49048,
+    "region": "Centre-du-Québec"
+  },
+  "656": {
+    "uid": 656,
+    "nom": "Saint-Cyrille-de-Wendover",
+    "unique_identifier": 49070,
+    "region": "Centre-du-Québec"
+  },
+  "657": {
+    "uid": 657,
+    "nom": "Notre-Dame-du-Bon-Conseil",
+    "unique_identifier": 49075,
+    "region": "Centre-du-Québec"
+  },
+  "658": {
+    "uid": 658,
+    "nom": "Sainte-Brigitte-des-Saults",
+    "unique_identifier": 49085,
+    "region": "Centre-du-Québec"
+  },
+  "659": {
+    "uid": 659,
+    "nom": "Saint-Majorique-de-Grantham",
+    "unique_identifier": 49095,
+    "region": "Centre-du-Québec"
+  },
+  "660": {
+    "uid": 660,
+    "nom": "Saint-Edmond-de-Grantham",
+    "unique_identifier": 49100,
+    "region": "Centre-du-Québec"
+  },
+  "661": {
+    "uid": 661,
+    "nom": "Saint-Eugène",
+    "unique_identifier": 49105,
+    "region": "Centre-du-Québec"
+  },
+  "662": {
+    "uid": 662,
+    "nom": "Saint-Guillaume",
+    "unique_identifier": 49113,
+    "region": "Centre-du-Québec"
+  },
+  "663": {
+    "uid": 663,
+    "nom": "Saint-Bonaventure",
+    "unique_identifier": 49125,
+    "region": "Centre-du-Québec"
+  },
+  "664": {
+    "uid": 664,
+    "nom": "Saint-Pie-de-Guire",
+    "unique_identifier": 49130,
+    "region": "Centre-du-Québec"
+  },
+  "665": {
+    "uid": 665,
+    "nom": "Sainte-Eulalie",
+    "unique_identifier": 50005,
+    "region": "Centre-du-Québec"
+  },
+  "666": {
+    "uid": 666,
+    "nom": "Aston-Jonction",
+    "unique_identifier": 50013,
+    "region": "Centre-du-Québec"
+  },
+  "667": {
+    "uid": 667,
+    "nom": "Saint-Wenceslas",
+    "unique_identifier": 50023,
+    "region": "Centre-du-Québec"
+  },
+  "668": {
+    "uid": 668,
+    "nom": "Saint-Célestin",
+    "unique_identifier": 50030,
+    "region": "Centre-du-Québec"
+  },
+  "669": {
+    "uid": 669,
+    "nom": "Saint-Léonard-d'Aston",
+    "unique_identifier": 50042,
+    "region": "Centre-du-Québec"
+  },
+  "670": {
+    "uid": 670,
+    "nom": "Sainte-Monique",
+    "unique_identifier": 50057,
+    "region": "Centre-du-Québec"
+  },
+  "671": {
+    "uid": 671,
+    "nom": "Grand-Saint-Esprit",
+    "unique_identifier": 50065,
+    "region": "Centre-du-Québec"
+  },
+  "672": {
+    "uid": 672,
+    "nom": "La Visitation-de-Yamaska",
+    "unique_identifier": 50085,
+    "region": "Centre-du-Québec"
+  },
+  "673": {
+    "uid": 673,
+    "nom": "Saint-Zéphirin-de-Courval",
+    "unique_identifier": 50090,
+    "region": "Centre-du-Québec"
+  },
+  "674": {
+    "uid": 674,
+    "nom": "Saint-Elphège",
+    "unique_identifier": 50095,
+    "region": "Centre-du-Québec"
+  },
+  "675": {
+    "uid": 675,
+    "nom": "Baie-du-Febvre",
+    "unique_identifier": 50100,
+    "region": "Centre-du-Québec"
+  },
+  "676": {
+    "uid": 676,
+    "nom": "Pierreville",
+    "unique_identifier": 50113,
+    "region": "Centre-du-Québec"
+  },
+  "677": {
+    "uid": 677,
+    "nom": "Saint-François-du-Lac",
+    "unique_identifier": 50128,
+    "region": "Centre-du-Québec"
+  },
+  "678": {
+    "uid": 678,
+    "nom": "Odanak",
+    "unique_identifier": 50802,
+    "region": null
+  },
+  "679": {
+    "uid": 679,
+    "nom": "Maskinongé",
+    "unique_identifier": 51008,
+    "region": "Mauricie"
+  },
+  "680": {
+    "uid": 680,
+    "nom": "Yamachiche",
+    "unique_identifier": 51020,
+    "region": "Mauricie"
+  },
+  "681": {
+    "uid": 681,
+    "nom": "Saint-Barnabé",
+    "unique_identifier": 51025,
+    "region": "Mauricie"
+  },
+  "682": {
+    "uid": 682,
+    "nom": "Saint-Sévère",
+    "unique_identifier": 51030,
+    "region": "Mauricie"
+  },
+  "683": {
+    "uid": 683,
+    "nom": "Sainte-Ursule",
+    "unique_identifier": 51040,
+    "region": "Mauricie"
+  },
+  "684": {
+    "uid": 684,
+    "nom": "Saint-Justin",
+    "unique_identifier": 51045,
+    "region": "Mauricie"
+  },
+  "685": {
+    "uid": 685,
+    "nom": "Saint-Édouard-de-Maskinongé",
+    "unique_identifier": 51050,
+    "region": "Mauricie"
+  },
+  "686": {
+    "uid": 686,
+    "nom": "Sainte-Angèle-de-Prémont",
+    "unique_identifier": 51055,
+    "region": "Mauricie"
+  },
+  "687": {
+    "uid": 687,
+    "nom": "Saint-Paulin",
+    "unique_identifier": 51060,
+    "region": "Mauricie"
+  },
+  "688": {
+    "uid": 688,
+    "nom": "Saint-Alexis-des-Monts",
+    "unique_identifier": 51065,
+    "region": "Mauricie"
+  },
+  "689": {
+    "uid": 689,
+    "nom": "Saint-Mathieu-du-Parc",
+    "unique_identifier": 51070,
+    "region": "Mauricie"
+  },
+  "690": {
+    "uid": 690,
+    "nom": "Saint-Élie-de-Caxton",
+    "unique_identifier": 51075,
+    "region": "Mauricie"
+  },
+  "691": {
+    "uid": 691,
+    "nom": "Charette",
+    "unique_identifier": 51080,
+    "region": "Mauricie"
+  },
+  "692": {
+    "uid": 692,
+    "nom": "Saint-Boniface",
+    "unique_identifier": 51085,
+    "region": "Mauricie"
+  },
+  "693": {
+    "uid": 693,
+    "nom": "Saint-Étienne-des-Grès",
+    "unique_identifier": 51090,
+    "region": "Mauricie"
+  },
+  "694": {
+    "uid": 694,
+    "nom": "Lavaltrie",
+    "unique_identifier": 52007,
+    "region": "Lanaudière"
+  },
+  "695": {
+    "uid": 695,
+    "nom": "Lanoraie",
+    "unique_identifier": 52017,
+    "region": "Lanaudière"
+  },
+  "696": {
+    "uid": 696,
+    "nom": "Sainte-Élisabeth",
+    "unique_identifier": 52030,
+    "region": "Lanaudière"
+  },
+  "697": {
+    "uid": 697,
+    "nom": "Sainte-Geneviève-de-Berthier",
+    "unique_identifier": 52040,
+    "region": "Lanaudière"
+  },
+  "698": {
+    "uid": 698,
+    "nom": "Saint-Ignace-de-Loyola",
+    "unique_identifier": 52045,
+    "region": "Lanaudière"
+  },
+  "699": {
+    "uid": 699,
+    "nom": "La Visitation-de-l'Île-Dupas",
+    "unique_identifier": 52050,
+    "region": "Lanaudière"
+  },
+  "700": {
+    "uid": 700,
+    "nom": "Saint-Barthélemy",
+    "unique_identifier": 52055,
+    "region": "Lanaudière"
+  },
+  "701": {
+    "uid": 701,
+    "nom": "Saint-Cuthbert",
+    "unique_identifier": 52062,
+    "region": "Lanaudière"
+  },
+  "702": {
+    "uid": 702,
+    "nom": "Saint-Norbert",
+    "unique_identifier": 52070,
+    "region": "Lanaudière"
+  },
+  "703": {
+    "uid": 703,
+    "nom": "Saint-Cléophas-de-Brandon",
+    "unique_identifier": 52075,
+    "region": "Lanaudière"
+  },
+  "704": {
+    "uid": 704,
+    "nom": "Saint-Gabriel",
+    "unique_identifier": 52080,
+    "region": "Lanaudière"
+  },
+  "705": {
+    "uid": 705,
+    "nom": "Saint-Didace",
+    "unique_identifier": 52090,
+    "region": "Lanaudière"
+  },
+  "706": {
+    "uid": 706,
+    "nom": "Mandeville",
+    "unique_identifier": 52095,
+    "region": "Lanaudière"
+  },
+  "707": {
+    "uid": 707,
+    "nom": "Saint-David",
+    "unique_identifier": 53005,
+    "region": "Montérégie"
+  },
+  "708": {
+    "uid": 708,
+    "nom": "Massueville",
+    "unique_identifier": 53010,
+    "region": "Montérégie"
+  },
+  "709": {
+    "uid": 709,
+    "nom": "Saint-Aimé",
+    "unique_identifier": 53015,
+    "region": "Montérégie"
+  },
+  "710": {
+    "uid": 710,
+    "nom": "Saint-Robert",
+    "unique_identifier": 53020,
+    "region": "Montérégie"
+  },
+  "711": {
+    "uid": 711,
+    "nom": "Sainte-Victoire-de-Sorel",
+    "unique_identifier": 53025,
+    "region": "Montérégie"
+  },
+  "712": {
+    "uid": 712,
+    "nom": "Saint-Ours",
+    "unique_identifier": 53032,
+    "region": "Montérégie"
+  },
+  "713": {
+    "uid": 713,
+    "nom": "Saint-Roch-de-Richelieu",
+    "unique_identifier": 53040,
+    "region": "Montérégie"
+  },
+  "714": {
+    "uid": 714,
+    "nom": "Saint-Joseph-de-Sorel",
+    "unique_identifier": 53050,
+    "region": "Montérégie"
+  },
+  "715": {
+    "uid": 715,
+    "nom": "Sainte-Anne-de-Sorel",
+    "unique_identifier": 53065,
+    "region": "Montérégie"
+  },
+  "716": {
+    "uid": 716,
+    "nom": "Yamaska",
+    "unique_identifier": 53072,
+    "region": "Montérégie"
+  },
+  "717": {
+    "uid": 717,
+    "nom": "Saint-Gérard-Majella",
+    "unique_identifier": 53085,
+    "region": "Montérégie"
+  },
+  "718": {
+    "uid": 718,
+    "nom": "Saint-Pie",
+    "unique_identifier": 54008,
+    "region": "Montérégie"
+  },
+  "719": {
+    "uid": 719,
+    "nom": "Sainte-Madeleine",
+    "unique_identifier": 54025,
+    "region": "Montérégie"
+  },
+  "720": {
+    "uid": 720,
+    "nom": "Sainte-Marie-Madeleine",
+    "unique_identifier": 54030,
+    "region": "Montérégie"
+  },
+  "721": {
+    "uid": 721,
+    "nom": "La Présentation",
+    "unique_identifier": 54035,
+    "region": "Montérégie"
+  },
+  "722": {
+    "uid": 722,
+    "nom": "Saint-Dominique",
+    "unique_identifier": 54060,
+    "region": "Montérégie"
+  },
+  "723": {
+    "uid": 723,
+    "nom": "Saint-Valérien-de-Milton",
+    "unique_identifier": 54065,
+    "region": "Montérégie"
+  },
+  "724": {
+    "uid": 724,
+    "nom": "Saint-Liboire",
+    "unique_identifier": 54072,
+    "region": "Montérégie"
+  },
+  "725": {
+    "uid": 725,
+    "nom": "Sainte-Hélène-de-Bagot",
+    "unique_identifier": 54095,
+    "region": "Montérégie"
+  },
+  "726": {
+    "uid": 726,
+    "nom": "Saint-Hugues",
+    "unique_identifier": 54100,
+    "region": "Montérégie"
+  },
+  "727": {
+    "uid": 727,
+    "nom": "Saint-Barnabé-Sud",
+    "unique_identifier": 54105,
+    "region": "Montérégie"
+  },
+  "728": {
+    "uid": 728,
+    "nom": "Saint-Jude",
+    "unique_identifier": 54110,
+    "region": "Montérégie"
+  },
+  "729": {
+    "uid": 729,
+    "nom": "Saint-Bernard-de-Michaudville",
+    "unique_identifier": 54115,
+    "region": "Montérégie"
+  },
+  "730": {
+    "uid": 730,
+    "nom": "Saint-Louis",
+    "unique_identifier": 54120,
+    "region": "Montérégie"
+  },
+  "731": {
+    "uid": 731,
+    "nom": "Saint-Marcel-de-Richelieu",
+    "unique_identifier": 54125,
+    "region": "Montérégie"
+  },
+  "732": {
+    "uid": 732,
+    "nom": "Ange-Gardien",
+    "unique_identifier": 55008,
+    "region": "Montérégie"
+  },
+  "733": {
+    "uid": 733,
+    "nom": "Saint-Paul-d'Abbotsford",
+    "unique_identifier": 55015,
+    "region": "Montérégie"
+  },
+  "734": {
+    "uid": 734,
+    "nom": "Sainte-Angèle-de-Monnoir",
+    "unique_identifier": 55030,
+    "region": "Montérégie"
+  },
+  "735": {
+    "uid": 735,
+    "nom": "Rougemont",
+    "unique_identifier": 55037,
+    "region": "Montérégie"
+  },
+  "736": {
+    "uid": 736,
+    "nom": "Marieville",
+    "unique_identifier": 55048,
+    "region": "Montérégie"
+  },
+  "737": {
+    "uid": 737,
+    "nom": "Richelieu",
+    "unique_identifier": 55057,
+    "region": "Montérégie"
+  },
+  "738": {
+    "uid": 738,
+    "nom": "Saint-Mathias-sur-Richelieu",
+    "unique_identifier": 55065,
+    "region": "Montérégie"
+  },
+  "739": {
+    "uid": 739,
+    "nom": "Venise-en-Québec",
+    "unique_identifier": 56005,
+    "region": "Montérégie"
+  },
+  "740": {
+    "uid": 740,
+    "nom": "Clarenceville",
+    "unique_identifier": 56010,
+    "region": "Montérégie"
+  },
+  "741": {
+    "uid": 741,
+    "nom": "Noyan",
+    "unique_identifier": 56015,
+    "region": "Montérégie"
+  },
+  "742": {
+    "uid": 742,
+    "nom": "Saint-Valentin",
+    "unique_identifier": 56030,
+    "region": "Montérégie"
+  },
+  "743": {
+    "uid": 743,
+    "nom": "Saint-Paul-de-l'Île-aux-Noix",
+    "unique_identifier": 56035,
+    "region": "Montérégie"
+  },
+  "744": {
+    "uid": 744,
+    "nom": "Henryville",
+    "unique_identifier": 56042,
+    "region": "Montérégie"
+  },
+  "745": {
+    "uid": 745,
+    "nom": "Saint-Alexandre",
+    "unique_identifier": 56055,
+    "region": "Montérégie"
+  },
+  "746": {
+    "uid": 746,
+    "nom": "Sainte-Anne-de-Sabrevois",
+    "unique_identifier": 56060,
+    "region": "Montérégie"
+  },
+  "747": {
+    "uid": 747,
+    "nom": "Saint-Blaise-sur-Richelieu",
+    "unique_identifier": 56065,
+    "region": "Montérégie"
+  },
+  "748": {
+    "uid": 748,
+    "nom": "Mont-Saint-Grégoire",
+    "unique_identifier": 56097,
+    "region": "Montérégie"
+  },
+  "749": {
+    "uid": 749,
+    "nom": "Sainte-Brigide-d'Iberville",
+    "unique_identifier": 56105,
+    "region": "Montérégie"
+  },
+  "750": {
+    "uid": 750,
+    "nom": "Chambly",
+    "unique_identifier": 57005,
+    "region": "Montérégie"
+  },
+  "751": {
+    "uid": 751,
+    "nom": "Carignan",
+    "unique_identifier": 57010,
+    "region": "Montérégie"
+  },
+  "752": {
+    "uid": 752,
+    "nom": "Saint-Basile-le-Grand",
+    "unique_identifier": 57020,
+    "region": "Montérégie"
+  },
+  "753": {
+    "uid": 753,
+    "nom": "McMasterville",
+    "unique_identifier": 57025,
+    "region": "Montérégie"
+  },
+  "754": {
+    "uid": 754,
+    "nom": "Otterburn Park",
+    "unique_identifier": 57030,
+    "region": "Montérégie"
+  },
+  "755": {
+    "uid": 755,
+    "nom": "Saint-Jean-Baptiste",
+    "unique_identifier": 57033,
+    "region": "Montérégie"
+  },
+  "756": {
+    "uid": 756,
+    "nom": "Mont-Saint-Hilaire",
+    "unique_identifier": 57035,
+    "region": "Montérégie"
+  },
+  "757": {
+    "uid": 757,
+    "nom": "Saint-Mathieu-de-Beloeil",
+    "unique_identifier": 57045,
+    "region": "Montérégie"
+  },
+  "758": {
+    "uid": 758,
+    "nom": "Saint-Marc-sur-Richelieu",
+    "unique_identifier": 57050,
+    "region": "Montérégie"
+  },
+  "759": {
+    "uid": 759,
+    "nom": "Saint-Charles-sur-Richelieu",
+    "unique_identifier": 57057,
+    "region": "Montérégie"
+  },
+  "760": {
+    "uid": 760,
+    "nom": "Saint-Denis-sur-Richelieu",
+    "unique_identifier": 57068,
+    "region": "Montérégie"
+  },
+  "761": {
+    "uid": 761,
+    "nom": "Saint-Antoine-sur-Richelieu",
+    "unique_identifier": 57075,
+    "region": "Montérégie"
+  },
+  "762": {
+    "uid": 762,
+    "nom": "Saint-Lambert",
+    "unique_identifier": 58012,
+    "region": "Montérégie"
+  },
+  "763": {
+    "uid": 763,
+    "nom": "Boucherville",
+    "unique_identifier": 58033,
+    "region": "Montérégie"
+  },
+  "764": {
+    "uid": 764,
+    "nom": "Saint-Bruno-de-Montarville",
+    "unique_identifier": 58037,
+    "region": "Montérégie"
+  },
+  "765": {
+    "uid": 765,
+    "nom": "Sainte-Julie",
+    "unique_identifier": 59010,
+    "region": "Montérégie"
+  },
+  "766": {
+    "uid": 766,
+    "nom": "Saint-Amable",
+    "unique_identifier": 59015,
+    "region": "Montérégie"
+  },
+  "767": {
+    "uid": 767,
+    "nom": "Varennes",
+    "unique_identifier": 59020,
+    "region": "Montérégie"
+  },
+  "768": {
+    "uid": 768,
+    "nom": "Verchères",
+    "unique_identifier": 59025,
+    "region": "Montérégie"
+  },
+  "769": {
+    "uid": 769,
+    "nom": "Calixa-Lavallée",
+    "unique_identifier": 59030,
+    "region": "Montérégie"
+  },
+  "770": {
+    "uid": 770,
+    "nom": "Contrecoeur",
+    "unique_identifier": 59035,
+    "region": "Montérégie"
+  },
+  "771": {
+    "uid": 771,
+    "nom": "Charlemagne",
+    "unique_identifier": 60005,
+    "region": "Lanaudière"
+  },
+  "772": {
+    "uid": 772,
+    "nom": "Saint-Sulpice",
+    "unique_identifier": 60020,
+    "region": "Lanaudière"
+  },
+  "773": {
+    "uid": 773,
+    "nom": "L'Assomption",
+    "unique_identifier": 60028,
+    "region": "Lanaudière"
+  },
+  "774": {
+    "uid": 774,
+    "nom": "L'Épiphanie",
+    "unique_identifier": 60037,
+    "region": "Lanaudière"
+  },
+  "775": {
+    "uid": 775,
+    "nom": "Saint-Paul",
+    "unique_identifier": 61005,
+    "region": "Lanaudière"
+  },
+  "776": {
+    "uid": 776,
+    "nom": "Crabtree",
+    "unique_identifier": 61013,
+    "region": "Lanaudière"
+  },
+  "777": {
+    "uid": 777,
+    "nom": "Saint-Pierre",
+    "unique_identifier": 61020,
+    "region": "Lanaudière"
+  },
+  "778": {
+    "uid": 778,
+    "nom": "Saint-Thomas",
+    "unique_identifier": 61027,
+    "region": "Lanaudière"
+  },
+  "779": {
+    "uid": 779,
+    "nom": "Notre-Dame-des-Prairies",
+    "unique_identifier": 61030,
+    "region": "Lanaudière"
+  },
+  "780": {
+    "uid": 780,
+    "nom": "Saint-Charles-Borromée",
+    "unique_identifier": 61035,
+    "region": "Lanaudière"
+  },
+  "781": {
+    "uid": 781,
+    "nom": "Saint-Ambroise-de-Kildare",
+    "unique_identifier": 61040,
+    "region": "Lanaudière"
+  },
+  "782": {
+    "uid": 782,
+    "nom": "Sainte-Mélanie",
+    "unique_identifier": 61050,
+    "region": "Lanaudière"
+  },
+  "783": {
+    "uid": 783,
+    "nom": "Saint-Félix-de-Valois",
+    "unique_identifier": 62007,
+    "region": "Lanaudière"
+  },
+  "784": {
+    "uid": 784,
+    "nom": "Saint-Jean-de-Matha",
+    "unique_identifier": 62015,
+    "region": "Lanaudière"
+  },
+  "785": {
+    "uid": 785,
+    "nom": "Sainte-Béatrix",
+    "unique_identifier": 62020,
+    "region": "Lanaudière"
+  },
+  "786": {
+    "uid": 786,
+    "nom": "Saint-Alphonse-Rodriguez",
+    "unique_identifier": 62025,
+    "region": "Lanaudière"
+  },
+  "787": {
+    "uid": 787,
+    "nom": "Sainte-Marcelline-de-Kildare",
+    "unique_identifier": 62030,
+    "region": "Lanaudière"
+  },
+  "788": {
+    "uid": 788,
+    "nom": "Chertsey",
+    "unique_identifier": 62047,
+    "region": "Lanaudière"
+  },
+  "789": {
+    "uid": 789,
+    "nom": "Entrelacs",
+    "unique_identifier": 62053,
+    "region": "Lanaudière"
+  },
+  "790": {
+    "uid": 790,
+    "nom": "Notre-Dame-de-la-Merci",
+    "unique_identifier": 62055,
+    "region": "Lanaudière"
+  },
+  "791": {
+    "uid": 791,
+    "nom": "Saint-Côme",
+    "unique_identifier": 62065,
+    "region": "Lanaudière"
+  },
+  "792": {
+    "uid": 792,
+    "nom": "Sainte-Émélie-de-l'Énergie",
+    "unique_identifier": 62070,
+    "region": "Lanaudière"
+  },
+  "793": {
+    "uid": 793,
+    "nom": "Saint-Damien",
+    "unique_identifier": 62075,
+    "region": "Lanaudière"
+  },
+  "794": {
+    "uid": 794,
+    "nom": "Saint-Zénon",
+    "unique_identifier": 62080,
+    "region": "Lanaudière"
+  },
+  "795": {
+    "uid": 795,
+    "nom": "Manawan",
+    "unique_identifier": 62802,
+    "region": null
+  },
+  "796": {
+    "uid": 796,
+    "nom": "Lac-Minaki",
+    "unique_identifier": 62902,
+    "region": null
+  },
+  "797": {
+    "uid": 797,
+    "nom": "Lac-Devenyns",
+    "unique_identifier": 62904,
+    "region": null
+  },
+  "798": {
+    "uid": 798,
+    "nom": "Baie-de-la-Bouteille",
+    "unique_identifier": 62906,
+    "region": null
+  },
+  "799": {
+    "uid": 799,
+    "nom": "Lac-Matawin",
+    "unique_identifier": 62908,
+    "region": null
+  },
+  "800": {
+    "uid": 800,
+    "nom": "Lac-Legendre",
+    "unique_identifier": 62910,
+    "region": null
+  },
+  "801": {
+    "uid": 801,
+    "nom": "Saint-Guillaume-Nord",
+    "unique_identifier": 62912,
+    "region": null
+  },
+  "802": {
+    "uid": 802,
+    "nom": "Lac-des-Dix-Milles",
+    "unique_identifier": 62914,
+    "region": null
+  },
+  "803": {
+    "uid": 803,
+    "nom": "Lac-Santé",
+    "unique_identifier": 62916,
+    "region": null
+  },
+  "804": {
+    "uid": 804,
+    "nom": "Baie-Obaoca",
+    "unique_identifier": 62918,
+    "region": null
+  },
+  "805": {
+    "uid": 805,
+    "nom": "Lac-Cabasta",
+    "unique_identifier": 62919,
+    "region": null
+  },
+  "806": {
+    "uid": 806,
+    "nom": "Baie-Atibenne",
+    "unique_identifier": 62920,
+    "region": null
+  },
+  "807": {
+    "uid": 807,
+    "nom": "Lac-du-Taureau",
+    "unique_identifier": 62922,
+    "region": null
+  },
+  "808": {
+    "uid": 808,
+    "nom": "Sainte-Marie-Salomé",
+    "unique_identifier": 63005,
+    "region": "Lanaudière"
+  },
+  "809": {
+    "uid": 809,
+    "nom": "Saint-Jacques",
+    "unique_identifier": 63013,
+    "region": "Lanaudière"
+  },
+  "810": {
+    "uid": 810,
+    "nom": "Saint-Alexis",
+    "unique_identifier": 63023,
+    "region": "Lanaudière"
+  },
+  "811": {
+    "uid": 811,
+    "nom": "Saint-Roch-de-l'Achigan",
+    "unique_identifier": 63035,
+    "region": "Lanaudière"
+  },
+  "812": {
+    "uid": 812,
+    "nom": "Saint-Roch-Ouest",
+    "unique_identifier": 63040,
+    "region": "Lanaudière"
+  },
+  "813": {
+    "uid": 813,
+    "nom": "Saint-Lin--Laurentides",
+    "unique_identifier": 63048,
+    "region": "Lanaudière"
+  },
+  "814": {
+    "uid": 814,
+    "nom": "Saint-Calixte",
+    "unique_identifier": 63055,
+    "region": "Lanaudière"
+  },
+  "815": {
+    "uid": 815,
+    "nom": "Sainte-Julienne",
+    "unique_identifier": 63060,
+    "region": "Lanaudière"
+  },
+  "816": {
+    "uid": 816,
+    "nom": "Saint-Liguori",
+    "unique_identifier": 63065,
+    "region": "Lanaudière"
+  },
+  "817": {
+    "uid": 817,
+    "nom": "Terrebonne",
+    "unique_identifier": 64008,
+    "region": "Lanaudière"
+  },
+  "818": {
+    "uid": 818,
+    "nom": "Montréal-Est",
+    "unique_identifier": 66007,
+    "region": "Montréal"
+  },
+  "819": {
+    "uid": 819,
+    "nom": "Westmount",
+    "unique_identifier": 66032,
+    "region": "Montréal"
+  },
+  "820": {
+    "uid": 820,
+    "nom": "Montréal-Ouest",
+    "unique_identifier": 66047,
+    "region": "Montréal"
+  },
+  "821": {
+    "uid": 821,
+    "nom": "Côte-Saint-Luc",
+    "unique_identifier": 66058,
+    "region": "Montréal"
+  },
+  "822": {
+    "uid": 822,
+    "nom": "Hampstead",
+    "unique_identifier": 66062,
+    "region": "Montréal"
+  },
+  "823": {
+    "uid": 823,
+    "nom": "Mont-Royal",
+    "unique_identifier": 66072,
+    "region": "Montréal"
+  },
+  "824": {
+    "uid": 824,
+    "nom": "L'Île-Dorval",
+    "unique_identifier": 66092,
+    "region": "Montréal"
+  },
+  "825": {
+    "uid": 825,
+    "nom": "Kirkland",
+    "unique_identifier": 66102,
+    "region": "Montréal"
+  },
+  "826": {
+    "uid": 826,
+    "nom": "Beaconsfield",
+    "unique_identifier": 66107,
+    "region": "Montréal"
+  },
+  "827": {
+    "uid": 827,
+    "nom": "Baie-D'Urfé",
+    "unique_identifier": 66112,
+    "region": "Montréal"
+  },
+  "828": {
+    "uid": 828,
+    "nom": "Sainte-Anne-de-Bellevue",
+    "unique_identifier": 66117,
+    "region": "Montréal"
+  },
+  "829": {
+    "uid": 829,
+    "nom": "Senneville",
+    "unique_identifier": 66127,
+    "region": "Montréal"
+  },
+  "830": {
+    "uid": 830,
+    "nom": "Dollard-des-Ormeaux",
+    "unique_identifier": 66142,
+    "region": "Montréal"
+  },
+  "831": {
+    "uid": 831,
+    "nom": "Saint-Mathieu",
+    "unique_identifier": 67005,
+    "region": "Montérégie"
+  },
+  "832": {
+    "uid": 832,
+    "nom": "Saint-Philippe",
+    "unique_identifier": 67010,
+    "region": "Montérégie"
+  },
+  "833": {
+    "uid": 833,
+    "nom": "Candiac",
+    "unique_identifier": 67020,
+    "region": "Montérégie"
+  },
+  "834": {
+    "uid": 834,
+    "nom": "Delson",
+    "unique_identifier": 67025,
+    "region": "Montérégie"
+  },
+  "835": {
+    "uid": 835,
+    "nom": "Sainte-Catherine",
+    "unique_identifier": 67030,
+    "region": "Montérégie"
+  },
+  "836": {
+    "uid": 836,
+    "nom": "Saint-Constant",
+    "unique_identifier": 67035,
+    "region": "Montérégie"
+  },
+  "837": {
+    "uid": 837,
+    "nom": "Mercier",
+    "unique_identifier": 67045,
+    "region": "Montérégie"
+  },
+  "838": {
+    "uid": 838,
+    "nom": "Léry",
+    "unique_identifier": 67055,
+    "region": "Montérégie"
+  },
+  "839": {
+    "uid": 839,
+    "nom": "Kahnawake",
+    "unique_identifier": 67802,
+    "region": null
+  },
+  "840": {
+    "uid": 840,
+    "nom": "Saint-Bernard-de-Lacolle",
+    "unique_identifier": 68005,
+    "region": "Montérégie"
+  },
+  "841": {
+    "uid": 841,
+    "nom": "Hemmingford",
+    "unique_identifier": 68015,
+    "region": "Montérégie"
+  },
+  "842": {
+    "uid": 842,
+    "nom": "Sainte-Clotilde",
+    "unique_identifier": 68020,
+    "region": "Montérégie"
+  },
+  "843": {
+    "uid": 843,
+    "nom": "Saint-Patrice-de-Sherrington",
+    "unique_identifier": 68025,
+    "region": "Montérégie"
+  },
+  "844": {
+    "uid": 844,
+    "nom": "Napierville",
+    "unique_identifier": 68030,
+    "region": "Montérégie"
+  },
+  "845": {
+    "uid": 845,
+    "nom": "Saint-Cyprien-de-Napierville",
+    "unique_identifier": 68035,
+    "region": "Montérégie"
+  },
+  "846": {
+    "uid": 846,
+    "nom": "Saint-Jacques-le-Mineur",
+    "unique_identifier": 68040,
+    "region": "Montérégie"
+  },
+  "847": {
+    "uid": 847,
+    "nom": "Saint-Édouard",
+    "unique_identifier": 68045,
+    "region": "Montérégie"
+  },
+  "848": {
+    "uid": 848,
+    "nom": "Saint-Michel",
+    "unique_identifier": 68050,
+    "region": "Montérégie"
+  },
+  "849": {
+    "uid": 849,
+    "nom": "Havelock",
+    "unique_identifier": 69005,
+    "region": "Montérégie"
+  },
+  "850": {
+    "uid": 850,
+    "nom": "Franklin",
+    "unique_identifier": 69010,
+    "region": "Montérégie"
+  },
+  "851": {
+    "uid": 851,
+    "nom": "Saint-Chrysostome",
+    "unique_identifier": 69017,
+    "region": "Montérégie"
+  },
+  "852": {
+    "uid": 852,
+    "nom": "Howick",
+    "unique_identifier": 69025,
+    "region": "Montérégie"
+  },
+  "853": {
+    "uid": 853,
+    "nom": "Très-Saint-Sacrement",
+    "unique_identifier": 69030,
+    "region": "Montérégie"
+  },
+  "854": {
+    "uid": 854,
+    "nom": "Ormstown",
+    "unique_identifier": 69037,
+    "region": "Montérégie"
+  },
+  "855": {
+    "uid": 855,
+    "nom": "Hinchinbrooke",
+    "unique_identifier": 69045,
+    "region": "Montérégie"
+  },
+  "856": {
+    "uid": 856,
+    "nom": "Elgin",
+    "unique_identifier": 69050,
+    "region": "Montérégie"
+  },
+  "857": {
+    "uid": 857,
+    "nom": "Godmanchester",
+    "unique_identifier": 69060,
+    "region": "Montérégie"
+  },
+  "858": {
+    "uid": 858,
+    "nom": "Sainte-Barbe",
+    "unique_identifier": 69065,
+    "region": "Montérégie"
+  },
+  "859": {
+    "uid": 859,
+    "nom": "Saint-Anicet",
+    "unique_identifier": 69070,
+    "region": "Montérégie"
+  },
+  "860": {
+    "uid": 860,
+    "nom": "Dundee",
+    "unique_identifier": 69075,
+    "region": "Montérégie"
+  },
+  "861": {
+    "uid": 861,
+    "nom": "Akwesasne",
+    "unique_identifier": 69802,
+    "region": null
+  },
+  "862": {
+    "uid": 862,
+    "nom": "Saint-Urbain-Premier",
+    "unique_identifier": 70005,
+    "region": "Montérégie"
+  },
+  "863": {
+    "uid": 863,
+    "nom": "Sainte-Martine",
+    "unique_identifier": 70012,
+    "region": "Montérégie"
+  },
+  "864": {
+    "uid": 864,
+    "nom": "Saint-Étienne-de-Beauharnois",
+    "unique_identifier": 70030,
+    "region": "Montérégie"
+  },
+  "865": {
+    "uid": 865,
+    "nom": "Saint-Stanislas-de-Kostka",
+    "unique_identifier": 70040,
+    "region": "Montérégie"
+  },
+  "866": {
+    "uid": 866,
+    "nom": "Rivière-Beaudette",
+    "unique_identifier": 71005,
+    "region": "Montérégie"
+  },
+  "867": {
+    "uid": 867,
+    "nom": "Saint-Télesphore",
+    "unique_identifier": 71015,
+    "region": "Montérégie"
+  },
+  "868": {
+    "uid": 868,
+    "nom": "Saint-Polycarpe",
+    "unique_identifier": 71020,
+    "region": "Montérégie"
+  },
+  "869": {
+    "uid": 869,
+    "nom": "Saint-Zotique",
+    "unique_identifier": 71025,
+    "region": "Montérégie"
+  },
+  "870": {
+    "uid": 870,
+    "nom": "Les Coteaux",
+    "unique_identifier": 71033,
+    "region": "Montérégie"
+  },
+  "871": {
+    "uid": 871,
+    "nom": "Coteau-du-Lac",
+    "unique_identifier": 71040,
+    "region": "Montérégie"
+  },
+  "872": {
+    "uid": 872,
+    "nom": "Saint-Clet",
+    "unique_identifier": 71045,
+    "region": "Montérégie"
+  },
+  "873": {
+    "uid": 873,
+    "nom": "Les Cèdres",
+    "unique_identifier": 71050,
+    "region": "Montérégie"
+  },
+  "874": {
+    "uid": 874,
+    "nom": "Pointe-des-Cascades",
+    "unique_identifier": 71055,
+    "region": "Montérégie"
+  },
+  "875": {
+    "uid": 875,
+    "nom": "L'Île-Perrot",
+    "unique_identifier": 71060,
+    "region": "Montérégie"
+  },
+  "876": {
+    "uid": 876,
+    "nom": "Notre-Dame-de-l'Île-Perrot",
+    "unique_identifier": 71065,
+    "region": "Montérégie"
+  },
+  "877": {
+    "uid": 877,
+    "nom": "Pincourt",
+    "unique_identifier": 71070,
+    "region": "Montérégie"
+  },
+  "878": {
+    "uid": 878,
+    "nom": "Terrasse-Vaudreuil",
+    "unique_identifier": 71075,
+    "region": "Montérégie"
+  },
+  "879": {
+    "uid": 879,
+    "nom": "Vaudreuil-sur-le-Lac",
+    "unique_identifier": 71090,
+    "region": "Montérégie"
+  },
+  "880": {
+    "uid": 880,
+    "nom": "L'Île-Cadieux",
+    "unique_identifier": 71095,
+    "region": "Montérégie"
+  },
+  "881": {
+    "uid": 881,
+    "nom": "Hudson",
+    "unique_identifier": 71100,
+    "region": "Montérégie"
+  },
+  "882": {
+    "uid": 882,
+    "nom": "Saint-Lazare",
+    "unique_identifier": 71105,
+    "region": "Montérégie"
+  },
+  "883": {
+    "uid": 883,
+    "nom": "Sainte-Marthe",
+    "unique_identifier": 71110,
+    "region": "Montérégie"
+  },
+  "884": {
+    "uid": 884,
+    "nom": "Sainte-Justine-de-Newton",
+    "unique_identifier": 71115,
+    "region": "Montérégie"
+  },
+  "885": {
+    "uid": 885,
+    "nom": "Très-Saint-Rédempteur",
+    "unique_identifier": 71125,
+    "region": "Montérégie"
+  },
+  "886": {
+    "uid": 886,
+    "nom": "Rigaud",
+    "unique_identifier": 71133,
+    "region": "Montérégie"
+  },
+  "887": {
+    "uid": 887,
+    "nom": "Pointe-Fortune",
+    "unique_identifier": 71140,
+    "region": "Montérégie"
+  },
+  "888": {
+    "uid": 888,
+    "nom": "Deux-Montagnes",
+    "unique_identifier": 72010,
+    "region": "Laurentides"
+  },
+  "889": {
+    "uid": 889,
+    "nom": "Sainte-Marthe-sur-le-Lac",
+    "unique_identifier": 72015,
+    "region": "Laurentides"
+  },
+  "890": {
+    "uid": 890,
+    "nom": "Pointe-Calumet",
+    "unique_identifier": 72020,
+    "region": "Laurentides"
+  },
+  "891": {
+    "uid": 891,
+    "nom": "Saint-Joseph-du-Lac",
+    "unique_identifier": 72025,
+    "region": "Laurentides"
+  },
+  "892": {
+    "uid": 892,
+    "nom": "Oka",
+    "unique_identifier": 72032,
+    "region": "Laurentides"
+  },
+  "893": {
+    "uid": 893,
+    "nom": "Saint-Placide",
+    "unique_identifier": 72043,
+    "region": "Laurentides"
+  },
+  "894": {
+    "uid": 894,
+    "nom": "Kanesatake",
+    "unique_identifier": 72802,
+    "region": null
+  },
+  "895": {
+    "uid": 895,
+    "nom": "Boisbriand",
+    "unique_identifier": 73005,
+    "region": "Laurentides"
+  },
+  "896": {
+    "uid": 896,
+    "nom": "Blainville",
+    "unique_identifier": 73015,
+    "region": "Laurentides"
+  },
+  "897": {
+    "uid": 897,
+    "nom": "Rosemère",
+    "unique_identifier": 73020,
+    "region": "Laurentides"
+  },
+  "898": {
+    "uid": 898,
+    "nom": "Lorraine",
+    "unique_identifier": 73025,
+    "region": "Laurentides"
+  },
+  "899": {
+    "uid": 899,
+    "nom": "Bois-des-Filion",
+    "unique_identifier": 73030,
+    "region": "Laurentides"
+  },
+  "900": {
+    "uid": 900,
+    "nom": "Sainte-Anne-des-Plaines",
+    "unique_identifier": 73035,
+    "region": "Laurentides"
+  },
+  "901": {
+    "uid": 901,
+    "nom": "Mirabel",
+    "unique_identifier": 74005,
+    "region": "Laurentides"
+  },
+  "902": {
+    "uid": 902,
+    "nom": "Saint-Colomban",
+    "unique_identifier": 75005,
+    "region": "Laurentides"
+  },
+  "903": {
+    "uid": 903,
+    "nom": "Sainte-Sophie",
+    "unique_identifier": 75028,
+    "region": "Laurentides"
+  },
+  "904": {
+    "uid": 904,
+    "nom": "Prévost",
+    "unique_identifier": 75040,
+    "region": "Laurentides"
+  },
+  "905": {
+    "uid": 905,
+    "nom": "Saint-Hippolyte",
+    "unique_identifier": 75045,
+    "region": "Laurentides"
+  },
+  "906": {
+    "uid": 906,
+    "nom": "Saint-André-d'Argenteuil",
+    "unique_identifier": 76008,
+    "region": "Laurentides"
+  },
+  "907": {
+    "uid": 907,
+    "nom": "Gore",
+    "unique_identifier": 76025,
+    "region": "Laurentides"
+  },
+  "908": {
+    "uid": 908,
+    "nom": "Mille-Isles",
+    "unique_identifier": 76030,
+    "region": "Laurentides"
+  },
+  "909": {
+    "uid": 909,
+    "nom": "Wentworth",
+    "unique_identifier": 76035,
+    "region": "Laurentides"
+  },
+  "910": {
+    "uid": 910,
+    "nom": "Brownsburg-Chatham",
+    "unique_identifier": 76043,
+    "region": "Laurentides"
+  },
+  "911": {
+    "uid": 911,
+    "nom": "Grenville-sur-la-Rouge",
+    "unique_identifier": 76052,
+    "region": "Laurentides"
+  },
+  "912": {
+    "uid": 912,
+    "nom": "Grenville",
+    "unique_identifier": 76055,
+    "region": "Laurentides"
+  },
+  "913": {
+    "uid": 913,
+    "nom": "Harrington",
+    "unique_identifier": 76065,
+    "region": "Laurentides"
+  },
+  "914": {
+    "uid": 914,
+    "nom": "Estérel",
+    "unique_identifier": 77011,
+    "region": "Laurentides"
+  },
+  "915": {
+    "uid": 915,
+    "nom": "Sainte-Marguerite-du-Lac-Masson",
+    "unique_identifier": 77012,
+    "region": "Laurentides"
+  },
+  "916": {
+    "uid": 916,
+    "nom": "Sainte-Adèle",
+    "unique_identifier": 77022,
+    "region": "Laurentides"
+  },
+  "917": {
+    "uid": 917,
+    "nom": "Piedmont",
+    "unique_identifier": 77030,
+    "region": "Laurentides"
+  },
+  "918": {
+    "uid": 918,
+    "nom": "Sainte-Anne-des-Lacs",
+    "unique_identifier": 77035,
+    "region": "Laurentides"
+  },
+  "919": {
+    "uid": 919,
+    "nom": "Saint-Sauveur",
+    "unique_identifier": 77043,
+    "region": "Laurentides"
+  },
+  "920": {
+    "uid": 920,
+    "nom": "Morin-Heights",
+    "unique_identifier": 77050,
+    "region": "Laurentides"
+  },
+  "921": {
+    "uid": 921,
+    "nom": "Lac-des-Seize-Îles",
+    "unique_identifier": 77055,
+    "region": "Laurentides"
+  },
+  "922": {
+    "uid": 922,
+    "nom": "Wentworth-Nord",
+    "unique_identifier": 77060,
+    "region": "Laurentides"
+  },
+  "923": {
+    "uid": 923,
+    "nom": "Saint-Adolphe-d'Howard",
+    "unique_identifier": 77065,
+    "region": "Laurentides"
+  },
+  "924": {
+    "uid": 924,
+    "nom": "Val-Morin",
+    "unique_identifier": 78005,
+    "region": "Laurentides"
+  },
+  "925": {
+    "uid": 925,
+    "nom": "Val-David",
+    "unique_identifier": 78010,
+    "region": "Laurentides"
+  },
+  "926": {
+    "uid": 926,
+    "nom": "Lantier",
+    "unique_identifier": 78015,
+    "region": "Laurentides"
+  },
+  "927": {
+    "uid": 927,
+    "nom": "Sainte-Lucie-des-Laurentides",
+    "unique_identifier": 78020,
+    "region": "Laurentides"
+  },
+  "928": {
+    "uid": 928,
+    "nom": "Ivry-sur-le-Lac",
+    "unique_identifier": 78042,
+    "region": "Laurentides"
+  },
+  "929": {
+    "uid": 929,
+    "nom": "Mont-Blanc",
+    "unique_identifier": 78047,
+    "region": "Laurentides"
+  },
+  "930": {
+    "uid": 930,
+    "nom": "Barkmere",
+    "unique_identifier": 78050,
+    "region": "Laurentides"
+  },
+  "931": {
+    "uid": 931,
+    "nom": "Montcalm",
+    "unique_identifier": 78055,
+    "region": "Laurentides"
+  },
+  "932": {
+    "uid": 932,
+    "nom": "Arundel",
+    "unique_identifier": 78060,
+    "region": "Laurentides"
+  },
+  "933": {
+    "uid": 933,
+    "nom": "Huberdeau",
+    "unique_identifier": 78065,
+    "region": "Laurentides"
+  },
+  "934": {
+    "uid": 934,
+    "nom": "Amherst",
+    "unique_identifier": 78070,
+    "region": "Laurentides"
+  },
+  "935": {
+    "uid": 935,
+    "nom": "Brébeuf",
+    "unique_identifier": 78075,
+    "region": "Laurentides"
+  },
+  "936": {
+    "uid": 936,
+    "nom": "Lac-Supérieur",
+    "unique_identifier": 78095,
+    "region": "Laurentides"
+  },
+  "937": {
+    "uid": 937,
+    "nom": "Val-des-Lacs",
+    "unique_identifier": 78100,
+    "region": "Laurentides"
+  },
+  "938": {
+    "uid": 938,
+    "nom": "La Conception",
+    "unique_identifier": 78115,
+    "region": "Laurentides"
+  },
+  "939": {
+    "uid": 939,
+    "nom": "Labelle",
+    "unique_identifier": 78120,
+    "region": "Laurentides"
+  },
+  "940": {
+    "uid": 940,
+    "nom": "Lac-Tremblant-Nord",
+    "unique_identifier": 78127,
+    "region": "Laurentides"
+  },
+  "941": {
+    "uid": 941,
+    "nom": "La Minerve",
+    "unique_identifier": 78130,
+    "region": "Laurentides"
+  },
+  "942": {
+    "uid": 942,
+    "nom": "Doncaster",
+    "unique_identifier": 78802,
+    "region": null
+  },
+  "943": {
+    "uid": 943,
+    "nom": "Notre-Dame-du-Laus",
+    "unique_identifier": 79005,
+    "region": "Laurentides"
+  },
+  "944": {
+    "uid": 944,
+    "nom": "Notre-Dame-de-Pontmain",
+    "unique_identifier": 79010,
+    "region": "Laurentides"
+  },
+  "945": {
+    "uid": 945,
+    "nom": "Lac-du-Cerf",
+    "unique_identifier": 79015,
+    "region": "Laurentides"
+  },
+  "946": {
+    "uid": 946,
+    "nom": "Saint-Aimé-du-Lac-des-Îles",
+    "unique_identifier": 79022,
+    "region": "Laurentides"
+  },
+  "947": {
+    "uid": 947,
+    "nom": "Kiamika",
+    "unique_identifier": 79025,
+    "region": "Laurentides"
+  },
+  "948": {
+    "uid": 948,
+    "nom": "Nominingue",
+    "unique_identifier": 79030,
+    "region": "Laurentides"
+  },
+  "949": {
+    "uid": 949,
+    "nom": "Rivière-Rouge",
+    "unique_identifier": 79037,
+    "region": "Laurentides"
+  },
+  "950": {
+    "uid": 950,
+    "nom": "La Macaza",
+    "unique_identifier": 79047,
+    "region": "Laurentides"
+  },
+  "951": {
+    "uid": 951,
+    "nom": "L'Ascension",
+    "unique_identifier": 79050,
+    "region": "Laurentides"
+  },
+  "952": {
+    "uid": 952,
+    "nom": "Lac-Saguay",
+    "unique_identifier": 79060,
+    "region": "Laurentides"
+  },
+  "953": {
+    "uid": 953,
+    "nom": "Chute-Saint-Philippe",
+    "unique_identifier": 79065,
+    "region": "Laurentides"
+  },
+  "954": {
+    "uid": 954,
+    "nom": "Lac-des-Écorces",
+    "unique_identifier": 79078,
+    "region": "Laurentides"
+  },
+  "955": {
+    "uid": 955,
+    "nom": "Ferme-Neuve",
+    "unique_identifier": 79097,
+    "region": "Laurentides"
+  },
+  "956": {
+    "uid": 956,
+    "nom": "Lac-Saint-Paul",
+    "unique_identifier": 79105,
+    "region": "Laurentides"
+  },
+  "957": {
+    "uid": 957,
+    "nom": "Mont-Saint-Michel",
+    "unique_identifier": 79110,
+    "region": "Laurentides"
+  },
+  "958": {
+    "uid": 958,
+    "nom": "Sainte-Anne-du-Lac",
+    "unique_identifier": 79115,
+    "region": "Laurentides"
+  },
+  "959": {
+    "uid": 959,
+    "nom": "Lac-de-la-Pomme",
+    "unique_identifier": 79902,
+    "region": null
+  },
+  "960": {
+    "uid": 960,
+    "nom": "Lac-Akonapwehikan",
+    "unique_identifier": 79904,
+    "region": null
+  },
+  "961": {
+    "uid": 961,
+    "nom": "Lac-Wagwabika",
+    "unique_identifier": 79906,
+    "region": null
+  },
+  "962": {
+    "uid": 962,
+    "nom": "Lac-Bazinet",
+    "unique_identifier": 79910,
+    "region": null
+  },
+  "963": {
+    "uid": 963,
+    "nom": "Lac-De La Bidière",
+    "unique_identifier": 79912,
+    "region": null
+  },
+  "964": {
+    "uid": 964,
+    "nom": "Lac-Oscar",
+    "unique_identifier": 79914,
+    "region": null
+  },
+  "965": {
+    "uid": 965,
+    "nom": "Lac-de-la-Maison-de-Pierre",
+    "unique_identifier": 79916,
+    "region": null
+  },
+  "966": {
+    "uid": 966,
+    "nom": "Baie-des-Chaloupes",
+    "unique_identifier": 79920,
+    "region": null
+  },
+  "967": {
+    "uid": 967,
+    "nom": "Lac-Douaire",
+    "unique_identifier": 79922,
+    "region": null
+  },
+  "968": {
+    "uid": 968,
+    "nom": "Lac-Ernest",
+    "unique_identifier": 79924,
+    "region": null
+  },
+  "969": {
+    "uid": 969,
+    "nom": "Lac-Marguerite",
+    "unique_identifier": 79926,
+    "region": null
+  },
+  "970": {
+    "uid": 970,
+    "nom": "Fassett",
+    "unique_identifier": 80005,
+    "region": "Outaouais"
+  },
+  "971": {
+    "uid": 971,
+    "nom": "Montebello",
+    "unique_identifier": 80010,
+    "region": "Outaouais"
+  },
+  "972": {
+    "uid": 972,
+    "nom": "Notre-Dame-de-Bonsecours",
+    "unique_identifier": 80015,
+    "region": "Outaouais"
+  },
+  "973": {
+    "uid": 973,
+    "nom": "Notre-Dame-de-la-Paix",
+    "unique_identifier": 80020,
+    "region": "Outaouais"
+  },
+  "974": {
+    "uid": 974,
+    "nom": "Saint-André-Avellin",
+    "unique_identifier": 80027,
+    "region": "Outaouais"
+  },
+  "975": {
+    "uid": 975,
+    "nom": "Plaisance",
+    "unique_identifier": 80045,
+    "region": "Outaouais"
+  },
+  "976": {
+    "uid": 976,
+    "nom": "Thurso",
+    "unique_identifier": 80050,
+    "region": "Outaouais"
+  },
+  "977": {
+    "uid": 977,
+    "nom": "Lochaber",
+    "unique_identifier": 80055,
+    "region": "Outaouais"
+  },
+  "978": {
+    "uid": 978,
+    "nom": "Lochaber-Partie-Ouest",
+    "unique_identifier": 80060,
+    "region": "Outaouais"
+  },
+  "979": {
+    "uid": 979,
+    "nom": "Mayo",
+    "unique_identifier": 80065,
+    "region": "Outaouais"
+  },
+  "980": {
+    "uid": 980,
+    "nom": "Saint-Sixte",
+    "unique_identifier": 80070,
+    "region": "Outaouais"
+  },
+  "981": {
+    "uid": 981,
+    "nom": "Ripon",
+    "unique_identifier": 80078,
+    "region": "Outaouais"
+  },
+  "982": {
+    "uid": 982,
+    "nom": "Mulgrave-et-Derry",
+    "unique_identifier": 80085,
+    "region": "Outaouais"
+  },
+  "983": {
+    "uid": 983,
+    "nom": "Montpellier",
+    "unique_identifier": 80090,
+    "region": "Outaouais"
+  },
+  "984": {
+    "uid": 984,
+    "nom": "Lac-Simon",
+    "unique_identifier": 80095,
+    "region": "Outaouais"
+  },
+  "985": {
+    "uid": 985,
+    "nom": "Chénéville",
+    "unique_identifier": 80103,
+    "region": "Outaouais"
+  },
+  "986": {
+    "uid": 986,
+    "nom": "Namur",
+    "unique_identifier": 80110,
+    "region": "Outaouais"
+  },
+  "987": {
+    "uid": 987,
+    "nom": "Boileau",
+    "unique_identifier": 80115,
+    "region": "Outaouais"
+  },
+  "988": {
+    "uid": 988,
+    "nom": "Saint-Émile-de-Suffolk",
+    "unique_identifier": 80125,
+    "region": "Outaouais"
+  },
+  "989": {
+    "uid": 989,
+    "nom": "Lac-des-Plages",
+    "unique_identifier": 80130,
+    "region": "Outaouais"
+  },
+  "990": {
+    "uid": 990,
+    "nom": "Duhamel",
+    "unique_identifier": 80135,
+    "region": "Outaouais"
+  },
+  "991": {
+    "uid": 991,
+    "nom": "Val-des-Bois",
+    "unique_identifier": 80140,
+    "region": "Outaouais"
+  },
+  "992": {
+    "uid": 992,
+    "nom": "Bowman",
+    "unique_identifier": 80145,
+    "region": "Outaouais"
+  },
+  "993": {
+    "uid": 993,
+    "nom": "Notre-Dame-de-la-Salette",
+    "unique_identifier": 80087,
+    "region": "Outaouais"
+  },
+  "994": {
+    "uid": 994,
+    "nom": "Val-des-Monts",
+    "unique_identifier": 82015,
+    "region": "Outaouais"
+  },
+  "995": {
+    "uid": 995,
+    "nom": "Cantley",
+    "unique_identifier": 82020,
+    "region": "Outaouais"
+  },
+  "996": {
+    "uid": 996,
+    "nom": "Chelsea",
+    "unique_identifier": 82025,
+    "region": "Outaouais"
+  },
+  "997": {
+    "uid": 997,
+    "nom": "Pontiac",
+    "unique_identifier": 82030,
+    "region": "Outaouais"
+  },
+  "998": {
+    "uid": 998,
+    "nom": "La Pêche",
+    "unique_identifier": 82035,
+    "region": "Outaouais"
+  },
+  "999": {
+    "uid": 999,
+    "nom": "Denholm",
+    "unique_identifier": 83005,
+    "region": "Outaouais"
+  },
+  "1000": {
+    "uid": 1000,
+    "nom": "Low",
+    "unique_identifier": 83010,
+    "region": "Outaouais"
+  },
+  "1001": {
+    "uid": 1001,
+    "nom": "Kazabazua",
+    "unique_identifier": 83015,
+    "region": "Outaouais"
+  },
+  "1002": {
+    "uid": 1002,
+    "nom": "Lac-Sainte-Marie",
+    "unique_identifier": 83020,
+    "region": "Outaouais"
+  },
+  "1003": {
+    "uid": 1003,
+    "nom": "Cayamant",
+    "unique_identifier": 83040,
+    "region": "Outaouais"
+  },
+  "1004": {
+    "uid": 1004,
+    "nom": "Blue Sea",
+    "unique_identifier": 83045,
+    "region": "Outaouais"
+  },
+  "1005": {
+    "uid": 1005,
+    "nom": "Bouchette",
+    "unique_identifier": 83050,
+    "region": "Outaouais"
+  },
+  "1006": {
+    "uid": 1006,
+    "nom": "Sainte-Thérèse-de-la-Gatineau",
+    "unique_identifier": 83055,
+    "region": "Outaouais"
+  },
+  "1007": {
+    "uid": 1007,
+    "nom": "Messines",
+    "unique_identifier": 83060,
+    "region": "Outaouais"
+  },
+  "1008": {
+    "uid": 1008,
+    "nom": "Déléage",
+    "unique_identifier": 83070,
+    "region": "Outaouais"
+  },
+  "1009": {
+    "uid": 1009,
+    "nom": "Egan-Sud",
+    "unique_identifier": 83075,
+    "region": "Outaouais"
+  },
+  "1010": {
+    "uid": 1010,
+    "nom": "Bois-Franc",
+    "unique_identifier": 83085,
+    "region": "Outaouais"
+  },
+  "1011": {
+    "uid": 1011,
+    "nom": "Montcerf-Lytton",
+    "unique_identifier": 83088,
+    "region": "Outaouais"
+  },
+  "1012": {
+    "uid": 1012,
+    "nom": "Aumond",
+    "unique_identifier": 83090,
+    "region": "Outaouais"
+  },
+  "1013": {
+    "uid": 1013,
+    "nom": "Grand-Remous",
+    "unique_identifier": 83095,
+    "region": "Outaouais"
+  },
+  "1014": {
+    "uid": 1014,
+    "nom": "Kitigan Zibi",
+    "unique_identifier": 83802,
+    "region": null
+  },
+  "1015": {
+    "uid": 1015,
+    "nom": "Lac-Rapide",
+    "unique_identifier": 83804,
+    "region": null
+  },
+  "1016": {
+    "uid": 1016,
+    "nom": "Lac-Pythonga",
+    "unique_identifier": 83902,
+    "region": null
+  },
+  "1017": {
+    "uid": 1017,
+    "nom": "Cascades-Malignes",
+    "unique_identifier": 83904,
+    "region": null
+  },
+  "1018": {
+    "uid": 1018,
+    "nom": "Lac-Lenôtre",
+    "unique_identifier": 83906,
+    "region": null
+  },
+  "1019": {
+    "uid": 1019,
+    "nom": "Lac-Moselle",
+    "unique_identifier": 83908,
+    "region": null
+  },
+  "1020": {
+    "uid": 1020,
+    "nom": "Dépôt-Échouani",
+    "unique_identifier": 83912,
+    "region": null
+  },
+  "1021": {
+    "uid": 1021,
+    "nom": "Bristol",
+    "unique_identifier": 84005,
+    "region": "Outaouais"
+  },
+  "1022": {
+    "uid": 1022,
+    "nom": "Shawville",
+    "unique_identifier": 84010,
+    "region": "Outaouais"
+  },
+  "1023": {
+    "uid": 1023,
+    "nom": "Clarendon",
+    "unique_identifier": 84015,
+    "region": "Outaouais"
+  },
+  "1024": {
+    "uid": 1024,
+    "nom": "Portage-du-Fort",
+    "unique_identifier": 84020,
+    "region": "Outaouais"
+  },
+  "1025": {
+    "uid": 1025,
+    "nom": "Bryson",
+    "unique_identifier": 84025,
+    "region": "Outaouais"
+  },
+  "1026": {
+    "uid": 1026,
+    "nom": "L'Île-du-Grand-Calumet",
+    "unique_identifier": 84035,
+    "region": "Outaouais"
+  },
+  "1027": {
+    "uid": 1027,
+    "nom": "Litchfield",
+    "unique_identifier": 84040,
+    "region": "Outaouais"
+  },
+  "1028": {
+    "uid": 1028,
+    "nom": "Thorne",
+    "unique_identifier": 84045,
+    "region": "Outaouais"
+  },
+  "1029": {
+    "uid": 1029,
+    "nom": "Alleyn-et-Cawood",
+    "unique_identifier": 84050,
+    "region": "Outaouais"
+  },
+  "1030": {
+    "uid": 1030,
+    "nom": "Otter Lake",
+    "unique_identifier": 84055,
+    "region": "Outaouais"
+  },
+  "1031": {
+    "uid": 1031,
+    "nom": "Fort-Coulonge",
+    "unique_identifier": 84060,
+    "region": "Outaouais"
+  },
+  "1032": {
+    "uid": 1032,
+    "nom": "Mansfield-et-Pontefract",
+    "unique_identifier": 84065,
+    "region": "Outaouais"
+  },
+  "1033": {
+    "uid": 1033,
+    "nom": "Waltham",
+    "unique_identifier": 84070,
+    "region": "Outaouais"
+  },
+  "1034": {
+    "uid": 1034,
+    "nom": "L'Isle-aux-Allumettes",
+    "unique_identifier": 84082,
+    "region": "Outaouais"
+  },
+  "1035": {
+    "uid": 1035,
+    "nom": "Chichester",
+    "unique_identifier": 84090,
+    "region": "Outaouais"
+  },
+  "1036": {
+    "uid": 1036,
+    "nom": "Sheenboro",
+    "unique_identifier": 84095,
+    "region": "Outaouais"
+  },
+  "1037": {
+    "uid": 1037,
+    "nom": "Rapides-des-Joachims",
+    "unique_identifier": 84100,
+    "region": "Outaouais"
+  },
+  "1038": {
+    "uid": 1038,
+    "nom": "Lac-Nilgaut",
+    "unique_identifier": 84902,
+    "region": null
+  },
+  "1039": {
+    "uid": 1039,
+    "nom": "Kipawa",
+    "unique_identifier": 85010,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1040": {
+    "uid": 1040,
+    "nom": "Saint-Édouard-de-Fabre",
+    "unique_identifier": 85015,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1041": {
+    "uid": 1041,
+    "nom": "Béarn",
+    "unique_identifier": 85020,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1042": {
+    "uid": 1042,
+    "nom": "Duhamel-Ouest",
+    "unique_identifier": 85030,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1043": {
+    "uid": 1043,
+    "nom": "Lorrainville",
+    "unique_identifier": 85037,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1044": {
+    "uid": 1044,
+    "nom": "Saint-Bruno-de-Guigues",
+    "unique_identifier": 85045,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1045": {
+    "uid": 1045,
+    "nom": "Laverlochère",
+    "unique_identifier": 85050,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1046": {
+    "uid": 1046,
+    "nom": "Fugèreville",
+    "unique_identifier": 85055,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1047": {
+    "uid": 1047,
+    "nom": "Latulipe-et-Gaboury",
+    "unique_identifier": 85060,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1048": {
+    "uid": 1048,
+    "nom": "Belleterre",
+    "unique_identifier": 85065,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1049": {
+    "uid": 1049,
+    "nom": "Laforce",
+    "unique_identifier": 85070,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1050": {
+    "uid": 1050,
+    "nom": "Moffet",
+    "unique_identifier": 85075,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1051": {
+    "uid": 1051,
+    "nom": "Angliers",
+    "unique_identifier": 85080,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1052": {
+    "uid": 1052,
+    "nom": "Saint-Eugène-de-Guigues",
+    "unique_identifier": 85085,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1053": {
+    "uid": 1053,
+    "nom": "Notre-Dame-du-Nord",
+    "unique_identifier": 85090,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1054": {
+    "uid": 1054,
+    "nom": "Guérin",
+    "unique_identifier": 85095,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1055": {
+    "uid": 1055,
+    "nom": "Nédélec",
+    "unique_identifier": 85100,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1056": {
+    "uid": 1056,
+    "nom": "Rémigny",
+    "unique_identifier": 85105,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1057": {
+    "uid": 1057,
+    "nom": "Kebaowek",
+    "unique_identifier": 85802,
+    "region": null
+  },
+  "1058": {
+    "uid": 1058,
+    "nom": "Hunter's Point",
+    "unique_identifier": 85803,
+    "region": null
+  },
+  "1059": {
+    "uid": 1059,
+    "nom": "Winneway",
+    "unique_identifier": 85804,
+    "region": null
+  },
+  "1060": {
+    "uid": 1060,
+    "nom": "Timiskaming",
+    "unique_identifier": 85806,
+    "region": null
+  },
+  "1061": {
+    "uid": 1061,
+    "nom": "Laniel",
+    "unique_identifier": 85905,
+    "region": null
+  },
+  "1062": {
+    "uid": 1062,
+    "nom": "Les Lacs-du-Témiscamingue",
+    "unique_identifier": 85907,
+    "region": null
+  },
+  "1063": {
+    "uid": 1063,
+    "nom": "Duparquet",
+    "unique_identifier": 87005,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1064": {
+    "uid": 1064,
+    "nom": "Rapide-Danseur",
+    "unique_identifier": 87010,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1065": {
+    "uid": 1065,
+    "nom": "Roquemaure",
+    "unique_identifier": 87015,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1066": {
+    "uid": 1066,
+    "nom": "Gallichan",
+    "unique_identifier": 87020,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1067": {
+    "uid": 1067,
+    "nom": "Palmarolle",
+    "unique_identifier": 87025,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1068": {
+    "uid": 1068,
+    "nom": "Sainte-Germaine-Boulé",
+    "unique_identifier": 87030,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1069": {
+    "uid": 1069,
+    "nom": "Poularies",
+    "unique_identifier": 87035,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1070": {
+    "uid": 1070,
+    "nom": "Taschereau",
+    "unique_identifier": 87042,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1071": {
+    "uid": 1071,
+    "nom": "Authier",
+    "unique_identifier": 87050,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1072": {
+    "uid": 1072,
+    "nom": "Macamic",
+    "unique_identifier": 87058,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1073": {
+    "uid": 1073,
+    "nom": "Sainte-Hélène-de-Mancebourg",
+    "unique_identifier": 87070,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1074": {
+    "uid": 1074,
+    "nom": "Clerval",
+    "unique_identifier": 87075,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1075": {
+    "uid": 1075,
+    "nom": "La Reine",
+    "unique_identifier": 87080,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1076": {
+    "uid": 1076,
+    "nom": "Dupuy",
+    "unique_identifier": 87085,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1077": {
+    "uid": 1077,
+    "nom": "Chazel",
+    "unique_identifier": 87095,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1078": {
+    "uid": 1078,
+    "nom": "Authier-Nord",
+    "unique_identifier": 87100,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1079": {
+    "uid": 1079,
+    "nom": "Val-Saint-Gilles",
+    "unique_identifier": 87105,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1080": {
+    "uid": 1080,
+    "nom": "Normétal",
+    "unique_identifier": 87115,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1081": {
+    "uid": 1081,
+    "nom": "Lac-Duparquet",
+    "unique_identifier": 87902,
+    "region": null
+  },
+  "1082": {
+    "uid": 1082,
+    "nom": "Rivière-Ojima",
+    "unique_identifier": 87904,
+    "region": null
+  },
+  "1083": {
+    "uid": 1083,
+    "nom": "Champneuf",
+    "unique_identifier": 88005,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1084": {
+    "uid": 1084,
+    "nom": "Rochebaucourt",
+    "unique_identifier": 88010,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1085": {
+    "uid": 1085,
+    "nom": "La Morandière",
+    "unique_identifier": 88015,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1086": {
+    "uid": 1086,
+    "nom": "Barraute",
+    "unique_identifier": 88022,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1087": {
+    "uid": 1087,
+    "nom": "La Corne",
+    "unique_identifier": 88030,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1088": {
+    "uid": 1088,
+    "nom": "Landrienne",
+    "unique_identifier": 88035,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1089": {
+    "uid": 1089,
+    "nom": "Saint-Marc-de-Figuery",
+    "unique_identifier": 88040,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1090": {
+    "uid": 1090,
+    "nom": "La Motte",
+    "unique_identifier": 88045,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1091": {
+    "uid": 1091,
+    "nom": "Saint-Mathieu-d'Harricana",
+    "unique_identifier": 88050,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1092": {
+    "uid": 1092,
+    "nom": "Saint-Félix-de-Dalquier",
+    "unique_identifier": 88060,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1093": {
+    "uid": 1093,
+    "nom": "Saint-Dominique-du-Rosaire",
+    "unique_identifier": 88065,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1094": {
+    "uid": 1094,
+    "nom": "Berry",
+    "unique_identifier": 88070,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1095": {
+    "uid": 1095,
+    "nom": "Trécesson",
+    "unique_identifier": 88075,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1096": {
+    "uid": 1096,
+    "nom": "Launay",
+    "unique_identifier": 88080,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1097": {
+    "uid": 1097,
+    "nom": "Sainte-Gertrude-Manneville",
+    "unique_identifier": 88085,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1098": {
+    "uid": 1098,
+    "nom": "Preissac",
+    "unique_identifier": 88090,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1099": {
+    "uid": 1099,
+    "nom": "Pikogan",
+    "unique_identifier": 88802,
+    "region": null
+  },
+  "1100": {
+    "uid": 1100,
+    "nom": "Lac-Despinassy",
+    "unique_identifier": 88902,
+    "region": null
+  },
+  "1101": {
+    "uid": 1101,
+    "nom": "Lac-Chicobi",
+    "unique_identifier": 88904,
+    "region": null
+  },
+  "1102": {
+    "uid": 1102,
+    "nom": "Rivière-Héva",
+    "unique_identifier": 89010,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1103": {
+    "uid": 1103,
+    "nom": "Malartic",
+    "unique_identifier": 89015,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1104": {
+    "uid": 1104,
+    "nom": "Belcourt",
+    "unique_identifier": 89050,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1105": {
+    "uid": 1105,
+    "nom": "Kitcisakik",
+    "unique_identifier": 89802,
+    "region": null
+  },
+  "1106": {
+    "uid": 1106,
+    "nom": "Matchi-Manitou",
+    "unique_identifier": 89902,
+    "region": null
+  },
+  "1107": {
+    "uid": 1107,
+    "nom": "Lac-Metei",
+    "unique_identifier": 89908,
+    "region": null
+  },
+  "1108": {
+    "uid": 1108,
+    "nom": "Réservoir-Dozois",
+    "unique_identifier": 89910,
+    "region": null
+  },
+  "1109": {
+    "uid": 1109,
+    "nom": "Lac-Granet",
+    "unique_identifier": 89912,
+    "region": null
+  },
+  "1110": {
+    "uid": 1110,
+    "nom": "La Bostonnais",
+    "unique_identifier": 90017,
+    "region": "Mauricie"
+  },
+  "1111": {
+    "uid": 1111,
+    "nom": "Lac-Édouard",
+    "unique_identifier": 90027,
+    "region": "Mauricie"
+  },
+  "1112": {
+    "uid": 1112,
+    "nom": "Coucoucache",
+    "unique_identifier": 90801,
+    "region": null
+  },
+  "1113": {
+    "uid": 1113,
+    "nom": "Wemotaci",
+    "unique_identifier": 90802,
+    "region": null
+  },
+  "1114": {
+    "uid": 1114,
+    "nom": "Obedjiwan",
+    "unique_identifier": 90804,
+    "region": null
+  },
+  "1115": {
+    "uid": 1115,
+    "nom": "Lac-Bouchette",
+    "unique_identifier": 91005,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1116": {
+    "uid": 1116,
+    "nom": "Saint-André-du-Lac-Saint-Jean",
+    "unique_identifier": 91010,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1117": {
+    "uid": 1117,
+    "nom": "Saint-François-de-Sales",
+    "unique_identifier": 91015,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1118": {
+    "uid": 1118,
+    "nom": "Chambord",
+    "unique_identifier": 91020,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1119": {
+    "uid": 1119,
+    "nom": "Sainte-Hedwidge",
+    "unique_identifier": 91030,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1120": {
+    "uid": 1120,
+    "nom": "Saint-Prime",
+    "unique_identifier": 91035,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1121": {
+    "uid": 1121,
+    "nom": "Saint-Félicien",
+    "unique_identifier": 91042,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1122": {
+    "uid": 1122,
+    "nom": "La Doré",
+    "unique_identifier": 91050,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1123": {
+    "uid": 1123,
+    "nom": "Mashteuiatsh",
+    "unique_identifier": 91802,
+    "region": null
+  },
+  "1124": {
+    "uid": 1124,
+    "nom": "Lac-Ashuapmushuan",
+    "unique_identifier": 91902,
+    "region": null
+  },
+  "1125": {
+    "uid": 1125,
+    "nom": "Saint-Augustin",
+    "unique_identifier": 92005,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1126": {
+    "uid": 1126,
+    "nom": "Péribonka",
+    "unique_identifier": 92010,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1127": {
+    "uid": 1127,
+    "nom": "Albanel",
+    "unique_identifier": 92030,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1128": {
+    "uid": 1128,
+    "nom": "Normandin",
+    "unique_identifier": 92040,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1129": {
+    "uid": 1129,
+    "nom": "Saint-Thomas-Didyme",
+    "unique_identifier": 92045,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1130": {
+    "uid": 1130,
+    "nom": "Saint-Edmond-les-Plaines",
+    "unique_identifier": 92050,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1131": {
+    "uid": 1131,
+    "nom": "Girardville",
+    "unique_identifier": 92055,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1132": {
+    "uid": 1132,
+    "nom": "Notre-Dame-de-Lorette",
+    "unique_identifier": 92060,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1133": {
+    "uid": 1133,
+    "nom": "Saint-Eugène-d'Argentenay",
+    "unique_identifier": 92065,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1134": {
+    "uid": 1134,
+    "nom": "Passes-Dangereuses",
+    "unique_identifier": 92902,
+    "region": null
+  },
+  "1135": {
+    "uid": 1135,
+    "nom": "Rivière-Mistassini",
+    "unique_identifier": 92904,
+    "region": null
+  },
+  "1136": {
+    "uid": 1136,
+    "nom": "Desbiens",
+    "unique_identifier": 93005,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1137": {
+    "uid": 1137,
+    "nom": "Métabetchouan--Lac-à-la-Croix",
+    "unique_identifier": 93012,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1138": {
+    "uid": 1138,
+    "nom": "Hébertville",
+    "unique_identifier": 93020,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1139": {
+    "uid": 1139,
+    "nom": "Hébertville-Station",
+    "unique_identifier": 93025,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1140": {
+    "uid": 1140,
+    "nom": "Saint-Bruno",
+    "unique_identifier": 93030,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1141": {
+    "uid": 1141,
+    "nom": "Saint-Gédéon",
+    "unique_identifier": 93035,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1142": {
+    "uid": 1142,
+    "nom": "Saint-Nazaire",
+    "unique_identifier": 93045,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1143": {
+    "uid": 1143,
+    "nom": "Labrecque",
+    "unique_identifier": 93055,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1144": {
+    "uid": 1144,
+    "nom": "Lamarche",
+    "unique_identifier": 93060,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1145": {
+    "uid": 1145,
+    "nom": "L'Ascension-de-Notre-Seigneur",
+    "unique_identifier": 93065,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1146": {
+    "uid": 1146,
+    "nom": "Saint-Henri-de-Taillon",
+    "unique_identifier": 93070,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1147": {
+    "uid": 1147,
+    "nom": "Saint-Ludger-de-Milot",
+    "unique_identifier": 93080,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1148": {
+    "uid": 1148,
+    "nom": "Mont-Apica",
+    "unique_identifier": 93902,
+    "region": null
+  },
+  "1149": {
+    "uid": 1149,
+    "nom": "Lac-Moncouche",
+    "unique_identifier": 93904,
+    "region": null
+  },
+  "1150": {
+    "uid": 1150,
+    "nom": "Lac-Achouakan",
+    "unique_identifier": 93906,
+    "region": null
+  },
+  "1151": {
+    "uid": 1151,
+    "nom": "Belle-Rivière",
+    "unique_identifier": 93908,
+    "region": null
+  },
+  "1152": {
+    "uid": 1152,
+    "nom": "Petit-Saguenay",
+    "unique_identifier": 94205,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1153": {
+    "uid": 1153,
+    "nom": "Rivière-Éternité",
+    "unique_identifier": 94215,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1154": {
+    "uid": 1154,
+    "nom": "Ferland-et-Boilleau",
+    "unique_identifier": 94220,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1155": {
+    "uid": 1155,
+    "nom": "Saint-Félix-d'Otis",
+    "unique_identifier": 94225,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1156": {
+    "uid": 1156,
+    "nom": "Sainte-Rose-du-Nord",
+    "unique_identifier": 94230,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1157": {
+    "uid": 1157,
+    "nom": "Saint-Fulgence",
+    "unique_identifier": 94235,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1158": {
+    "uid": 1158,
+    "nom": "Saint-Honoré",
+    "unique_identifier": 94240,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1159": {
+    "uid": 1159,
+    "nom": "Saint-David-de-Falardeau",
+    "unique_identifier": 94245,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1160": {
+    "uid": 1160,
+    "nom": "Bégin",
+    "unique_identifier": 94250,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1161": {
+    "uid": 1161,
+    "nom": "Saint-Ambroise",
+    "unique_identifier": 94255,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1162": {
+    "uid": 1162,
+    "nom": "Saint-Charles-de-Bourget",
+    "unique_identifier": 94260,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1163": {
+    "uid": 1163,
+    "nom": "Larouche",
+    "unique_identifier": 94265,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1164": {
+    "uid": 1164,
+    "nom": "Lalemant",
+    "unique_identifier": 94926,
+    "region": null
+  },
+  "1165": {
+    "uid": 1165,
+    "nom": "Lac-Ministuk",
+    "unique_identifier": 94928,
+    "region": null
+  },
+  "1166": {
+    "uid": 1166,
+    "nom": "Mont-Valin",
+    "unique_identifier": 94930,
+    "region": null
+  },
+  "1167": {
+    "uid": 1167,
+    "nom": "Tadoussac",
+    "unique_identifier": 95005,
+    "region": "Côte-Nord"
+  },
+  "1168": {
+    "uid": 1168,
+    "nom": "Sacré-Coeur",
+    "unique_identifier": 95010,
+    "region": "Côte-Nord"
+  },
+  "1169": {
+    "uid": 1169,
+    "nom": "Les Bergeronnes",
+    "unique_identifier": 95018,
+    "region": "Côte-Nord"
+  },
+  "1170": {
+    "uid": 1170,
+    "nom": "Longue-Rive",
+    "unique_identifier": 95032,
+    "region": "Côte-Nord"
+  },
+  "1171": {
+    "uid": 1171,
+    "nom": "Portneuf-sur-Mer",
+    "unique_identifier": 95040,
+    "region": "Côte-Nord"
+  },
+  "1172": {
+    "uid": 1172,
+    "nom": "Colombier",
+    "unique_identifier": 95050,
+    "region": "Côte-Nord"
+  },
+  "1173": {
+    "uid": 1173,
+    "nom": "Essipit",
+    "unique_identifier": 95802,
+    "region": null
+  },
+  "1174": {
+    "uid": 1174,
+    "nom": "Lac-au-Brochet",
+    "unique_identifier": 95902,
+    "region": null
+  },
+  "1175": {
+    "uid": 1175,
+    "nom": "Baie-Trinité",
+    "unique_identifier": 96005,
+    "region": "Côte-Nord"
+  },
+  "1176": {
+    "uid": 1176,
+    "nom": "Godbout",
+    "unique_identifier": 96010,
+    "region": "Côte-Nord"
+  },
+  "1177": {
+    "uid": 1177,
+    "nom": "Franquelin",
+    "unique_identifier": 96015,
+    "region": "Côte-Nord"
+  },
+  "1178": {
+    "uid": 1178,
+    "nom": "Pointe-Lebel",
+    "unique_identifier": 96025,
+    "region": "Côte-Nord"
+  },
+  "1179": {
+    "uid": 1179,
+    "nom": "Pointe-aux-Outardes",
+    "unique_identifier": 96030,
+    "region": "Côte-Nord"
+  },
+  "1180": {
+    "uid": 1180,
+    "nom": "Chute-aux-Outardes",
+    "unique_identifier": 96035,
+    "region": "Côte-Nord"
+  },
+  "1181": {
+    "uid": 1181,
+    "nom": "Ragueneau",
+    "unique_identifier": 96040,
+    "region": "Côte-Nord"
+  },
+  "1182": {
+    "uid": 1182,
+    "nom": "Pessamit",
+    "unique_identifier": 96802,
+    "region": null
+  },
+  "1183": {
+    "uid": 1183,
+    "nom": "Rivière-aux-Outardes",
+    "unique_identifier": 96902,
+    "region": null
+  },
+  "1184": {
+    "uid": 1184,
+    "nom": "Schefferville",
+    "unique_identifier": 97040,
+    "region": "Côte-Nord"
+  },
+  "1185": {
+    "uid": 1185,
+    "nom": "Uashat",
+    "unique_identifier": 97802,
+    "region": null
+  },
+  "1186": {
+    "uid": 1186,
+    "nom": "Maliotenam",
+    "unique_identifier": 97804,
+    "region": null
+  },
+  "1187": {
+    "uid": 1187,
+    "nom": "Kawawachikamach",
+    "unique_identifier": 97806,
+    "region": "Côte-Nord"
+  },
+  "1188": {
+    "uid": 1188,
+    "nom": "Matimekosh",
+    "unique_identifier": 97808,
+    "region": null
+  },
+  "1189": {
+    "uid": 1189,
+    "nom": "Lac-John",
+    "unique_identifier": 97810,
+    "region": null
+  },
+  "1190": {
+    "uid": 1190,
+    "nom": "Rivière-Nipissis",
+    "unique_identifier": 97902,
+    "region": null
+  },
+  "1191": {
+    "uid": 1191,
+    "nom": "Lac-Walker",
+    "unique_identifier": 97904,
+    "region": null
+  },
+  "1192": {
+    "uid": 1192,
+    "nom": "Rivière-Mouchalagane",
+    "unique_identifier": 97906,
+    "region": null
+  },
+  "1193": {
+    "uid": 1193,
+    "nom": "Caniapiscau",
+    "unique_identifier": 97908,
+    "region": null
+  },
+  "1194": {
+    "uid": 1194,
+    "nom": "Lac-Juillet",
+    "unique_identifier": 97912,
+    "region": null
+  },
+  "1195": {
+    "uid": 1195,
+    "nom": "Lac-Vacher",
+    "unique_identifier": 97914,
+    "region": null
+  },
+  "1196": {
+    "uid": 1196,
+    "nom": "Blanc-Sablon",
+    "unique_identifier": 98005,
+    "region": "Côte-Nord"
+  },
+  "1197": {
+    "uid": 1197,
+    "nom": "Bonne-Espérance",
+    "unique_identifier": 98010,
+    "region": "Côte-Nord"
+  },
+  "1198": {
+    "uid": 1198,
+    "nom": "Gros-Mécatina",
+    "unique_identifier": 98014,
+    "region": "Côte-Nord"
+  },
+  "1199": {
+    "uid": 1199,
+    "nom": "Côte-Nord-du-Golfe-du-Saint-Laurent",
+    "unique_identifier": 98015,
+    "region": "Côte-Nord"
+  },
+  "1200": {
+    "uid": 1200,
+    "nom": "L'Île-d'Anticosti",
+    "unique_identifier": 98020,
+    "region": "Côte-Nord"
+  },
+  "1201": {
+    "uid": 1201,
+    "nom": "Natashquan",
+    "unique_identifier": 98025,
+    "region": "Côte-Nord"
+  },
+  "1202": {
+    "uid": 1202,
+    "nom": "Aguanish",
+    "unique_identifier": 98030,
+    "region": "Côte-Nord"
+  },
+  "1203": {
+    "uid": 1203,
+    "nom": "Baie-Johan-Beetz",
+    "unique_identifier": 98035,
+    "region": "Côte-Nord"
+  },
+  "1204": {
+    "uid": 1204,
+    "nom": "Longue-Pointe-de-Mingan",
+    "unique_identifier": 98045,
+    "region": "Côte-Nord"
+  },
+  "1205": {
+    "uid": 1205,
+    "nom": "Rivière-au-Tonnerre",
+    "unique_identifier": 98055,
+    "region": "Côte-Nord"
+  },
+  "1206": {
+    "uid": 1206,
+    "nom": "Pakuashipi",
+    "unique_identifier": 98802,
+    "region": null
+  },
+  "1207": {
+    "uid": 1207,
+    "nom": "La Romaine",
+    "unique_identifier": 98804,
+    "region": null
+  },
+  "1208": {
+    "uid": 1208,
+    "nom": "Mingan",
+    "unique_identifier": 98808,
+    "region": null
+  },
+  "1209": {
+    "uid": 1209,
+    "nom": "Lac-Jérôme",
+    "unique_identifier": 98904,
+    "region": null
+  },
+  "1210": {
+    "uid": 1210,
+    "nom": "Petit-Mécatina",
+    "unique_identifier": 98912,
+    "region": null
+  },
+  "1211": {
+    "uid": 1211,
+    "nom": "Waswanipi",
+    "unique_identifier": 99010,
+    "region": "Nord-du-Québec"
+  },
+  "1212": {
+    "uid": 1212,
+    "nom": "Chapais",
+    "unique_identifier": 99020,
+    "region": "Nord-du-Québec"
+  },
+  "1213": {
+    "uid": 1213,
+    "nom": "Mistissini",
+    "unique_identifier": 99030,
+    "region": "Nord-du-Québec"
+  },
+  "1214": {
+    "uid": 1214,
+    "nom": "Waskaganish",
+    "unique_identifier": 99035,
+    "region": "Nord-du-Québec"
+  },
+  "1215": {
+    "uid": 1215,
+    "nom": "Nemaska",
+    "unique_identifier": 99040,
+    "region": "Nord-du-Québec"
+  },
+  "1216": {
+    "uid": 1216,
+    "nom": "Eastmain",
+    "unique_identifier": 99045,
+    "region": "Nord-du-Québec"
+  },
+  "1217": {
+    "uid": 1217,
+    "nom": "Wemindji",
+    "unique_identifier": 99050,
+    "region": "Nord-du-Québec"
+  },
+  "1218": {
+    "uid": 1218,
+    "nom": "Chisasibi",
+    "unique_identifier": 99055,
+    "region": "Nord-du-Québec"
+  },
+  "1219": {
+    "uid": 1219,
+    "nom": "Gouvernement régional d'Eeyou Istchee Baie-James",
+    "unique_identifier": 99060,
+    "region": "Nord-du-Québec"
+  },
+  "1220": {
+    "uid": 1220,
+    "nom": "Whapmagoostui",
+    "unique_identifier": 99070,
+    "region": "Nord-du-Québec"
+  },
+  "1221": {
+    "uid": 1221,
+    "nom": "Kuujjuarapik",
+    "unique_identifier": 99075,
+    "region": "Nord-du-Québec"
+  },
+  "1222": {
+    "uid": 1222,
+    "nom": "Umiujaq",
+    "unique_identifier": 99080,
+    "region": "Nord-du-Québec"
+  },
+  "1223": {
+    "uid": 1223,
+    "nom": "Inukjuak",
+    "unique_identifier": 99085,
+    "region": "Nord-du-Québec"
+  },
+  "1224": {
+    "uid": 1224,
+    "nom": "Kangiqsualujjuaq",
+    "unique_identifier": 99090,
+    "region": "Nord-du-Québec"
+  },
+  "1225": {
+    "uid": 1225,
+    "nom": "Kuujjuaq",
+    "unique_identifier": 99095,
+    "region": "Nord-du-Québec"
+  },
+  "1226": {
+    "uid": 1226,
+    "nom": "Tasiujaq",
+    "unique_identifier": 99100,
+    "region": "Nord-du-Québec"
+  },
+  "1227": {
+    "uid": 1227,
+    "nom": "Aupaluk",
+    "unique_identifier": 99105,
+    "region": "Nord-du-Québec"
+  },
+  "1228": {
+    "uid": 1228,
+    "nom": "Kangirsuk",
+    "unique_identifier": 99110,
+    "region": "Nord-du-Québec"
+  },
+  "1229": {
+    "uid": 1229,
+    "nom": "Quaqtaq",
+    "unique_identifier": 99115,
+    "region": "Nord-du-Québec"
+  },
+  "1230": {
+    "uid": 1230,
+    "nom": "Puvirnituq",
+    "unique_identifier": 99120,
+    "region": "Nord-du-Québec"
+  },
+  "1231": {
+    "uid": 1231,
+    "nom": "Akulivik",
+    "unique_identifier": 99125,
+    "region": "Nord-du-Québec"
+  },
+  "1232": {
+    "uid": 1232,
+    "nom": "Kangiqsujuaq",
+    "unique_identifier": 99130,
+    "region": "Nord-du-Québec"
+  },
+  "1233": {
+    "uid": 1233,
+    "nom": "Salluit",
+    "unique_identifier": 99135,
+    "region": "Nord-du-Québec"
+  },
+  "1234": {
+    "uid": 1234,
+    "nom": "Ivujivik",
+    "unique_identifier": 99140,
+    "region": "Nord-du-Québec"
+  },
+  "1235": {
+    "uid": 1235,
+    "nom": "Oujé-Bougoumou",
+    "unique_identifier": 99818,
+    "region": null
+  },
+  "1236": {
+    "uid": 1236,
+    "nom": "Rivière-Koksoak",
+    "unique_identifier": 99902,
+    "region": null
+  },
+  "1237": {
+    "uid": 1237,
+    "nom": "Baie-d'Hudson",
+    "unique_identifier": 99904,
+    "region": null
+  },
+  "1244": {
+    "uid": 1244,
+    "nom": "Grand-Mère",
+    "unique_identifier": 0,
+    "region": null
+  },
+  "1245": {
+    "uid": 1245,
+    "nom": "Trois-Rivières-Ouest",
+    "unique_identifier": 0,
+    "region": null
+  },
+  "1250": {
+    "uid": 1250,
+    "nom": "Anjou",
+    "unique_identifier": 0,
+    "region": null
+  },
+  "1251": {
+    "uid": 1251,
+    "nom": "LaSalle",
+    "unique_identifier": 0,
+    "region": null
+  },
+  "1253": {
+    "uid": 1253,
+    "nom": "Chicoutimi",
+    "unique_identifier": 0,
+    "region": null
+  },
+  "1258": {
+    "uid": 1258,
+    "nom": "Saint-Urbain-de-Charlevoix",
+    "unique_identifier": 0,
+    "region": null
+  },
+  "1263": {
+    "uid": 1263,
+    "nom": "Clermont",
+    "unique_identifier": 87110,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1268": {
+    "uid": 1268,
+    "nom": "L'Ange-Gardien",
+    "unique_identifier": 82005,
+    "region": "Outaouais"
+  },
+  "1273": {
+    "uid": 1273,
+    "nom": "Notre-Dame-de-Lourdes",
+    "unique_identifier": 61045,
+    "region": "Lanaudière"
+  },
+  "1278": {
+    "uid": 1278,
+    "nom": "Saint-Augustin",
+    "unique_identifier": 98012,
+    "region": "Côte-Nord"
+  },
+  "1283": {
+    "uid": 1283,
+    "nom": "Saint-Cyprien",
+    "unique_identifier": 28040,
+    "region": "Chaudière-Appalaches"
+  },
+  "1288": {
+    "uid": 1288,
+    "nom": "Saint-Damase",
+    "unique_identifier": 54017,
+    "region": "Montérégie"
+  },
+  "1293": {
+    "uid": 1293,
+    "nom": "Saint-Donat",
+    "unique_identifier": 62060,
+    "region": "Lanaudière"
+  },
+  "1298": {
+    "uid": 1298,
+    "nom": "Sainte-Félicité",
+    "unique_identifier": 17025,
+    "region": "Chaudière-Appalaches"
+  },
+  "1303": {
+    "uid": 1303,
+    "nom": "Sainte-Françoise",
+    "unique_identifier": 38035,
+    "region": "Centre-du-Québec"
+  },
+  "1308": {
+    "uid": 1308,
+    "nom": "Sainte-Jeanne-d'Arc",
+    "unique_identifier": 92015,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1313": {
+    "uid": 1313,
+    "nom": "Saint-Elzéar",
+    "unique_identifier": 26022,
+    "region": "Chaudière-Appalaches"
+  },
+  "1318": {
+    "uid": 1318,
+    "nom": "Sainte-Monique",
+    "unique_identifier": 93075,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1323": {
+    "uid": 1323,
+    "nom": "Sainte-Perpétue",
+    "unique_identifier": 50050,
+    "region": "Centre-du-Québec"
+  },
+  "1328": {
+    "uid": 1328,
+    "nom": "Sainte-Sabine",
+    "unique_identifier": 46105,
+    "region": "Montérégie"
+  },
+  "1333": {
+    "uid": 1333,
+    "nom": "Saint-Isidore",
+    "unique_identifier": 67040,
+    "region": "Montérégie"
+  },
+  "1338": {
+    "uid": 1338,
+    "nom": "Saint-Lambert",
+    "unique_identifier": 87120,
+    "region": "Abitibi-Témiscamingue"
+  },
+  "1343": {
+    "uid": 1343,
+    "nom": "Saint-Léon-le-Grand",
+    "unique_identifier": 51035,
+    "region": "Mauricie"
+  },
+  "1348": {
+    "uid": 1348,
+    "nom": "Saint-Louis-de-Gonzague",
+    "unique_identifier": 70035,
+    "region": "Montérégie"
+  },
+  "1353": {
+    "uid": 1353,
+    "nom": "Saint-Sébastien",
+    "unique_identifier": 56050,
+    "region": "Montérégie"
+  },
+  "1358": {
+    "uid": 1358,
+    "nom": "Saint-Séverin",
+    "unique_identifier": 35020,
+    "region": "Mauricie"
+  },
+  "1363": {
+    "uid": 1363,
+    "nom": "Saint-Siméon",
+    "unique_identifier": 15058,
+    "region": "Capitale Nationale"
+  },
+  "1368": {
+    "uid": 1368,
+    "nom": "Saint-Simon",
+    "unique_identifier": 54090,
+    "region": "Montérégie"
+  },
+  "1373": {
+    "uid": 1373,
+    "nom": "Saint-Stanislas",
+    "unique_identifier": 92070,
+    "region": "Saguenay - Lac-Saint-Jean"
+  },
+  "1376": {
+    "uid": 1376,
+    "nom": "Laverlochère-Angliers",
+    "unique_identifier": 85052,
+    "region": null
+  },
+  "1386": {
+    "uid": 1386,
+    "nom": "Nutashkuan",
+    "unique_identifier": 98806,
+    "region": null
+  },
+  "1400": {
+    "uid": 1400,
+    "nom": "Témiscouata-sur-le-Lac",
+    "unique_identifier": 13073,
+    "region": null
+  },
+  "1429": {
+    "uid": 1429,
+    "nom": "Pierrefonds",
+    "unique_identifier": 0,
+    "region": null
+  },
+  "1431": {
+    "uid": 1431,
+    "nom": "La Baie",
+    "unique_identifier": 0,
+    "region": null
+  },
+  "1434": {
+    "uid": 1434,
+    "nom": "Saint-Anne-de-Beaupré",
+    "unique_identifier": 0,
+    "region": null
+  },
+  "1437": {
+    "uid": 1437,
+    "nom": "Toponyme à venir",
+    "unique_identifier": 99922,
+    "region": null
+  },
+  "1438": {
+    "uid": 1438,
+    "nom": "TNO aquatique de la MRC d'Antoine-Labelle",
+    "unique_identifier": 79992,
+    "region": null
+  },
+  "1439": {
+    "uid": 1439,
+    "nom": "La Morandière-Rochebaucourt",
+    "unique_identifier": 88012,
+    "region": null
+  }
+}
