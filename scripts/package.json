@@ -5,6 +5,9 @@
   "author": "Felix L'Heureux",
   "license": "MIT",
   "main": "src/index.ts",
+  "engines": {
+    "node": ">= 16"
+  },
   "scripts": {
     "start": "tsc && node ./dist/src/index.js",
     "lint": "eslint . --ext .ts",

@@ -141,6 +141,10 @@ const findOutlets = async () => {
           count++;
           console.log(count);
 
+          if (count < 6875) {
+            continue;
+          }
+
           try {
             const response = await axios({
               method: "post",
@@ -155,6 +159,10 @@ const findOutlets = async () => {
               },
               headers: { "Content-Type": "multipart/form-data" },
             });
+
+            if (response.data.markers.length < 1) {
+              continue;
+            }
 
             for (const index in response.data.markers) {
               response.data.markers[index].city_uid = city.uid;
