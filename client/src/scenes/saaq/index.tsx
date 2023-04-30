@@ -2,6 +2,7 @@ import api, { Outlet } from "@/features/api";
 import { Box, Button, Card, CloseButton, Drawer, Flex, Loader, LoadingOverlay, Select, Text } from "@mantine/core";
 import { useDisclosure } from "@mantine/hooks";
 import { Map, Marker, Overlay, ZoomControl } from "pigeon-maps";
+import { osm } from "pigeon-maps/providers";
 import { useState } from "react";
 import { useSearchParams } from "react-router-dom";
 import useSWR from "swr";
@@ -19,8 +20,6 @@ const Saaq = () => {
   const [card_ref, setCardRef] = useState<HTMLDivElement | null>(null!);
   const [opened, { open, close }] = useDisclosure(false);
   const [calendar_loading, setCalendarLoading] = useState(false);
-  const [center, setCenter] = useState<[number, number]>([47.43622, -72.77654]);
-  const [zoom, setZoom] = useState(6);
 
   const { data: categories } = useSWR(api.getCategories.key, api.getCategories.fetcher);
   const { data: outlets } = useSWR(api.getOutlets.key, api.getOutlets.fetcher);
@@ -67,7 +66,7 @@ const Saaq = () => {
     outlets[`${category_uid}`];
 
   return (
-    <Box styles={{ position: "relative", overflow: "hidden" }}>
+    <Box style={{ position: "relative", overflow: "hidden", height: "100vh" }}>
       <Box
         p="xs"
         pt={0}
@@ -113,14 +112,7 @@ const Saaq = () => {
           )}
         </Flex>
       </Box>
-      <Map
-        height={window.innerHeight}
-        center={center}
-        zoom={zoom}
-        onBoundsChanged={({ center, zoom }) => {
-          setCenter(center);
-          setZoom(zoom);
-        }}>
+      <Map provider={osm} defaultCenter={[47.43622, -72.77654]} defaultZoom={6}>
         <ZoomControl style={{ top: 90 }} />
         {markers?.map((m) => (
           <Marker
