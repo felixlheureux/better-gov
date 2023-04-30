@@ -1,6 +1,5 @@
 import api, { Outlet } from "@/features/api";
 import { ActionIcon, Box, Button, Card, Flex, Select, Text } from "@mantine/core";
-import { useForm } from "@mantine/form";
 import { IconX } from "@tabler/icons-react";
 import { Map, Marker, Overlay } from "pigeon-maps";
 import { osm } from "pigeon-maps/providers";
@@ -17,21 +16,13 @@ const Saaq = () => {
   const { data: outlets } = useSWR(api.getOutlets.key, api.getOutlets.fetcher);
   const { data: cities } = useSWR(api.getCities.key, api.getCities.fetcher);
 
-  const form = useForm({
-    initialValues: {
-      category: search_params.get("category") || "",
-      service: search_params.get("service") || "",
-      option: search_params.get("option") || "",
-    },
-  });
-
   if (categories === undefined || outlets === undefined || cities === undefined) {
     return <div>Loading...</div>;
   }
 
-  const category_uid = form.values.category;
-  const service_uid = form.values.service;
-  const option_uid = form.values.option;
+  const category_uid = search_params.get("category") || "";
+  const service_uid = search_params.get("service") || "";
+  const option_uid = search_params.get("option") || "";
   const category = categories?.find((c) => c.uid === parseInt(category_uid));
   const has_services = category?.services && category?.services.length > 0;
   const services = has_services
@@ -61,22 +52,35 @@ const Saaq = () => {
           <Select
             label="Service category"
             placeholder="Select category..."
+            name="category"
+            value={search_params.get("category")}
+            onChange={(v) => setSearchParams(v ? { category: v } : undefined)}
             data={categories.map((c) => ({
               label: c.name,
               value: c.uid.toString(),
             }))}
-            {...form.getInputProps("category")}
           />
           {has_services && (
             <Select
               label="Service"
               placeholder="Select service..."
+              name="service"
+              value={search_params.get("service")}
+              onChange={(v) => setSearchParams(v ? { category: category_uid, service: v } : undefined)}
               data={services}
-              {...form.getInputProps("service")}
             />
           )}
           {has_options && (
-            <Select label="Service" placeholder="Select service..." data={options} {...form.getInputProps("service")} />
+            <Select
+              label="Service"
+              placeholder="Select service..."
+              name="option"
+              value={search_params.get("option")}
+              onChange={(v) =>
+                setSearchParams(v ? { category: category_uid, service: service_uid, options: v } : undefined)
+              }
+              data={options}
+            />
           )}
         </Flex>
       </form>
