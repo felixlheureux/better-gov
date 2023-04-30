@@ -112,7 +112,7 @@ const Saaq = () => {
           )}
         </Flex>
       </Box>
-      <Map provider={osm} defaultCenter={[47.43622, -72.77654]} defaultZoom={6}>
+      <Map provider={osm} defaultCenter={[47.43622, -72.77654]} defaultZoom={6} zoomSnap={false}>
         <ZoomControl style={{ top: 90 }} />
         {markers?.map((m) => (
           <Marker
