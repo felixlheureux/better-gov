@@ -14,7 +14,7 @@ const sendEmail = async (req: NextApiRequest, res: NextApiResponse) => {
       subject: `${req.body.subject}`,
       html: `<div>You've got a mail</div>`,
     });
-  } catch (err) {
+  } catch (err: any) {
     return res.status(err.statusCode || 500).json({ error: err.message });
   }
 

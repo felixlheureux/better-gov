@@ -145,13 +145,13 @@ const Saaq = () => {
           {!outlet?.service_point || errors_to_message[outlet?.service_point] ? (
             <Text align="center">
               <strong>
-                Sorry, this outlet does not support online booking.{" "}
-                {errors_to_message[outlet?.service_point] && `Status: ${errors_to_message[outlet?.service_point]}`}
+                Sorry, this outlet does not support online booking.
+                {outlet?.service_point && `Status: ${errors_to_message[outlet?.service_point]}`}
               </strong>
             </Text>
           ) : (
             <iframe
-              style={{ width: "100%", height: "calc(100vh - 300px)", flexGrow: 1 }}
+              style={{ width: "100%", height: "calc(100vh - 190px)", flexGrow: 1 }}
               src={`https://outlook.office365.com/owa/calendar/${outlet?.service_point}@saaq.onmicrosoft.com/bookings/`}
             />
           )}

@@ -35,16 +35,16 @@ export interface City {
 
 const api = {
   getCategories: {
-    key: "/categories",
+    key: "categories",
     fetcher: (): Promise<Category[]> => fetch(`${base_url}/${api.getCategories.key}`).then((res) => res.json()),
   },
   getOutlets: {
-    key: "/outlets",
+    key: "outlets",
     fetcher: (): Promise<Record<string, Outlet[]>> =>
       fetch(`${base_url}/${api.getOutlets.key}`).then((res) => res.json()),
   },
   getCities: {
-    key: "/cities",
+    key: "cities",
     fetcher: (): Promise<City[]> => fetch(`${base_url}/${api.getCities.key}`).then((res) => res.json()),
   },
 };
