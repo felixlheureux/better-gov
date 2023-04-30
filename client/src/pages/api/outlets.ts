@@ -2,10 +2,6 @@ import { promises as fs } from "fs";
 import { NextApiRequest, NextApiResponse } from "next";
 import path from "path";
 
-export const config = {
-  runtime: "edge",
-};
-
 const handler = async (req: NextApiRequest, res: NextApiResponse) => {
   //Find the absolute path of the json directory
   const directory = path.join(process.cwd(), "/data");
