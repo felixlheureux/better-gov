@@ -6,7 +6,7 @@
     "node": ">= 16"
   },
   "scripts": {
-    "build": "next build . && next export .",
+    "build": "next build .",
     "dev": "next dev .",
     "eslint": "eslint . --ext .js,.jsx,.ts,.tsx --quiet",
     "eslint:fix": "eslint . --ext .js,.jsx,.ts,.tsx --fix --quiet",
