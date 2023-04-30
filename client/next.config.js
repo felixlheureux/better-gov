@@ -1,9 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  experimental: {
-    runtime: "edge",
-  },
+  experimental: { runtime: "edge" },
   async rewrites() {
     return [
       {
