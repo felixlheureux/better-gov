@@ -1,6 +1,6 @@
 import api, { Outlet } from "@/features/api";
-import { ActionIcon, Box, Button, Card, Flex, Select, Text } from "@mantine/core";
-import { IconX } from "@tabler/icons-react";
+import { Box, Button, Card, CloseButton, Drawer, Flex, Select, Text } from "@mantine/core";
+import { useDisclosure } from "@mantine/hooks";
 import { Map, Marker, Overlay } from "pigeon-maps";
 import { osm } from "pigeon-maps/providers";
 import { useState } from "react";
@@ -11,6 +11,7 @@ const Saaq = () => {
   const [outlet, setOutlet] = useState<Outlet | null>(null);
   const [search_params, setSearchParams] = useSearchParams({});
   const [card_ref, setCardRef] = useState<HTMLDivElement | null>(null!);
+  const [opened, { open, close }] = useDisclosure(false);
 
   const { data: categories } = useSWR(api.getCategories.key, api.getCategories.fetcher);
   const { data: outlets } = useSWR(api.getOutlets.key, api.getOutlets.fetcher);
@@ -46,9 +47,16 @@ const Saaq = () => {
     outlets[`${category_uid}`];
 
   return (
-    <Box>
-      <form>
-        <Flex gap="sm" mb="sm">
+    <Box styles={{ position: "relative", overflow: "hidden" }}>
+      <Box
+        p="sm"
+        sx={(theme) => ({
+          position: "absolute",
+          zIndex: 1,
+          backgroundColor: theme.colorScheme === "dark" ? theme.colors.dark[8] : theme.colors.gray[0],
+          borderRadius: `0 0 ${theme.radius.sm} 0`,
+        })}>
+        <Flex gap="sm">
           <Select
             label="Service category"
             placeholder="Select category..."
@@ -72,19 +80,19 @@ const Saaq = () => {
           )}
           {has_options && (
             <Select
-              label="Service"
-              placeholder="Select service..."
+              label="Option"
+              placeholder="Select option..."
               name="option"
               value={search_params.get("option")}
               onChange={(v) =>
-                setSearchParams(v ? { category: category_uid, service: service_uid, options: v } : undefined)
+                setSearchParams(v ? { category: category_uid, service: service_uid, option: v } : undefined)
               }
               data={options}
             />
           )}
         </Flex>
-      </form>
-      <Map provider={osm} height={1200} defaultCenter={[47.43622, -72.77654]} defaultZoom={6}>
+      </Box>
+      <Map provider={osm} height={window.innerHeight} defaultCenter={[47.43622, -72.77654]} defaultZoom={6}>
         {markers?.map((m) => (
           <Marker
             key={m.uid}
@@ -99,29 +107,34 @@ const Saaq = () => {
           <Overlay
             anchor={[parseFloat(outlet.gps_latitude), parseFloat(outlet.gps_longitude)]}
             offset={[(card_ref?.offsetWidth || 0) / 2, (card_ref?.offsetHeight || -32) + 32 || 0]}>
-            <Card ref={setCardRef} shadow="sm" pt={"xs"} px={"xs"} radius="md" withBorder w={248}>
-              <Flex justify="flex-end">
-                <ActionIcon size="sm" onClick={() => setOutlet(null)}>
-                  <IconX size="0.875rem" />
-                </ActionIcon>
+            <Card ref={setCardRef} shadow="sm" pt="xs" pb="sm" px="sm" radius="md" withBorder w={248}>
+              <Flex justify="space-between" mb="xs">
+                <Text size="sm" color="dimmed">
+                  {cities.find((c) => c.uid === outlet?.city_uid)?.nom}
+                </Text>
+                <Flex justify="flex-end">
+                  <CloseButton size="xs" onClick={() => setOutlet(null)} />
+                </Flex>
               </Flex>
-              <Text size="sm" color="dimmed">
-                {cities.find((c) => c.uid === outlet?.city_uid)?.nom}
+              <Text size="sm" mb="sm">
+                {outlet.name}
               </Text>
-              <Text size="sm">{outlet.name}</Text>
-              <Button
-                variant="light"
-                color="blue"
-                fullWidth
-                mt="md"
-                radius="md"
-                onClick={() => window.open("https://saaq.gouv.qc.ca/en/find-service-outlet", "_blank")}>
-                Make an appointment
+              <Button variant="light" fullWidth onClick={open}>
+                Look for next availability
               </Button>
             </Card>
           </Overlay>
         )}
       </Map>
+      <Drawer position="right" opened={opened} onClose={close}>
+        <Text mb="sm">Please book an appointment on the SAAQ website. This app is only for information purposes.</Text>
+        <Button
+          variant="light"
+          fullWidth
+          onClick={() => window.open("https://saaq.gouv.qc.ca/en/find-service-outlet", "_blank")}>
+          Book an appointment
+        </Button>
+      </Drawer>
     </Box>
   );
 };
