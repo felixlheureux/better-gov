@@ -1,4 +1,4 @@
-const base_url = "http://localhost:3000";
+const base_url = process.env.API_BASE_URL;
 
 export interface Option {
   uid: number;
@@ -34,16 +34,16 @@ export interface City {
 
 const api = {
   getCategories: {
-    key: "/api/categories",
+    key: "/categories",
     fetcher: (): Promise<Category[]> => fetch(`${base_url}/${api.getCategories.key}`).then((res) => res.json()),
   },
   getOutlets: {
-    key: "/api/outlets",
+    key: "/outlets",
     fetcher: (): Promise<Record<string, Outlet[]>> =>
       fetch(`${base_url}/${api.getOutlets.key}`).then((res) => res.json()),
   },
   getCities: {
-    key: "/api/cities",
+    key: "/cities",
     fetcher: (): Promise<City[]> => fetch(`${base_url}/${api.getCities.key}`).then((res) => res.json()),
   },
 };
