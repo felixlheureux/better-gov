@@ -1,5 +1,5 @@
 import api, { Outlet } from "@/features/api";
-import { Box, Button, Card, CloseButton, Drawer, Flex, Select, Text } from "@mantine/core";
+import { Box, Button, Card, CloseButton, Drawer, Flex, Loader, LoadingOverlay, Select, Text } from "@mantine/core";
 import { useDisclosure } from "@mantine/hooks";
 import { Map, Marker, Overlay } from "pigeon-maps";
 import { osm } from "pigeon-maps/providers";
@@ -19,13 +19,25 @@ const Saaq = () => {
   const [search_params, setSearchParams] = useSearchParams({});
   const [card_ref, setCardRef] = useState<HTMLDivElement | null>(null!);
   const [opened, { open, close }] = useDisclosure(false);
+  const [calendar_loading, setCalendarLoading] = useState(false);
 
   const { data: categories } = useSWR(api.getCategories.key, api.getCategories.fetcher);
   const { data: outlets } = useSWR(api.getOutlets.key, api.getOutlets.fetcher);
   const { data: cities } = useSWR(api.getCities.key, api.getCities.fetcher);
 
   if (categories === undefined || outlets === undefined || cities === undefined) {
-    return <div>Loading...</div>;
+    return (
+      <div
+        style={{
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+          height: "100vh",
+          width: "100vw",
+        }}>
+        <Loader />
+      </div>
+    );
   }
 
   const category_uid = search_params.get("category") || "";
@@ -56,7 +68,8 @@ const Saaq = () => {
   return (
     <Box styles={{ position: "relative", overflow: "hidden" }}>
       <Box
-        p="sm"
+        p="xs"
+        pt={0}
         sx={(theme) => ({
           position: "absolute",
           zIndex: 1,
@@ -126,7 +139,13 @@ const Saaq = () => {
               <Text size="sm" mb="sm">
                 {outlet.name}
               </Text>
-              <Button variant="light" fullWidth onClick={open}>
+              <Button
+                variant="light"
+                fullWidth
+                onClick={() => {
+                  open();
+                  setCalendarLoading(!!outlet?.service_point || !errors_to_message[outlet?.service_point]);
+                }}>
                 Look for next availability
               </Button>
             </Card>
@@ -150,10 +169,14 @@ const Saaq = () => {
               </strong>
             </Text>
           ) : (
-            <iframe
-              style={{ width: "100%", height: "calc(100vh - 190px)", flexGrow: 1 }}
-              src={`https://outlook.office365.com/owa/calendar/${outlet?.service_point}@saaq.onmicrosoft.com/bookings/`}
-            />
+            <Box pos="relative">
+              <LoadingOverlay visible={calendar_loading} overlayBlur={2} />
+              <iframe
+                onLoad={() => setCalendarLoading(false)}
+                style={{ width: "100%", height: "calc(100vh - 190px)", flexGrow: 1 }}
+                src={`https://outlook.office365.com/owa/calendar/${outlet?.service_point}@saaq.onmicrosoft.com/bookings/`}
+              />
+            </Box>
           )}
         </Flex>
       </Drawer>
