@@ -23,6 +23,7 @@ export interface Outlet {
   gps_latitude: string;
   gps_longitude: string;
   city_uid: number;
+  service_point: string;
 }
 
 export interface City {

@@ -7,6 +7,13 @@ import { useState } from "react";
 import { useSearchParams } from "react-router-dom";
 import useSWR from "swr";
 
+const errors_to_message = {
+  WITHOUT_APPOINTMENT: "Without appointment",
+  TEMPORARILY_CLOSED: "Temporarily closed",
+  INDEFINITLY_CLOSED: "Indefinitly closed",
+  APPPOINTMENT_BY_PHONE: "Appointment by phone",
+};
+
 const Saaq = () => {
   const [outlet, setOutlet] = useState<Outlet | null>(null);
   const [search_params, setSearchParams] = useSearchParams({});
@@ -54,7 +61,7 @@ const Saaq = () => {
           position: "absolute",
           zIndex: 1,
           backgroundColor: theme.colorScheme === "dark" ? theme.colors.dark[8] : theme.colors.gray[0],
-          borderRadius: `0 0 ${theme.radius.sm} 0`,
+          borderRadius: `0 0 ${theme.radius.md} 0`,
         })}>
         <Flex gap="sm">
           <Select
@@ -127,13 +134,28 @@ const Saaq = () => {
         )}
       </Map>
       <Drawer position="right" opened={opened} onClose={close}>
-        <Text mb="sm">Please book an appointment on the SAAQ website. This app is only for information purposes.</Text>
-        <Button
-          variant="light"
-          fullWidth
-          onClick={() => window.open("https://saaq.gouv.qc.ca/en/find-service-outlet", "_blank")}>
-          Book an appointment
-        </Button>
+        <Flex direction="column" gap="md">
+          <Text>Please book an appointment on the SAAQ website. This app is only for information purposes.</Text>
+          <Button
+            variant="light"
+            fullWidth
+            onClick={() => window.open("https://saaq.gouv.qc.ca/en/find-service-outlet", "_blank")}>
+            Book an appointment
+          </Button>
+          {!outlet?.service_point || errors_to_message[outlet?.service_point] ? (
+            <Text align="center">
+              <strong>
+                Sorry, this outlet does not support online booking.{" "}
+                {errors_to_message[outlet?.service_point] && `Status: ${errors_to_message[outlet?.service_point]}`}
+              </strong>
+            </Text>
+          ) : (
+            <iframe
+              style={{ width: "100%", height: "calc(100vh - 300px)", flexGrow: 1 }}
+              src={`https://outlook.office365.com/owa/calendar/${outlet?.service_point}@saaq.onmicrosoft.com/bookings/`}
+            />
+          )}
+        </Flex>
       </Drawer>
     </Box>
   );
