@@ -1,7 +1,7 @@
 import api, { Outlet } from "@/features/api";
 import { Box, Button, Card, CloseButton, Drawer, Flex, Loader, LoadingOverlay, Select, Text } from "@mantine/core";
 import { useDisclosure } from "@mantine/hooks";
-import { Map, Marker, Overlay } from "pigeon-maps";
+import { Map, Marker, Overlay, ZoomControl } from "pigeon-maps";
 import { osm } from "pigeon-maps/providers";
 import { useState } from "react";
 import { useSearchParams } from "react-router-dom";
@@ -113,6 +113,7 @@ const Saaq = () => {
         </Flex>
       </Box>
       <Map provider={osm} height={window.innerHeight} defaultCenter={[47.43622, -72.77654]} defaultZoom={6}>
+        <ZoomControl />
         {markers?.map((m) => (
           <Marker
             key={m.uid}
