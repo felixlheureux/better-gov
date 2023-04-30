@@ -51,12 +51,43 @@ const findOutlets = async () => {
             response.data.markers[index].city_uid = city.uid;
           }
 
-          const renders = response.data.render.split(
-            '<a href="https://saaq.gouv.qc.ca/prise-de-rendez-vous/?point-de-service=',
-          );
+          for (let i = 0; i < response.data.markers.length; i++) {
+            const render_1 = response.data.render.split(`id="pointDeService-${response.data.markers[i].letter}"`)[1];
 
-          for (let i = 1; i < response.data.markers.length + 1; i++) {
-            response.data.markers[i - 1].service_point = renders[i].split('"')[0];
+            const render_2 = render_1.split('id="pointDeService-')[0];
+
+            const render = render_2 || render_1;
+
+            if (render.includes("<strong>without any appointments") || render.includes("<strong>without appointment")) {
+              response.data.markers[i].service_point = "WITHOUT_APPOINTMENT";
+              continue;
+            }
+
+            if (render.includes("The offices of this service outlet are closed for an indefinite period.")) {
+              response.data.markers[i].service_point = "INDEFINITLY_CLOSED";
+              continue;
+            }
+
+            if (render.includes("The offices of this service outlet are closed until")) {
+              response.data.markers[i].service_point = "CLOSED_UNTIL";
+              continue;
+            }
+
+            if (render.includes("To avoid waiting in line, you can make an appointment at")) {
+              response.data.markers[i].service_point = "APPPOINTMENT_BY_PHONE";
+              continue;
+            }
+
+            if (render.includes("https://outlook.office365.com/owa/calendar/")) {
+              response.data.markers[i].service_point = render
+                .split("https://outlook.office365.com/owa/calendar/")[1]
+                .split("@")[0];
+              continue;
+            }
+
+            const service_point = render.split("https://saaq.gouv.qc.ca/prise-de-rendez-vous/?point-de-service=");
+
+            response.data.markers[i].service_point = service_point[1].split('"')[0];
           }
 
           outlets.push(...response.data.markers);
@@ -73,10 +104,12 @@ const findOutlets = async () => {
             path.resolve("./src/data/outlets_by_category.json"),
             JSON.stringify(outlets_by_category, null, 2),
           );
-        } catch {
+        } catch (err) {
+          console.log(err);
           log({
             city_uid: city.uid,
             category_uid: category.uid,
+            err,
           });
         }
       }
@@ -112,12 +145,46 @@ const findOutlets = async () => {
               response.data.markers[index].city_uid = city.uid;
             }
 
-            const renders = response.data.render.split(
-              '<a href="https://saaq.gouv.qc.ca/prise-de-rendez-vous/?point-de-service=',
-            );
+            for (let i = 0; i < response.data.markers.length; i++) {
+              const render_1 = response.data.render.split(`id="pointDeService-${response.data.markers[i].letter}"`)[1];
 
-            for (let i = 1; i < response.data.markers.length + 1; i++) {
-              response.data.markers[i - 1].service_point = renders[i].split('"')[0];
+              const render_2 = render_1.split('id="pointDeService-')[0];
+
+              const render = render_2 || render_1;
+
+              if (
+                render.includes("<strong>without any appointments") ||
+                render.includes("<strong>without appointment")
+              ) {
+                response.data.markers[i].service_point = "WITHOUT_APPOINTMENT";
+                continue;
+              }
+
+              if (render.includes("The offices of this service outlet are closed for an indefinite period.")) {
+                response.data.markers[i].service_point = "INDEFINITLY_CLOSED";
+                continue;
+              }
+
+              if (render.includes("The offices of this service outlet are closed until")) {
+                response.data.markers[i].service_point = "CLOSED_UNTIL";
+                continue;
+              }
+
+              if (render.includes("To avoid waiting in line, you can make an appointment at")) {
+                response.data.markers[i].service_point = "APPPOINTMENT_BY_PHONE";
+                continue;
+              }
+
+              if (render.includes("https://outlook.office365.com/owa/calendar/")) {
+                response.data.markers[i].service_point = render
+                  .split("https://outlook.office365.com/owa/calendar/")[1]
+                  .split("@")[0];
+                continue;
+              }
+
+              const service_point = render.split("https://saaq.gouv.qc.ca/prise-de-rendez-vous/?point-de-service=");
+
+              response.data.markers[i].service_point = service_point[1].split('"')[0];
             }
 
             outlets.push(...response.data.markers);
@@ -136,11 +203,13 @@ const findOutlets = async () => {
               path.resolve("./src/data/outlets_by_category.json"),
               JSON.stringify(outlets_by_category, null, 2),
             );
-          } catch {
+          } catch (err) {
+            console.log(err);
             log({
               city_uid: city.uid,
               category_uid: category.uid,
-              sub_uid: service.uid,
+              service_uid: service.uid,
+              err,
             });
           }
         }
@@ -152,10 +221,6 @@ const findOutlets = async () => {
 
           count++;
           console.log(count);
-
-          if (count < 6875) {
-            continue;
-          }
 
           try {
             const response = await axios({
@@ -180,12 +245,46 @@ const findOutlets = async () => {
               response.data.markers[index].city_uid = city.uid;
             }
 
-            const renders = response.data.render.split(
-              '<a href="https://saaq.gouv.qc.ca/prise-de-rendez-vous/?point-de-service=',
-            );
+            for (let i = 0; i < response.data.markers.length; i++) {
+              const render_1 = response.data.render.split(`id="pointDeService-${response.data.markers[i].letter}"`)[1];
 
-            for (let i = 1; i < response.data.markers.length + 1; i++) {
-              response.data.markers[i - 1].service_point = renders[i].split('"')[0];
+              const render_2 = render_1.split('id="pointDeService-')[0];
+
+              const render = render_2 || render_1;
+
+              if (
+                render.includes("<strong>without any appointments") ||
+                render.includes("<strong>without appointment")
+              ) {
+                response.data.markers[i].service_point = "WITHOUT_APPOINTMENT";
+                continue;
+              }
+
+              if (render.includes("The offices of this service outlet are closed for an indefinite period.")) {
+                response.data.markers[i].service_point = "INDEFINITLY_CLOSED";
+                continue;
+              }
+
+              if (render.includes("The offices of this service outlet are closed until")) {
+                response.data.markers[i].service_point = "TEMPORARILY_CLOSED";
+                continue;
+              }
+
+              if (render.includes("To avoid waiting in line, you can make an appointment at")) {
+                response.data.markers[i].service_point = "APPPOINTMENT_BY_PHONE";
+                continue;
+              }
+
+              if (render.includes("https://outlook.office365.com/owa/calendar/")) {
+                response.data.markers[i].service_point = render
+                  .split("https://outlook.office365.com/owa/calendar/")[1]
+                  .split("@")[0];
+                continue;
+              }
+
+              const service_point = render.split("https://saaq.gouv.qc.ca/prise-de-rendez-vous/?point-de-service=");
+
+              response.data.markers[i].service_point = service_point[1].split('"')[0];
             }
 
             outlets.push(...response.data.markers);
@@ -204,12 +303,14 @@ const findOutlets = async () => {
               path.resolve("./src/data/outlets_by_category.json"),
               JSON.stringify(outlets_by_category, null, 2),
             );
-          } catch {
+          } catch (err) {
+            console.log(err);
             log({
               city_uid: city.uid,
               category_uid: category.uid,
               service_uid: service.uid,
               option_uid: option.uid,
+              err,
             });
           }
         }

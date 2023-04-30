@@ -1,6 +1,10 @@
 import sendgrid from "@sendgrid/mail";
 import { NextApiRequest, NextApiResponse } from "next";
 
+export const config = {
+  runtime: "edge",
+};
+
 const API_KEY = process.env.SENDGRID_API_KEY || "";
 const CONTACT_EMAIL = process.env.CONTACT_EMAIL || "";
 
