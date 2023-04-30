@@ -1,13 +1,16 @@
 import sendgrid from "@sendgrid/mail";
 import { NextApiRequest, NextApiResponse } from "next";
 
-sendgrid.setApiKey(process.env.SENDGRID_API_KEY || "");
+const API_KEY = process.env.SENDGRID_API_KEY || "";
+const CONTACT_EMAIL = process.env.CONTACT_EMAIL || "";
+
+sendgrid.setApiKey(API_KEY);
 
 const sendEmail = async (req: NextApiRequest, res: NextApiResponse) => {
   try {
     await sendgrid.send({
-      to: "felixslheureux@gmail.com",
-      from: "felixslheureux@gmail.com",
+      to: CONTACT_EMAIL,
+      from: CONTACT_EMAIL,
       subject: `${req.body.subject}`,
       html: `<div>You've got a mail</div>`,
     });

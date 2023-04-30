@@ -1,8 +1,8 @@
 import axios from "axios";
 import * as fs from "fs";
 import * as path from "path";
+import cities from "../data/cities_with_outlets.json";
 import categories from "../data/parsed_categories.json";
-import cities from "../data/parsed_cities.json";
 
 const ENDPOINT =
   "https://saaq.gouv.qc.ca/en/find-service-outlet?tx_lbopointsdeservice_eid%5Baction%5D=getPointsDeService&tx_lbopointsdeservice_eid%5Bcontroller%5D=EId&type=1600174700&cHash=079b65ba53fd59edb59cbc7931f9b55f";
@@ -23,7 +23,7 @@ const findOutlets = async () => {
   for (const category of categories) {
     const services = category.services;
 
-    if (services.length < 1 && false) {
+    if (services.length < 1) {
       for (const city of Object.values(cities)) {
         const outlets: any[] = [];
 
@@ -83,7 +83,7 @@ const findOutlets = async () => {
     }
 
     for (const service of services) {
-      if (service.options.length < 1 && false) {
+      if (service.options.length < 1) {
         for (const city of cities) {
           const outlets: any[] = [];
 
@@ -104,8 +104,20 @@ const findOutlets = async () => {
               headers: { "Content-Type": "multipart/form-data" },
             });
 
+            if (response.data.markers.length < 1) {
+              continue;
+            }
+
             for (const index in response.data.markers) {
               response.data.markers[index].city_uid = city.uid;
+            }
+
+            const renders = response.data.render.split(
+              '<a href="https://saaq.gouv.qc.ca/prise-de-rendez-vous/?point-de-service=',
+            );
+
+            for (let i = 1; i < response.data.markers.length + 1; i++) {
+              response.data.markers[i - 1].service_point = renders[i].split('"')[0];
             }
 
             outlets.push(...response.data.markers);
@@ -166,6 +178,14 @@ const findOutlets = async () => {
 
             for (const index in response.data.markers) {
               response.data.markers[index].city_uid = city.uid;
+            }
+
+            const renders = response.data.render.split(
+              '<a href="https://saaq.gouv.qc.ca/prise-de-rendez-vous/?point-de-service=',
+            );
+
+            for (let i = 1; i < response.data.markers.length + 1; i++) {
+              response.data.markers[i - 1].service_point = renders[i].split('"')[0];
             }
 
             outlets.push(...response.data.markers);

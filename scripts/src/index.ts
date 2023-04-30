@@ -1,3 +1,3 @@
-import findOutlets from "./scripts/findOutlets";
+import findCitiesWithOutlets from "./scripts/findCitiesWithOutlets";
 
-findOutlets();
+findCitiesWithOutlets();
