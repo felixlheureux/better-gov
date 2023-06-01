@@ -1,4 +1,4 @@
-# Appointment Taking App Replacement
+# SAAQ Appointment Taking App Replacement
 
 This project aims to replace a governmental appointment-taking app with a more secure and efficient solution. The app is built using React, Typescript, Mantine React, and Pigeon Map.
 
