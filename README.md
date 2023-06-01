@@ -1,6 +1,6 @@
 # SAAQ Appointment Taking App Replacement
 
-[Demo](https://better-gov.vercel.app/)
+[Demo](https://better-gov.vercel.app/){:target="_blank"}
 
 This project aims to replace a governmental appointment-taking app with a more secure and efficient solution. The app is built using React, Typescript, Mantine React, and Pigeon Map.
 
